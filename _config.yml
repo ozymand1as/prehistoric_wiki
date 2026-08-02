@@ -3,20 +3,14 @@
 # Site metadata
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies from the Stone Age through the Bronze Age
-baseurl: "/primitive_tech_wiki"
-url: "https://ozymand1as.github.io/primitive_tech_wiki"
 
 # Build settings
 markdown: kramdown
 kramdown:
   input: GFM
-  output: extended
   hard_wrap: false
   wrap: hard
   auto_ids: true
-
-# Theme configuration
-theme: jekyll-theme-slate
 
 # Exclude files
 exclude:
@@ -26,9 +20,9 @@ exclude:
   - .pi
   - .prototools
   - state.md
-  - _config.yml
   - .DS_Store
-  - README.md
+  - docs/
+  - wiki-org/
 
 # Collection settings
 collections:
