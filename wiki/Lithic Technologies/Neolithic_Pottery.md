@@ -3,7 +3,7 @@
 ---
 **Period:** Neolithic
 **Region(s):** Fertile Crescent, Yangtze River Valley, Mesoamerica
-**Culture(s:** Early Neolithic, Pottery Neolithic
+**Culture(s):**** Early Neolithic, Pottery Neolithic
 **Time Range:** 12,000 BCE to 2,000 BCE
 **Confidence:** High
 **Evidence Type:** Material
@@ -62,4 +62,4 @@ Neolithic pottery represents a revolutionary technological development in human 
 - [[Open Questions]/[Agriculture]]
 
 ---
-**Tags:** `neolithic`, `stone-age`, `fertile-crescent`, `europe`, `tool`, `food`, `material`, `construction`
+**Tags:** `period/neolithic, period/stone-age, region/mediterranean, region/europe, function/tool, function/food, evidence/material, function/construction`

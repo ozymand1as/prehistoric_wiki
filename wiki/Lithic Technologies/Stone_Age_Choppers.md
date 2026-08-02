@@ -60,4 +60,4 @@ Stone Age choppers are simple hand axes and chopping tools made from flaked ston
 - [[Open Questions]/[Choppers]]
 
 ---
-**Tags:** `stone-age`, `paleolithic`, `europe`, `africa`, `asia`, `tool`, `weapon`, `material`, `ethnographic`
+**Tags:** `period/stone-age, region/europe, region/africa, region/asia, function/tool, function/weapon, evidence/material, evidence/ethnographic`

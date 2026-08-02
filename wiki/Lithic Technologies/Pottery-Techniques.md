@@ -6,7 +6,7 @@
 **Culture(s):** Neolithic cultures worldwide
 **Time Range:** 29,000 BCE – Present
 **Confidence:** High
-**Evidence Type:** Material, Archaeological
+**Evidence Type:** Material
 
 ## Overview
 Pottery is the process and products of forming vessels and other objects with clay and other raw materials, which are fired at high temperatures to give them a hard and durable form. Pottery is one of the oldest human inventions, originating before the Neolithic period, with ceramic objects such as the Gravettian Venus of Dolní Věstonice figurine discovered in the Czech Republic dating back to 29,000–25,000 BC. However, the earliest known pottery vessels were discovered in Jiangxi, China, which date back to 18,000 BC. Other early Neolithic and pre-Neolithic pottery artifacts have been found in Jōmon Japan (10,500 BC), the Russian Far East (14,000 BC), Sub-Saharan Africa (9,400 BC), South America (9,000s–7,000s BC), and the Middle East (7,000s–6,000s BC).
@@ -178,4 +178,4 @@ Specific materials added to clay for stability:
 - How early experimental pottery was used and its functional significance is unclear
 
 ---
-**Tags:** `stone-age`, `neolithic`, `tool`, `construction`, `europe`, `asia`, `africa`, `evidence/material`, `evidence/archaeological`
+**Tags:** `period/stone-age, period/neolithic, function/tool, function/construction, region/europe, region/asia, region/africa, evidence/material`

@@ -6,7 +6,7 @@
 **Culture(s):** Olmec, Zapotec, Maya, Aztec, Toltec, Mixtec, Epi-Olmec
 **Time Range:** 10,000 BCE – 1521 CE
 **Confidence:** High
-**Evidence Type:** Material, Ethnographic, Written
+**Evidence Type:** Material
 
 ## Overview
 Mesoamerica was a primary center for the independent origin of agriculture and complex civilization development. The region evolved from early stone-tool reliance (Paleo-Indian period) to sophisticated material sciences including pottery, weaving, metallurgy, and complex agricultural systems. The Mesoamerican technological tradition is characterized by independent development of key technologies, distinctive material cultures, and complex social organization.
@@ -156,4 +156,4 @@ Many great nations of Classic Era collapsed, though some continued:
 - Classic Maya collapse causes remain debated
 
 ---
-**Tags:** `stone-age`, `neolithic`, `tool`, `agriculture`, `pottery`, `metallurgy`, `americas`, `south-america`, `mexico`, `evidence/material`, `evidence/ethnographic`
+**Tags:** `period/stone-age, period/neolithic, function/tool, agriculture, function/metallurgy, region/americas, mexico, evidence/material, evidence/ethnographic`
