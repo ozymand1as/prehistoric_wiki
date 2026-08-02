@@ -1,0 +1,28 @@
+# Primitive Tech Wiki - Git Ignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+
+# PI agent files
+.pi/
+.prototools
+
+# Configuration
+.github/
+
+# Build artifacts
+*.swp
+*.swo
+
+# State and temporary files
+state.md
+
+# Documentation
+docs/
+
+# Wiki content
+wiki/
