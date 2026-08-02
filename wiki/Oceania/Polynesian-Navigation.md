@@ -6,7 +6,7 @@
 **Culture(s):** Polynesians, Lapitans, Austronesian speakers
 **Time Range:** 3000 BCE – Present
 **Confidence:** High
-**Evidence Type:** Ethnographic, Archaeological, Oral Tradition
+**Evidence Type:** Ethnographic
 
 ## Overview
 Polynesian navigation (Polynesian wayfinding) was used for thousands of years to enable long voyages across thousands of kilometres of the open Pacific Ocean. Polynesians made contact with nearly every island within the vast Polynesian Triangle, using outrigger canoes or double-hulled canoes. Navigators used wayfinding techniques such as navigation by the stars, observations of birds, ocean swells, and wind patterns, relying on a large body of knowledge from oral tradition. This island-hopping was a solution to the scarcity of useful resources on the small islands in the Pacific Ocean.
@@ -154,4 +154,4 @@ There is currently no evidence of historic Polynesian navigators using navigatio
 - Some oral traditions have limited archaeological corroboration
 
 ---
-**Tags:** `stone-age`, `neolithic`, `navigation`, `ethnographic`, `oceania`, `evidence/material`, `evidence/ethnographic`, `evidence/oral-tradition`
+**Tags:** `period/stone-age, period/neolithic, function/transport, evidence/ethnographic, region/oceania, evidence/material`

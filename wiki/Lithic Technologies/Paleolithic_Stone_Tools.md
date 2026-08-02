@@ -3,7 +3,7 @@
 ---
 **Period:** Paleolithic (Lower, Middle, Upper)
 **Region(s):** Global
-**Culture(s:** Oldowan, Acheulean, Mousterian, Magdalenian
+**Culture(s):**** Oldowan, Acheulean, Mousterian, Magdalenian
 **Time Range:** 3.3 million years ago to 12,000 BCE
 **Confidence:** High
 **Evidence Type:** Material
@@ -61,4 +61,4 @@ Paleolithic stone tools represent the earliest technological innovations in huma
 - [[Open Questions]/[Choppers]]
 
 ---
-**Tags:** `stone-age`, `paleolithic`, `europe`, `africa`, `asia`, `tool`, `material`, `ethnographic`
+**Tags:** `period/stone-age, region/europe, region/africa, region/asia, function/tool, evidence/material, evidence/ethnographic`

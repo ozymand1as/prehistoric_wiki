@@ -3,10 +3,10 @@
 ---
 **Period:** Neolithic Revolution (12,000 BCE – 6,000 BCE)
 **Region(s):** Near East, China, New World Tropics, Southwest Asia
-**Culture(s:** Neolithic cultures worldwide)
+**Culture(s):**** Neolithic cultures worldwide)
 **Time Range:** 12,000 BCE – 6,000 BCE
 **Confidence:** High
-**Evidence Type:** Material, Archaeological, Written
+**Evidence Type:** Material
 
 ## Overview
 The Neolithic Revolution (or First Agricultural Revolution) marked a global transition from nomadic hunter-gatherer lifestyles to sedentary agricultural societies. This shift coincided with the end of the Pleistocene epoch (the last ice age) and the beginning of the Holocene. Archaeological data indicate that the food-producing domestication of some types of wild animals and plants happened independently in separate locations worldwide, starting in Mesopotamia after the end of the last Ice Age, around 11,700 years ago.
@@ -265,4 +265,4 @@ Need to plan and coordinate agricultural communities' food production, manpower,
 - Whether introduction of agriculture by already existing political organisation was necessary or not
 
 ---
-**Tags:** `neolithic`, `agriculture`, `food`, `europe`, `asia`, `africa`, `americas`, `evidence/archaeological`, `evidence/written`
+**Tags:** `period/neolithic, agriculture, function/food, region/europe, region/asia, region/africa, region/americas, evidence/material, evidence/written`

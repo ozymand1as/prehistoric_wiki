@@ -6,7 +6,7 @@
 **Culture(s:** Melanesians, Austronesian peoples, Polynesian navigators
 **Time Range:** 50,000 years ago to contact (varies by region)
 **Confidence:** Medium
-**Evidence Type:** Ethnographic, Inferred
+**Evidence Type:** Ethnographic
 
 ## Overview
 Oceania technologies represent the technological development of indigenous peoples in the Pacific Islands, spanning from early settlement to complex maritime cultures. These technologies included advanced navigation, boat building, knotting, and astronomical observation. Ethnographic records highlight intergenerational teaching, oral histories, and adaptive survival strategies in remote environments.
@@ -60,4 +60,4 @@ Oceania technologies represent the technological development of indigenous peopl
 - [[Open Questions]/[Polynesian-Navigation]]
 
 ---
-**Tags:** `oceania`, `melanesia`, `polynesia`, `australia`, `tool`, `transport`, `navigation`, `material`
+**Tags:** `region/oceania, function/tool, function/transport, evidence/material`

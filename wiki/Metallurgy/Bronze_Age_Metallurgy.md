@@ -67,4 +67,4 @@ Bronze Age metallurgy represents a fundamental technological revolution in human
 - [[Open Questions]/[Bronze-Age-Archaology]]
 
 ---
-**Tags:** `bronze-age`, `mesopotamia`, `egypt`, `china`, `europe`, `tool`, `weapon`, `material`, `smelting`, `casting`
+**Tags:** `period/bronze-age, region/mesopotamia, egypt, china, region/europe, function/tool, function/weapon, evidence/material, function/metallurgy`
