@@ -7,9 +7,8 @@ Thumbs.db
 # Git
 .git/
 
-# PI agent files
-.pi/
-.prototools
+# PI agent files (partial)
+.pi/config*
 
 # Build artifacts
 *.swp

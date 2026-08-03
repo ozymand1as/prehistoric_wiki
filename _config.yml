@@ -1,21 +1,34 @@
-# Primitive Tech Wiki - GitHub Pages Configuration
+# Jekyll Configuration for Primitive Tech Wiki
 
-# Simple site configuration - GitHub Pages will render markdown directly
 title: Primitive Tech Wiki
-description: A knowledge base documenting prehistoric and early historical technologies from the Stone Age through the Bronze Age
+description: A knowledge base documenting prehistoric and early historical technologies
 
-# Exclude files from the build
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Default layout settings
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: null
+
+# Exclude from build
 exclude:
-  - .DS_Store
   - .git
-  - .gitignore
-  - .pi
-  - .prototools
+  - .github/
+  - Gemfile*
   - state.md
   - docs/
-  - wiki-org/
-  - Gemfile*
-  - gemfiles/
-  - vendor/
-  - _config.yml
-  - .github/
+  - README.md
+
+# Enable collections
+collections:
+  wiki:
+    output: true
+    permalink: /:collection/:path/
+
+# Source wiki directory as collection
+watch:
+  - wiki

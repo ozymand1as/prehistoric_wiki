@@ -1,12 +1,19 @@
 # [Category]/[Technology]
 
 ---
-**Period:** [Period]
-**Region(s):** [Region(s)]
-**Culture(s):** [Culture(s)]
-**Time Range:** [Range]
-**Confidence:** [High/Medium/Low/Speculative]
-**Evidence Type:** [Material/Ethnographic/Written/Inferred]
+title: "[Technology Name]"
+category: "[Category]"
+period: "[Period]"
+region: "[Region(s)]"
+culture: "[Culture(s)]"
+time_range: "[Range]"
+confidence: "high"
+evidence_type: "material"
+tags:
+  - "period/[period]"
+  - "region/[region]"
+  - "function/[function]"
+---
 
 ## Overview
 [Brief 2-3 sentence summary of what this technology is and its significance]
@@ -16,7 +23,7 @@
 
 ## Function & Use
 - **Primary Use:** [Main function]
-- **Secondary Uses:** [Other applications]
+- **Secondary Uses:** [Other applications]  
 - **Cultural Significance:** [Role in society, rituals, status]
 
 ## Construction & Technique
@@ -29,16 +36,13 @@
 ## Related Technologies
 - [[Category]/[Related1]]
 - [[Category]/[Related2]]
-- [[Category]/[Related3]]
 
 ## Sources
 1. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
-2. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
 
 ## Uncertainties & Research Questions
 - [Question 1]
-- [Question 2]
-- [[Open Questions]/[Technology-Name-Open-Questions]]
+- [[Open Questions]/[Technology-Name-Open-Questions]
 
 ---
-**Tags:** `tag1`, `tag2`, `tag3`, `period/stone-age`, `region/europe`, `function/tool`
+**Tags:** `tag1`, `tag2`
