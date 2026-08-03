@@ -23,12 +23,5 @@ exclude:
   - docs/
   - README.md
 
-# Enable collections
-collections:
-  wiki:
-    output: true
-    permalink: /:collection/:path/
-
-# Source wiki directory as collection
 watch:
   - wiki
