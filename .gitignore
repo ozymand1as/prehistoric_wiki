@@ -11,18 +11,20 @@ Thumbs.db
 .pi/
 .prototools
 
-# Configuration
-.github/
-
 # Build artifacts
 *.swp
 *.swo
 
-# State and temporary files
+# State and temporary files (keep these untracked)
 state.md
 
-# Documentation
-docs/
+# Jekyll build artifacts
+_site/
+.sass-cache/
+.gulp/
+*.css.map
+npm-debug.log*
 
-# Wiki content
-wiki/
+# Exclude but track subdirectories
+# wiki content is tracked
+# docs content is tracked

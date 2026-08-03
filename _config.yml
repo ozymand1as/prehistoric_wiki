@@ -1,10 +1,8 @@
 # Primitive Tech Wiki - GitHub Pages Configuration
 
-# Site metadata
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies from the Stone Age through the Bronze Age
 
-# Build settings
 markdown: kramdown
 kramdown:
   input: GFM
@@ -12,7 +10,6 @@ kramdown:
   wrap: hard
   auto_ids: true
 
-# Exclude files
 exclude:
   - .DS_Store
   - .git
@@ -20,12 +17,18 @@ exclude:
   - .pi
   - .prototools
   - state.md
-  - .DS_Store
   - docs/
   - wiki-org/
+  - Gemfile*
+  - gemfiles/
+  - vendor/
 
-# Collection settings
-collections:
-  wiki:
-    output: true
-    permalink: /:collection/:path/
+defaults:
+  - scope:
+      path: wiki
+    values:
+      layout: null
+      bare: true
+
+highlighter: rouge
+theme: minima

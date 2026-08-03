@@ -32,15 +32,47 @@ Specific chronology of the discovery and settlement of specific island groups wi
 - **Easter Island:** Natives likely originated from Mangareva, discovered using flight path of the sooty tern
 - **Subantarctic:** Radiocarbon dating evidence of Polynesian visits by 1500; Chatham Island waka dated to 1440–1470; Enderby Island settlement dated to 13th Century
 
+### Cosmology and Navigation Knowledge
+- Navigation pathways resemble an octopus: head centered on Ra'iātea (French Polynesia), tentacles spread across the Pacific
+- Octopus known by names: Taumata-Fe'e-Fa'atupu-Hau (Grand Octopus of Prosperity), Tumu-Ra'i-Fenua (Beginning-of-Heaven-and-Earth), Te Wheke-a-Muturangi (The Octopus of Muturangi)
+- Each island maintained a guild of navigators with very high status
+- Tupaia (navigator on Cook's first voyage) drew a chart of 130 islands within 3,200 km of Ra'iatea; navigated from Ra'iatea to 13 islands; his grandfather/father passed knowledge of major western Polynesian islands
+
+### Re-creation Voyages
+- David Lewis (1960s)
+- Ben Finney / Nalehia (1973)
+- Hōkūleʻa (1978 capsizing, Eddie Aikau)
+- Nainoa Thompson's modern Hawaiian wayfinding system (1980)
+- Mālama Honua (2013)
+
+### Pre-Columbian Americas Contact
+- Sweet potato evidence (radiocarbon-dated to 1000 CE in Cook Islands)
+- Chicken bone DNA evidence
+- Chumash/Tongva sewn-plank canoe parallels
+
+### Post-Colonial Research History
+- Andrew Sharp's skeptical vs. romantic views, the debate
+
 ## Function & Use
 
+- **Primary Use:** Long-distance oceanic voyaging and island-hopping across the Pacific
+- **Secondary Uses:** Trade between islands, migration and settlement, resource acquisition, cultural exchange
+- **Cultural Significance:** Navigators held high status in Polynesian society; wayfinding knowledge and canoe construction were kept as guild secrets; navigation knowledge was integral to the survival and expansion of Polynesian culture
+
 ### Canoe Construction
-- **Outrigger canoes:** Two large hulls, equal in length, lashed side by side
-- **Double-hulled canoes:** Space between paralleled canoes allowed for storage of food, hunting materials, and nets
-- **Waka (canoe):** Used in New Zealand and surrounding regions
+- **Outrigger canoes:** Single hull with lateral support float
+- **Double-hulled canoes (wa'a kaulua):** Two large hulls, equal length, lashed side by side; space between allowed storage of food, hunting materials, nets
+- **Waka (canoe):** New Zealand Māori vessels, including Waka hourua (double-hulled), Waka taua (war canoe), Waka tīwai (river canoe)
+- **Vaka:** Cook Islands/Samoa sailing canoes
+- **Va'a:** Samoan racing canoes
+- **Proa/Wa:** Caroline Islands vessels
+- **Sakman (Flying proa):** Northern Marianas
+- **Drua:** Fijian double-hulled canoe
+- **Construction methods:** Both wayfinding techniques and outrigger construction kept as guild secrets
+- **Lashed-lug and sewn-plank construction techniques**
 
 ### Navigation Techniques
-Polynesian navigation relies heavily on constant observation and memorization. Navigators memorized where they had sailed from to know where they were.
+Polynesian navigation relies heavily on constant observation and memorization. Navigators memorized everywhere they had sailed from to know where they were.
 
 **Primary Navigation Methods:**
 - **Sun:** Main guide for navigators (following exact points as it rose and set)
@@ -51,34 +83,38 @@ Polynesian navigation relies heavily on constant observation and memorization. N
 - **Air and Sea Interference Patterns:** Caused by islands and atolls
 - **Weather:** Wind patterns and weather observations
 
+**Wayfinding Without Instruments:**
+- Through constant observation, navigators detected changes in canoe speed, heading, and time of day/night
+- When no stars were visible (cloudy nights or daylight), winds and swells served as guides
+- Other natural indicators: bioluminescence (indicating island direction), air/sea interference patterns from islands and atolls, wind patterns, weather
+- Knowledge passed orally, often in song form, from master to apprentice
+
 ### Navigation by the Stars
 The positions of stars helped guide Polynesian voyages:
-- Stars hold fixed celestial positions year-round, changing only rising time with seasons
-- Each star has a specific declination, giving a bearing as it rises or sets
-- Voyagers set a heading by a star near the horizon, switching to a new one once the first rose too high
-- Specific sequence of stars memorized for each route
-- Measurements of stellar elevation used to determine latitude
-- "Sailing down the latitude" technique: navigated by stars through knowledge of when particular stars would pass over the destination island
+- Stars hold fixed celestial positions year-round, each with a specific declination giving a bearing as it rises or sets
+- Navigators set a heading by a star near the horizon, switching to a new one once the first rose too high
+- A specific sequence of stars was memorized for each route
+- Stellar elevation measurements used to determine latitude
+- "Sailing down the latitude" technique: navigated by knowing when particular stars would pass over the destination island
 - Star compass systems specify as many as 150 stars with known bearings (most have a few dozen)
 
 ### Navigation by Ocean Swells
 - Swells move in a straight direction, making it easier to determine correct canoe heading
-- Navigators relied on swells to carry their canoe in a straight line from one house (or point) on the star compass to the opposite house
+- Navigators relied on swells to carry their canoe in a straight line from one "house" on the star compass to the opposite house
+- Swell patterns are more reliable than waves, which are determined by local winds
 - Navigators learned the effect various islands had on swell shape, direction, and motion
+- "Canoe-days" used to measure sailing time between islands
 - Even in unfamiliar chains of islands, they could detect signs similar to their home
-- Swell patterns are a much more reliable method of navigation than waves
 
 ### Clouds and Sky Observations
-- Polynesian navigators identified clouds from white sand of coral atolls reflecting heat into the sky
-- Subtle differences in sky color recognized as resulting from lagoons or shallow waters
-- Deep water was a poor reflector of light, while lagoons and shallow waters were identified by their lighter reflection
-- **Te lapa:** Burst of light in a straight line occurring on or just below the water surface, originating from islands
-- Used to reorient themselves out at sea or find new islands
+- Clouds from white sand of coral atolls reflecting heat into the sky were identifiable
+- Subtle color differences in the sky indicated lagoons or shallow waters (deep water = poor reflector)
+- **Te lapa:** A burst of light in a straight line on or just below the water surface, originating from islands; used to reorient out at sea or find new islands; documented by David Lewis and Marianne George; published in *Time and Mind* (2011)
+- Eastern Polynesian navigators sailing Tahiti to Tuamotus used the faint green reflection of Anaa atoll's lagoon on clouds to correct course
 
 ### Bird Navigation
-- **Shore-sighting birds:** Theory that voyagers took frigatebirds with them
-- Frigatebird's feathers become drenched and useless if it lands on water
-- Voyagers would release it when they thought they were close to land, and would follow it if it did not return to the canoe
+- **Shore-sighting birds:** White tern and noddy tern fly out to sea in the morning, return at night — navigators sailed opposite the birds' path in the morning, with them at night
+- **Frigatebird theory:** Feathers become drenched if they land on water, so voyagers released them when close to land and followed if they didn't return
 - **Bird migrations:** Long-distance voyaging followed seasonal paths of bird migrations
 - **Voyage routes:** Tahiti to New Zealand followed long-tailed cuckoo migration; Tahiti to Hawaii coincided with Pacific golden plover and bristle-thighed curlew tracks
 
@@ -92,8 +128,8 @@ There is currently no evidence of historic Polynesian navigators using navigatio
 ### Star Compass
 - **Star compass:** System specifying bearings of selected stars
 - Mau Piailug's star compass taught in the Caroline Islands with shells on sand
-- Development of sidereal compasses hypothesized to have developed from an ancient pelorus instrument
-- For navigators near the equator, celestial navigation is simplified as the whole celestial sphere is exposed
+- Sidereal compass development hypothesized to have derived from an ancient pelorus instrument
+- For equatorial navigators, celestial navigation is simplified as the whole celestial sphere is exposed
 
 ### Oral Tradition Transmission
 - Wayfinding techniques and outrigger canoe construction methods kept as guild secrets
@@ -136,6 +172,12 @@ There is currently no evidence of historic Polynesian navigators using navigatio
 - Oral history describes Ui-te-Rangiora leading a fleet of Waka Tīwai south around year 650
 - Reached "a place of bitter cold where rock-like structures rose from a solid sea"
 
+## Related Technologies
+- [[Oceania/Polynesian-Navigation]]
+- [[TRANSPORTATION/Polynesian-Navigation]]
+- [[LITHIC-TECHNOLOGIES]]
+- [[CONSTRUCTION]]
+
 ## Sources
 1. Wikipedia. "Polynesian navigation." *Wikipedia*, en.wikipedia.org.
 2. Wikipedia. "Austronesian languages." *Wikipedia*, en.wikipedia.org.
@@ -145,6 +187,11 @@ There is currently no evidence of historic Polynesian navigators using navigatio
 6. Wikipedia. "Mau Piailug." *Wikipedia*, en.wikipedia.org.
 7. Wikipedia. "Chatham Island waka." *Wikipedia*, en.wikipedia.org.
 8. Wikipedia. "Easter Island." *Wikipedia*, en.wikipedia.org.
+9. Lewis, David & George, Marianne (2011). "Te Lapa." *Time and Mind*.
+10. Lewis, David (1960s). Ethnographic studies of Polynesian navigation.
+11. Finney, Ben (1973). Nalehia re-creation voyage.
+12. Thompson, Nainoa (1980). Modern Hawaiian wayfinding system.
+13. Mālama Honua voyage (2013).
 
 ## Uncertainties & Research Questions
 - Specific chronology of discovery and settlement of specific island groups is hotly debated
@@ -152,6 +199,7 @@ There is currently no evidence of historic Polynesian navigators using navigatio
 - Descriptions of early Polynesian pottery on Antipodes Islands are unsubstantiated
 - Museum documentation indicates no reference to Polynesian influences on Antipodes Islands shard
 - Some oral traditions have limited archaeological corroboration
+- Degree of Pre-Columbian contact between Polynesia and the Americas remains debated
 
 ---
 **Tags:** `period/stone-age, period/neolithic, function/transport, evidence/ethnographic, region/oceania, evidence/material`
