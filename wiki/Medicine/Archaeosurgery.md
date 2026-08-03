@@ -1,14 +1,17 @@
-# Medicine/Archaeosurgery
-
 ---
-**Period:** Prehistoric
-**Region(s):** Worldwide
-**Culture(s):** Various prehistoric cultures
-**Time Range:** ~7,000–10,000 years ago (earliest evidence)
-**Confidence:** High
-**Evidence Type:** Material
+title: "Archaeosurgery"
+category: "Medicine"
+period: "Prehistoric"
+region: "Worldwide"
+cultures:
+  - "Various prehistoric cultures"
+time_range: "~7,000–10,000 years ago (earliest evidence)"
+confidence: "high"
+evidence_type: "Material"
+layout: null
+---
 
-## Overview
+# Archaeosurgery
 
 Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide.
 
@@ -41,13 +44,13 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 ## Related Technologies
 
 - [[Medicine/Traditional-Medicine-Prehistoric]]
-- [[Tools/Stone-Tools]]
-- [[Tools/Metal-Tools]]
+- [[Metallurgy/Stone-Tools|Stone Tools]]
+- [[Metallurgy/Metal-Tools|Metal Tools]]
 
 ## Sources
 
 1. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
-2. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
+2. [Author(S)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
 
 ## Uncertainties & Research Questions
 
@@ -55,5 +58,4 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 - How did spiritual and medical motivations interact in the practice of archaeosurgery?
 - [[Open Questions]/[Archaeosurgery-Open-Questions]]
 
----
-**Tags:** `archaeosurgery`, `trepanning`, `prehistoric-medicine`, `surgery`, `period/prehistoric`, `region/worldwide`, `function/medical`
+**Tags:** archaeosurgery, trepanning, prehistoric-medicine, surgery, period/prehistoric, region/worldwide, function/medical
