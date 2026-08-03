@@ -13,7 +13,12 @@ defaults:
       path: ""
     values:
       layout: null
-permalinks: pretty
+
+# Enable collections for proper URL structure
+collections:
+  wiki:
+    output: true
+    permalink: pretty
 
 # Exclude from build
 exclude:
