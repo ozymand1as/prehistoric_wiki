@@ -1,21 +1,26 @@
-name: Jekyll GitHub Pages
+name: Build and Deploy Jekyll Site
 
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
 
 permissions:
-  contents: read
+  contents: write
   pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout code
+      - name: Checkout
         uses: actions/checkout@v4
+        with:
+          persist-credentials: false
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
@@ -23,28 +28,8 @@ jobs:
           ruby-version: '3.0'
           bundler-cache: true
 
-      - name: Build Jekyll site
+      - name: Build Jekyll
         run: bundle exec jekyll build
 
-      - name: Upload artifacts
-        uses: actions/upload-artifact@v4
-        with:
-          name: jekyll-build
-          path: _site
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/master'
-    environment:
-      name: live
-      url: https://ozymand1as.github.io/prehistoric_wiki/
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
-
-      - name: Deploy to GitHub Pages
-        uses: peaceiris/actions-gh-pages@v4
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+      - name: Deploy
+        uses: actions/deploy-pages@v4

@@ -1,15 +1,10 @@
 # Primitive Tech Wiki - GitHub Pages Configuration
 
+# Simple site configuration - GitHub Pages will render markdown directly
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies from the Stone Age through the Bronze Age
 
-markdown: kramdown
-kramdown:
-  input: GFM
-  hard_wrap: false
-  wrap: hard
-  auto_ids: true
-
+# Exclude files from the build
 exclude:
   - .DS_Store
   - .git
@@ -22,13 +17,5 @@ exclude:
   - Gemfile*
   - gemfiles/
   - vendor/
-
-defaults:
-  - scope:
-      path: wiki
-    values:
-      layout: null
-      bare: true
-
-highlighter: rouge
-theme: minima
+  - _config.yml
+  - .github/
