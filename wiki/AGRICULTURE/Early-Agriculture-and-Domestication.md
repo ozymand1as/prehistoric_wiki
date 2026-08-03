@@ -1,19 +1,24 @@
+---
+title: "Early Agriculture and Domestication"
+category: "Agriculture"
+period: "Neolithic"
+region: "Global (11+ centers of origin)"
+cultures:
+  - "Neolithic cultures worldwide"
+time_range: "105,000 BCE – 2,000 BCE"
+confidence: "high"
+evidence_type: "material"
+layout: null
+---
+
 # Early Agriculture and Domestication
 
----
-**Period:** Neolithic
-**Region(s):** Global (11+ centers of origin)
-**Culture(s):** Neolithic cultures worldwide
-**Time Range:** 105,000 BCE - 2,000 BCE
-**Confidence:** High
-**Evidence Type:** Material, Written, Inferred
-
-## Overview
 Agriculture is the practice of cultivating plants and livestock. The Neolithic Revolution — the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement — began ~11,700 years ago after the last Ice Age, fundamentally transforming human society. The term was coined by V. G. Childe in 1936. Agriculture enabled the rise of sedentary civilization, city-states, writing, and social hierarchy, but also introduced nutritional deficiencies, zoonotic diseases, and health declines compared to foraging.
 
 ## History & Development
 
 ### The Neolithic Revolution
+
 The Neolithic Revolution (First Agricultural Revolution) was the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement, beginning ~11,700 years ago after the last Ice Age. The term was coined by V. G. Childe in 1936. It involved the domestication of plants and animals independently in multiple locations worldwide.
 
 Key developments of the "Neolithic package" include: agriculture, settlement, cross-group organizations, pottery, polished stone tools, rectangular dwellings, irrigation, animal breeding, deforestation, and food surpluses leading to population growth (Neolithic demographic transition).
@@ -21,6 +26,7 @@ Key developments of the "Neolithic package" include: agriculture, settlement, cr
 Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest known large-scale art, showing early complex social organization. Agriculture enabled the rise of sedentary civilization, city-states (e.g., Shuruppak), writing (cuneiform, ~6,500 BP), and social hierarchy.
 
 ### Timeline Summary
+
 - Wild grain gathering ≥105,000 years ago
 - Cereal cultivation (Levant) ~23,000 years ago
 - Agriculture begins (Fertile Crescent) ~11,500–10,000 years ago
@@ -34,6 +40,7 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - Horse domestication (Eurasian Steppes) ~3500 BC
 
 ### Notable Concepts
+
 - **Domestication:** Slow process; pre-domestication cultivation (harvesting wild stands before planting them) preceded full domestication by centuries/millennia.
 - **Neolithic package:** The bundle of innovations (agriculture, pottery, stone tools, settlement, social organization) that accompanied the Neolithic Revolution.
 - **Centers of origin:** Agriculture arose independently in ≥11 regions worldwide.
@@ -42,11 +49,13 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - **Health trade-off:** Agriculture led to nutritional deficiencies (e.g., maize lacks lysine/tryptophan), zoonotic diseases, and sedentary health decline compared to foraging.
 
 ## Function & Use
+
 - **Primary Use:** Food production and storage
 - **Secondary Uses:** Population growth support, social and economic organization, cultural and religious significance
 - **Cultural Significance:** Agriculture enabled the rise of sedentary civilization, city-states, writing (cuneiform), and social hierarchy; monumental art (Göbekli Tepe) reflects early complex social organization
 
 ## Construction & Technique
+
 - **Crop selection:** Wild plant varieties selected for desirable traits over generations
 - **Domestication:** Slow process preceded by centuries/millennia of pre-domestication cultivation; increased yield, improved disease resistance and drought tolerance, eased harvest, and improved taste/nutritional value
 - **Tools:** Stone tools for planting, harvesting, and processing; polished stone tools; later ploughs (animal-drawn ~2500 BC Indus Valley, heavy ploughs with iron ploughshares in China by late 2nd century BC)
@@ -61,6 +70,7 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - **Crop rotation, intercropping, companion planting (Three Sisters)**
 
 ## Regional Variations
+
 - **West Asia (Fertile Crescent) ~10,000–9,000 years ago:** Cereals (einkorn wheat, emmer wheat, barley), Legumes (lentil, pea, bitter vetch, chickpea), Flax; Sheep domesticated ~13,000–11,000 years ago; cattle ~10,500 years ago; pigs ~10,500 years ago
 - **East Asia:** Rice domesticated 11,500–6,200 BC in China (earliest cultivation ~5,700 BC); also mung, soy, azuki beans; Yangtze River basin rice + paddy field cultivation 13,500–8,200 years ago; Broomcorn millet
 - **Africa:** Three independent centers — Ethiopian Highlands (coffee, khat, ensete, noog, teff, finger millet), Sahel (sorghum, pearl millet ~7,000 years ago), West Africa (African rice, yams, oil palm, kola nut); Nile Valley agriculture related to migration from Fertile Crescent
@@ -69,29 +79,23 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - **Southeast Asia / Austronesia:** Rice cultivation technology spread via Austronesian migrations; banana, pepper acquired from Papuan and Dravidian-speaking regions
 
 ## Related Technologies
-- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
-- [[AGRICULTURE/Crop-Domestication]]
-- [[Pottery]]
-- [[Stone Tools]]
-- [[Domestication]]
-- [[Irrigation]]
-- [[Plow]]
+
+- [[Lithic Technologies/Stone-Age-Choppers]]
+- [[Metallurgy/Bronze-Age-Metallurgy]]
+- [[Metallurgy/Lost-Wax-Casting]]
 
 ## Sources
-1. Wikipedia contributors. "Agriculture." *Wikipedia*, The Free Encyclopedia. Retrieved [Date].
-2. Wikipedia contributors. "Neolithic Revolution." *Wikipedia*, The Free Encyclopedia. Retrieved [Date].
-3. Wikipedia contributors. "Domestication." *Wikipedia*, The Free Encyclopedia. Retrieved [Date].
-4. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies.* W.W. Norton.
-5. Smith, J. (2020). "Early Agriculture." *Journal of Archaeology*, 25(3), 112-145.
+
+1. Wikipedia contributors. "Agriculture." *Wikipedia*, en.wikipedia.org.
+2. Wikipedia contributors. "Neolithic Revolution." *Wikipedia*, en.wikipedia.org.
+3. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies.* W.W. Norton.
+4. Smith, J. (2020). "Early Agriculture." *Journal of Archaeology*, 25(3), 112-145.
 
 ## Uncertainties & Research Questions
+
 - The exact nature of many prehistoric agricultural techniques remains unknown due to lack of preservation
 - Cross-regional comparisons require more detailed analysis
-- Ethnographic parallels need verification
 - Reasons why human populations adopted agriculture roughly 12,000 years ago remain "imperfectly understood"
 - Causality: Whether agriculture preceded politics or vice versa remains debated
-- Whether introduction of agriculture by already existing political organisation was necessary or not
-- The East-West axis hypothesis requires further testing with genetic and archaeological data
 
----
-**Tags:** `technology`, `neolithic`, `region/global`, `inferred`, `agriculture`, `domestication`, `crops`, `irrigation`, `neolithic-revolution`
+**Tags:** agriculture, neolithic, period/neolithic, region/global, function/food, evidence/material, domestication
