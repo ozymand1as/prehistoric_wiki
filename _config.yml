@@ -13,6 +13,7 @@ defaults:
       path: ""
     values:
       layout: null
+permalinks: pretty
 
 # Exclude from build
 exclude:
