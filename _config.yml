@@ -2,6 +2,7 @@
 
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies
+baseurl: "/prehistoric_wiki"
 
 # Build settings
 markdown: kramdown

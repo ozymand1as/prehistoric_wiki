@@ -9,11 +9,11 @@ Welcome to the Primitive Tech Wiki - a comprehensive knowledge base documenting 
 
 ## Categories
 
-- [Lithic Technologies](/wiki/Lithic_Technologies/) - Stone tools and manufacturing
-- [Agriculture](/wiki/AGRICULTURE/) - Crop domestication and farming
-- [Metallurgy](/wiki/Metallurgy/) - Metalworking technologies
-- [Medicine](/wiki/MEDICINE/) - Prehistoric medical practices
-- [Clothing](/wiki/CLOTHING/) - Textiles and garment technologies
-- [Regional Technologies](/wiki/REGIONAL-MESOAMERICAN/) - Mesoamerican innovations
-- [Oceania](/wiki/Oceania/) - Pacific island technologies
-- [Americas](/wiki/Americas/) - Continent-wide technological overviews
+- [Lithic Technologies](Lithic_Technologies/) - Stone tools and manufacturing
+- [Agriculture](AGRICULTURE/) - Crop domestication and farming
+- [Metallurgy](Metallurgy/) - Metalworking technologies
+- [Medicine](MEDICINE/) - Prehistoric medical practices
+- [Clothing](CLOTHING/) - Textiles and garment technologies
+- [Regional Technologies](REGIONAL-MESOAMERICAN/) - Mesoamerican innovations
+- [Oceania](Oceania/) - Pacific island technologies
+- [Americas](Americas/) - Continent-wide technological overviews
