@@ -15,7 +15,7 @@ defaults:
     values:
       layout: null
   - scope:
-      path: "_wiki"
+      path: "_navigation"
     values:
       layout: null
   - scope:
@@ -29,7 +29,7 @@ collections:
     output: true
     path: wiki
     permalink: /wiki/:path.html
-  _wiki:
+  _navigation:
     output: true
     permalink: /wiki/:path.html
 
