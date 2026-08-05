@@ -19,6 +19,9 @@ defaults:
 collections:
   wiki:
     output: true
+  nav:
+    output: true
+    permalink: /wiki/:path.html
 
 # Exclude from build
 exclude:
