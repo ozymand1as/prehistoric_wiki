@@ -18,11 +18,16 @@ defaults:
       path: "_wiki"
     values:
       layout: null
+  - scope:
+      path: "wiki"
+    values:
+      layout: null
 
 # Enable collections for proper URL structure
 collections:
   wiki:
     output: true
+    path: wiki
     permalink: /wiki/:path.html
   _wiki:
     output: true
