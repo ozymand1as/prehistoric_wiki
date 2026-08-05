@@ -14,15 +14,13 @@ defaults:
       path: ""
     values:
       layout: null
-  # Explicit defaults for wiki root navigation pages
-  - scope:
-      path: "wiki"
-    values:
-      layout: null
 
 # Enable collections for proper URL structure
 collections:
   wiki:
+    output: true
+    permalink: /wiki/:path.html
+  _wiki:
     output: true
     permalink: /wiki/:path.html
 
