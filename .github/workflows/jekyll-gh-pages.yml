@@ -27,7 +27,7 @@ jobs:
           bundler-cache: auto
 
       - name: Build
-        run: bundle exec jekyll build --no-watch
+        run: bundle exec jekyll build --no-watch --verbose
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
