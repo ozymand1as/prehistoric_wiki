@@ -22,26 +22,6 @@ defaults:
       path: "wiki"
     values:
       layout: null
-  - scope:
-      path: "NAVIGATION.md"
-    values:
-      permalink: /wiki/NAVIGATION.html
-      layout: null
-  - scope:
-      path: "OPEN-QUESTIONS-INDEX.md"
-    values:
-      permalink: /wiki/OPEN-QUESTIONS-INDEX.html
-      layout: null
-  - scope:
-      path: "Timeline.md"
-    values:
-      permalink: /wiki/Timeline.html
-      layout: null
-  - scope:
-      path: "INDEX.md"
-    values:
-      permalink: /wiki/INDEX.html
-      layout: null
 
 # Enable collections for proper URL structure
 collections:
