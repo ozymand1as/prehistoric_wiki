@@ -17,7 +17,6 @@ defaults:
   # Explicit defaults for wiki root navigation pages
   - scope:
       path: "wiki"
-      type: "wiki"
     values:
       layout: null
 
@@ -25,7 +24,6 @@ defaults:
 collections:
   wiki:
     output: true
-    path: wiki
     permalink: /wiki/:path.html
 
 # Exclude from build
