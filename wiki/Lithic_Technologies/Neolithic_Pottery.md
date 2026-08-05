@@ -17,6 +17,10 @@ layout: null
 
 Pottery is one of the oldest human inventions, originating before the Neolithic period. Ceramic objects such as the Gravettian Venus of Dolní Věstonice figurine (29,000–25,000 BC) predate pottery vessels, with the earliest known vessels discovered in Jiangxi, China (18,000 BC). The invention of pottery marked the transition from hunter-gatherer to settled agricultural societies, requiring usable clay, fire hot enough to fire pottery, a sedentary lifestyle, and sufficient economic need.
 
+
+## Overview
+
+Pottery is one of the oldest human inventions, originating before the Neolithic period. Ceramic objects such as the Gravettian Venus of Dolní Věstonice figurine (29,000–25,000 BC) predate pottery vessels, with the earliest known vessels discovered in Jiangxi, China (18,000 BC). The invention of pottery marked the transition from hunter-gatherer to settled agricultural societies, requiring usable clay, fire hot enough to fire pottery, a sedentary lifestyle, and sufficient economic need.
 ## History & Development
 
 ### Pre-Neolithic Origins
@@ -89,11 +93,11 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 - **East Asia:** Jōmon period Japan (10,500 BC) cord-marked pottery; Chinese stoneware as early as 15th century BC; Chinese porcelain Tang dynasty (AD 618–906) perfected by Song dynasty; Korean potters adopted porcelain by 14th century AD
 
 ## Related Technologies
-
-- [[Metallurgy/Bronze-Age-Metallurgy]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Metallurgy/Lost-Wax-Casting]]
-- [[Agriculture/Neolithic-Revolution]]
-
+- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
+- [[Asia/Neolithic-Technology]]
+- [[Europe/Neolithic-Technology]]
 ## Sources
 
 1. Wikipedia. "Pottery." *Wikipedia*, en.wikipedia.org.
@@ -111,4 +115,4 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 - How early experimental pottery was used and its functional significance is unclear
 - The controversy surrounding the arrival of ceramics with Bantu language spread in Sub-Saharan Africa requires further research
 
-**Tags:** period/neolithic, period/stone-age, region/mediterranean, region/europe, region/asia, region/africa, region/americas, function/tool, function/food, evidence/material, function/construction
+**Tags:** `period/neolithic, period/stone-age, region/mediterranean, region/europe, region/asia, region/africa, region/americas, function/tool, function/food, evidence/material, function/construction`

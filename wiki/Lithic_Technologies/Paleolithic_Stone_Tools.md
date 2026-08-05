@@ -18,6 +18,10 @@ layout: null
 
 Paleolithic stone tools represent the earliest technological innovations in human history, spanning over 3 million years of human development. These tools, made from knapped stone, were essential for survival and represent significant cognitive and social complexity. The evolution from simple flakes to sophisticated composite tools marks key transitions in human technological development.
 
+
+## Overview
+
+Paleolithic stone tools represent the earliest technological innovations in human history, spanning over 3 million years of human development. These tools, made from knapped stone, were essential for survival and represent significant cognitive and social complexity. The evolution from simple flakes to sophisticated composite tools marks key transitions in human technological development.
 ## History & Development
 
 ### Lower Paleolithic (3.3 million - 300,000 BCE)
@@ -60,12 +64,12 @@ Paleolithic stone tools represent the earliest technological innovations in huma
 - **Americas:** Clovis, Monte Verde, Mississippian cultures
 
 ## Related Technologies
-
-- [[Lithic Technologies/Choppers]]
-- [[Lithic Technologies/Axe]]
-- [[Lithic Technologies/Hand Axes]]
-- [[Lithic Technologies/Mousterian]]
-
+- [[Lithic_Technologies/Choppers]]
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Choppers-Regional]]
+- [[Lithic_Technologies/Spearhead]]
 ## Sources
 
 1. [Paleolithic](https://en.wikipedia.org/wiki/Paleolithic) - Wikipedia
@@ -76,4 +80,4 @@ Paleolithic stone tools represent the earliest technological innovations in huma
 - [[Open Questions]/[Stone-Tools]]
 - [[Open Questions]/[Choppers]]
 
-**Tags:** period/stone-age, region/europe, region/africa, region/asia, function/tool, evidence/material, evidence/ethnographic
+**Tags:** `period/stone-age, region/europe, region/africa, region/asia, function/tool, evidence/material, evidence/ethnographic`

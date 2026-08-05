@@ -22,6 +22,10 @@ layout: null
 
 Bark cloth is one of the earliest forms of textile, predating woven fabrics, made from the inner bark of trees. It was produced across multiple continents and served as a primary clothing and material source for many indigenous cultures before the widespread introduction of woven textiles.
 
+
+## Overview
+
+Bark cloth is one of the earliest forms of textile, predating woven fabrics, made from the inner bark of trees. It was produced across multiple continents and served as a primary clothing and material source for many indigenous cultures before the widespread introduction of woven textiles.
 ## History & Development
 
 Bark cloth production dates back to at least the Neolithic period, making it one of the oldest known textile technologies. The practice emerged independently in multiple regions including Africa, Oceania, Southeast Asia, and the Americas. In Africa, bark cloth was a dominant textile for centuries before woven fabrics became available. In Mesoamerica, bark paper (amate) developed as both a material and a writing surface for ritual use. In Oceania, bark cloth (known as tapa) became a widespread and culturally significant textile. The technology persisted in some traditional communities into the modern era.
@@ -45,9 +49,9 @@ The process begins by stripping the inner bark from trees such as fig (Ficus), m
 
 ## Related Technologies
 
-- [[Textiles/Weaving]]
-- [[Textiles/Spinning]]
-- [[Materials/Paper]]
+- [[CLOTHING/Woven-Textiles]]
+- [[CLOTHING/Woven-Textiles]]
+- [[CLOTHING/Bark-Cloth]]
 
 ## Sources
 
@@ -60,4 +64,4 @@ The process begins by stripping the inner bark from trees such as fig (Ficus), m
 - How did the transition from bark cloth to woven textiles occur in different cultural contexts?
 - [[Open Questions]/[Bark-Cloth-Open-Questions]]
 
-**Tags:** bark-cloth, textile, neolithic, region/africa, region/oceania, region/southeast-asia, region/americas, function/clothing, function/ritual
+**Tags:** `bark-cloth, textile, neolithic, region/africa, region/oceania, region/southeast-asia, region/americas, function/clothing, function/ritual`

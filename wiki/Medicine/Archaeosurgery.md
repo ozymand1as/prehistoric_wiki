@@ -15,6 +15,10 @@ layout: null
 
 Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide.
 
+
+## Overview
+
+Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide.
 ## History & Development
 
 - Earliest evidence of trepanning dates to 7,000–10,000 years ago during the Neolithic period
@@ -42,11 +46,12 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 - **Africa:** Archaeological finds show diverse surgical practices including trepanning and wound care across different cultures and periods
 
 ## Related Technologies
-
-- [[Medicine/Traditional-Medicine-Prehistoric]]
-- [[Metallurgy/Stone-Tools|Stone Tools]]
-- [[Metallurgy/Metal-Tools|Metal Tools]]
-
+- [[MEDICINE/Traditional-Medicine-Prehistoric]]
+- [[Lithic_Technologies/Stone-Tools|Stone Tools]]
+- [[Metallurgy/Bronze_Age_Metallurgy|Metal Tools]]
+- [[MEDICINE/Traditional-Medicine]]
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
 ## Sources
 
 1. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.
@@ -58,4 +63,4 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 - How did spiritual and medical motivations interact in the practice of archaeosurgery?
 - [[Open Questions]/[Archaeosurgery-Open-Questions]]
 
-**Tags:** archaeosurgery, trepanning, prehistoric-medicine, surgery, period/prehistoric, region/worldwide, function/medical
+**Tags:** `archaeosurgery, trepanning, prehistoric-medicine, surgery, period/prehistoric, region/worldwide, function/medical`

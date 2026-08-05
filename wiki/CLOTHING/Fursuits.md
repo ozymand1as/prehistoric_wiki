@@ -28,6 +28,10 @@ layout: null
 
 Fur clothing (fursuits) represents one of the earliest forms of human attire, providing essential insulation in cold climates. Made from animal hides and fur, these garments were critical for survival in northern environments and also served as trade goods and status symbols. While modern fursuits differ significantly from prehistoric fur clothing, the fundamental techniques of hide processing and garment construction have deep archaeological roots.
 
+
+## Overview
+
+Fur clothing (fursuits) represents one of the earliest forms of human attire, providing essential insulation in cold climates. Made from animal hides and fur, these garments were critical for survival in northern environments and also served as trade goods and status symbols. While modern fursuits differ significantly from prehistoric fur clothing, the fundamental techniques of hide processing and garment construction have deep archaeological roots.
 ## History & Development
 
 - ~170,000 BP: Earliest inferred use of animal hides for body covering by archaic humans, based on cold-climate habitation patterns
@@ -57,10 +61,12 @@ Fur clothing (fursuits) represents one of the earliest forms of human attire, pr
 - **Siberian peoples:** Diverse use of bear, rabbit, and reindeer fur; distinctive cut influenced by nomadic lifestyle
 
 ## Related Technologies
-
-- [[Metallurgy/Bone-Tools|Bone Tools]]
-- [[Metallurgy/Stone-Tools|Stone Tools]]
-
+- [[Lithic_Technologies/Stone-Tools|Bone Tools]]
+- [[Lithic_Technologies/Stone-Tools|Stone Tools]]
+- [[CLOTHING/Bark-Cloth]]
+- [[CLOTHING/Woven-Textiles]]
+- [[Lithic_Technologies/Stone-Tools]]
+- [[MEDICINE/Traditional-Medicine]]
 ## Sources
 
 1. Higham, T. et al. (2016). "The earliest evidence for anatomically modern humans in northwestern Europe." *Nature*, 526(7575), 226–230.
@@ -75,4 +81,4 @@ Fur clothing (fursuits) represents one of the earliest forms of human attire, pr
 - What role did fur clothing play in human migration into Arctic regions?
 - [[Open Questions]/[Fur-Clothing-Open-Questions]]
 
-**Tags:** fur, clothing, insulation, hide-working, period/paleolithic, region/arctic, region/siberia, region/europe-north, function/protection, function/trade
+**Tags:** `fur, clothing, insulation, hide-working, period/paleolithic, region/arctic, region/siberia, region/europe-north, function/protection, function/trade`

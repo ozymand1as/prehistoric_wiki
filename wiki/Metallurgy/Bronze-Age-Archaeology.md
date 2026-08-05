@@ -20,6 +20,10 @@ layout: null
 
 Bronze Age archaeology studies the material culture of Bronze Age civilizations, focusing on the production, use, and distribution of bronze artifacts. The Bronze Age spans ~3300 BCE to ~1200 BCE in the Near East, with later adoption in other regions. Key archaeological sites include Troy, Mycenae, Ur, Mohenjo-daro, and Anyang (China).
 
+
+## Overview
+
+Bronze Age archaeology studies the material culture of Bronze Age civilizations, focusing on the production, use, and distribution of bronze artifacts. The Bronze Age spans ~3300 BCE to ~1200 BCE in the Near East, with later adoption in other regions. Key archaeological sites include Troy, Mycenae, Ur, Mohenjo-daro, and Anyang (China).
 ## History & Development
 
 The Bronze Age began in the Near East around 3300 BCE with the discovery that alloying copper with tin produced a harder, more durable metal. Early bronze production was centered in Mesopotamia and spread along trade routes to the Mediterranean, South Asia, and East Asia. By ~3000 BCE, bronze tools and weapons were widespread in the Near East. The technology reached the Indus Valley by ~2500 BCE and China by ~1500 BCE. The Bronze Age collapse around 1200 BCE disrupted trade networks and production across the Eastern Mediterranean and Near East, marking the end of the period in those regions.
@@ -43,10 +47,10 @@ Bronze was produced by smelting copper ore and alloying it with tin. Archaeologi
 - **Europe:** Later adoption; bronze tools and weapons associated with megalithic and early Iron Age cultures
 
 ## Related Technologies
-
 - [[Metallurgy/Lost-Wax-Casting]]
 - [[Metallurgy/Copper-Trade]]
-
+- [[Metallurgy/Bronze_Age_Metallurgy]]
+- [[Metallurgy/Copper-Smelting-Sites-and-Techniques]]
 ## Sources
 
 1. Coghlan, H.H.W. (1975). *Notes on the Prehistory of Metals.* British Museum, Occasional Papers.
@@ -58,4 +62,4 @@ Bronze was produced by smelting copper ore and alloying it with tin. Archaeologi
 - The causes of the Bronze Age collapse are still under active investigation
 - [[Open Questions]/Bronze-Age-Trade-Networks]
 
-**Tags:** bronze-age, archaeology, metallurgy, period/bronze-age, region/near-east, function/tool
+**Tags:** `bronze-age, archaeology, metallurgy, period/bronze-age, region/near-east, function/tool`

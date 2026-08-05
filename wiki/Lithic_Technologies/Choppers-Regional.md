@@ -17,6 +17,10 @@ layout: null
 
 Choppers represent the earliest widespread stone tool technology, with regional variations reflecting local raw material availability, environmental conditions, and hominin cognitive development across Africa, Europe, and Asia. These tools demonstrate how early hominins adapted lithic technology to diverse ecological settings, with distinct traditions emerging on each continent before the transition to more sophisticated bifacial tool industries.
 
+
+## Overview
+
+Choppers represent the earliest widespread stone tool technology, with regional variations reflecting local raw material availability, environmental conditions, and hominin cognitive development across Africa, Europe, and Asia. These tools demonstrate how early hominins adapted lithic technology to diverse ecological settings, with distinct traditions emerging on each continent before the transition to more sophisticated bifacial tool industries.
 ## History & Development
 
 Choppers emerged during the earliest Lower Paleolithic, with the oldest examples dating to approximately 2.6 million years ago in East Africa. The Oldowan tradition in Africa represents the longest-running and most widespread chopper technology, persisting until approximately 1.7 million years ago. In Europe, chopper traditions developed later, associated with the Abbevillian and Clactonian industries, reflecting the migration of hominins into new environments with different raw materials. Asian chopper traditions, documented at sites in China and Java, show both connections to African origins and independent regional developments. The transition from choppers to more sophisticated bifacial tools such as hand axes varied significantly by region, with some areas maintaining chopper traditions longer than others.
@@ -41,11 +45,11 @@ Choppers are produced by striking one face of a river cobble or large core with 
 
 ## Related Technologies
 
-- [[Lithic Technologies/Choppers]]
-- [[Lithic Technologies/Hand Axes]]
-- [[Lithic Technologies/Hammerstone]]
-- [[Lithic Technologies/Paleolithic Stone Tools]]
-- [[Lithic Technologies/Stone Age Choppers]]
+- [[Lithic_Technologies/Choppers]]
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Hammerstone]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Choppers]]
 
 ## Sources
 
@@ -64,4 +68,4 @@ Choppers are produced by striking one face of a river cobble or large core with 
 - The degree of continuity between chopper traditions and later Middle Stone Age / Middle Paleolithic technologies in each region
 - [[Open Questions]/[Stone-Tools]]
 
-**Tags:** period/lower-paleolithic, region/africa, region/europe, region/asia, function/tool, function/butchering, evidence/material, culture/oldowan, culture/abbevillian, culture/clactonian, technology/chopper, technology/lithic
+**Tags:** `period/lower-paleolithic, region/africa, region/europe, region/asia, function/tool, function/butchering, evidence/material, culture/oldowan, culture/abbevillian, culture/clactonian, technology/chopper, technology/lithic`

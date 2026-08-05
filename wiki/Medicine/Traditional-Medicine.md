@@ -52,9 +52,9 @@ Traditional medicine encompasses the knowledge, skills, and practices based on i
 
 ## Related Technologies
 
-- [[Medicine/Archaeosurgery]]
-- [[Medicine/Herbal-Medicine]]
-- [[Medicine/Traditional-Medicine-Prehistoric]]
+- [[MEDICINE/Archaeosurgery]]
+- [[MEDICINE/Herbal-Medicine]]
+- [[MEDICINE/Traditional-Medicine-Prehistoric]]
 
 ## Sources
 
@@ -67,4 +67,4 @@ Traditional medicine encompasses the knowledge, skills, and practices based on i
 - Which traditional remedies have verifiable pharmacological efficacy versus placebo?
 - [[Open Questions]/[Traditional-Medicine-Open-Questions]]
 
-**Tags:** medicine, traditional-medicine, herbalism, spiritual-healing, prehistoric, global
+**Tags:** `medicine, traditional-medicine, herbalism, spiritual-healing, prehistoric, global`

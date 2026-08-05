@@ -15,6 +15,10 @@ layout: null
 
 Agriculture is the practice of cultivating plants and livestock. The Neolithic Revolution — the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement — began ~11,700 years ago after the last Ice Age, fundamentally transforming human society. The term was coined by V. G. Childe in 1936. Agriculture enabled the rise of sedentary civilization, city-states, writing, and social hierarchy, but also introduced nutritional deficiencies, zoonotic diseases, and health declines compared to foraging.
 
+
+## Overview
+
+Agriculture is the practice of cultivating plants and livestock. The Neolithic Revolution — the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement — began ~11,700 years ago after the last Ice Age, fundamentally transforming human society. The term was coined by V. G. Childe in 1936. Agriculture enabled the rise of sedentary civilization, city-states, writing, and social hierarchy, but also introduced nutritional deficiencies, zoonotic diseases, and health declines compared to foraging.
 ## History & Development
 
 ### The Neolithic Revolution
@@ -79,11 +83,12 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - **Southeast Asia / Austronesia:** Rice cultivation technology spread via Austronesian migrations; banana, pepper acquired from Papuan and Dravidian-speaking regions
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Age-Choppers]]
-- [[Metallurgy/Bronze-Age-Metallurgy]]
+- [[Lithic_Technologies/Choppers]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Metallurgy/Lost-Wax-Casting]]
-
+- [[AGRICULTURE/Quinoa-Domestication]]
+- [[AGRICULTURE/Tuber-Agriculture]]
+- [[Asia/Neolithic-Technology]]
 ## Sources
 
 1. Wikipedia contributors. "Agriculture." *Wikipedia*, en.wikipedia.org.
@@ -98,4 +103,4 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - Reasons why human populations adopted agriculture roughly 12,000 years ago remain "imperfectly understood"
 - Causality: Whether agriculture preceded politics or vice versa remains debated
 
-**Tags:** agriculture, neolithic, period/neolithic, region/global, function/food, evidence/material, domestication
+**Tags:** `agriculture, neolithic, period/neolithic, region/global, function/food, evidence/material, domestication`

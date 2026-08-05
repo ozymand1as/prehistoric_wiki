@@ -19,6 +19,10 @@ layout: null
 
 Stone tools are the earliest and most widespread technology of the Stone Age, used by hominins across the globe for millions of years. They represent the foundational material culture of human technological development and provide the primary archaeological record for early human behavior. The study of stone tools, known as lithic analysis, reveals insights into cognitive evolution, subsistence strategies, and cultural transmission.
 
+
+## Overview
+
+Stone tools are the earliest and most widespread technology of the Stone Age, used by hominins across the globe for millions of years. They represent the foundational material culture of human technological development and provide the primary archaeological record for early human behavior. The study of stone tools, known as lithic analysis, reveals insights into cognitive evolution, subsistence strategies, and cultural transmission.
 ## History & Development
 
 - **Lower Paleolithic (~3.3 Ma – 300 ka):** Earliest stone tool production, including Oldowan choppers and Acheulean handaxes. Key sites include Lomekwi (Kenya, ~3.3 Ma) and Olduvai Gorge (Tanzania, ~1.8 Ma).
@@ -49,11 +53,12 @@ The choice of material and technique depends on the desired tool form, the raw m
 - **Southeast Asia:** Hoabinhian traditions with distinctive flaking techniques; evidence of early maritime technology
 
 ## Related Technologies
-
-- [[Lithic Technologies/Paleolithic-Stone-Tools]]
-- [[Lithic Technologies/Neolithic-Polished-Tools]]
-- [[Lithic Technologies/Lithic-Analysis]]
-
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Americas/Mesoamerican-Tech]]
+- [[Europe/Neolithic-Technology]]
+- [[Lithic_Technologies/Spearhead]]
 ## Sources
 
 1. Semaw, S. et al. (2020). "Early Stone Age tools from Lomekwi." *Nature*, 557(7705), 1–5.
@@ -67,4 +72,4 @@ The choice of material and technique depends on the desired tool form, the raw m
 - What role did raw material availability and landscape change play in shaping regional lithic traditions?
 - [[Open Questions]/[Stone-Tools-Open-Questions]]
 
-**Tags:** lithic, stone-age, stone-tools, period/paleolithic, period/mesolithic, period/neolithic, region/global, function/tool, function/hunting, function/food-processing
+**Tags:** `lithic, stone-age, stone-tools, period/paleolithic, period/mesolithic, period/neolithic, region/global, function/tool, function/hunting, function/food-processing`

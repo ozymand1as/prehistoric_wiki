@@ -17,6 +17,10 @@ layout: null
 
 Quinoa (*Chenopodium quinoa*) is a pseudocereal domesticated in the Andes approximately 5,000–7,000 years ago. Originating in the Lake Titicaca basin of modern-day Peru and Bolivia, it became a staple food of the Inca Empire and remains a globally significant crop today.
 
+
+## Overview
+
+Quinoa (*Chenopodium quinoa*) is a pseudocereal domesticated in the Andes approximately 5,000–7,000 years ago. Originating in the Lake Titicaca basin of modern-day Peru and Bolivia, it became a staple food of the Inca Empire and remains a globally significant crop today.
 ## History & Development
 
 - Quinoa was first domesticated in the Lake Titicaca basin by pre-Inca Andean cultures roughly 5,000–7,000 years ago.
@@ -47,11 +51,11 @@ Quinoa (*Chenopodium quinoa*) is a pseudocereal domesticated in the Andes approx
 - **Modern Global Cultivation:** Expanded to North America, Europe, and Asia; bred for uniformity and commercial yield.
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Tools]]
-- [[Agriculture/Early-Agriculture-and-Domestication]]
-- [[Agriculture/Three-Sisters]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
+- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
+- [[AGRICULTURE/Crop-Domestication]]
+- [[REGIONAL-MESOAMERICAN/Aztec-Technology]]
 ## Sources
 
 1. Jacobsen, S. (2004). "Quinoa: Domestication, Dispersal, and Domestication." *Journal of Archaeological Method and Theory*, 11(2), 117–140.
@@ -64,4 +68,4 @@ Quinoa (*Chenopodium quinoa*) is a pseudocereal domesticated in the Andes approx
 - The degree to which wild *Chenopodium* species contributed to quinoa's genetic diversity is unclear.
 - [[Open Questions]/[Quinoa-Domestication-Open-Questions]]
 
-**Tags:** agriculture, pseudocereal, andes, inca, domestication, period/neolithic, region/south-america, function/food
+**Tags:** `agriculture, pseudocereal, andean, inca, domestication, period/neolithic, region/south-america, function/food`

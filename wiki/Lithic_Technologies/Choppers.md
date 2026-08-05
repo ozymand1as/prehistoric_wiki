@@ -15,6 +15,10 @@ layout: null
 
 Choppers are the simplest and earliest stone tools, representing the first deliberate modification of natural objects by hominins. They are characterized by a rounded chopping edge created by striking one face of a cobble, and they mark the beginning of the lithic technology tradition.
 
+
+## Overview
+
+Choppers are the simplest and earliest stone tools, representing the first deliberate modification of natural objects by hominins. They are characterized by a rounded chopping edge created by striking one face of a cobble, and they mark the beginning of the lithic technology tradition.
 ## History & Development
 
 Choppers emerged during the Lower Paleolithic as the earliest known stone tools, dating to approximately 2.6 million years ago. The Oldowan industry, named after Olduvai Gorge in Tanzania, is the earliest recognized stone tool industry. Choppers represent the first systematic modification of natural objects by hominins, evolving from simple cobble striking into more sophisticated tools such as hand axes and cleavers over time.
@@ -36,11 +40,10 @@ Choppers are made by striking one face of a cobble with a hammerstone to create 
 - **Ethiopia (Gona):** Early Oldowan choppers associated with Australopithecus and early Homo species
 
 ## Related Technologies
-
-- [[Lithic Technologies/Hand Axes]]
-- [[Lithic Technologies/Cleavers]]
-- [[Lithic Technologies/Hammerstone]]
-
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Hammerstone]]
+- [[Lithic_Technologies/Choppers-Regional]]
 ## Sources
 
 1. Leakey, L.S.B. (1971). "Olduvai Gorge: Excavations in Beds I–II, 1960–1963." *Cambridge University Press*.
@@ -52,4 +55,4 @@ Choppers are made by striking one face of a cobble with a hammerstone to create 
 - The exact cognitive abilities required for their production
 - [[Open Questions]/[Stone-Tools]]
 
-**Tags:** period/lower-paleolithic, region/africa, region/europe, region/asia, function/tool, function/butchering, evidence/material, culture/oldowan
+**Tags:** `period/lower-paleolithic, region/africa, region/europe, region/asia, function/tool, function/butchering, evidence/material, culture/oldowan`

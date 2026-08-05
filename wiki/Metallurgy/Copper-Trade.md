@@ -20,6 +20,10 @@ layout: null
 
 Copper trade was a major driver of Bronze Age economy and cultural exchange, connecting civilizations across Europe, Asia, and Africa through vast maritime and overland networks. The movement of copper and tin to produce bronze shaped political alliances, urban development, and technological diffusion throughout the ancient world.
 
+
+## Overview
+
+Copper trade was a major driver of Bronze Age economy and cultural exchange, connecting civilizations across Europe, Asia, and Africa through vast maritime and overland networks. The movement of copper and tin to produce bronze shaped political alliances, urban development, and technological diffusion throughout the ancient world.
 ## History & Development
 
 - ~3300 BCE: Earliest evidence of copper trade in the Near East and Balkans
@@ -47,10 +51,9 @@ Copper was traded as ingots, raw material, and finished goods. Ingots were cast 
 - **Bolivia:** Source of tin for later trans-Atlantic trade routes; Andean copper production predated European contact
 
 ## Related Technologies
-
-- [[Metallurgy/Bronze-Age-Metallurgy]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Metallurgy/Lost-Wax-Casting]]
-
+- [[Metallurgy/Bronze-Age-Archaeology]]
 ## Sources
 
 1. Cemal Pulak (1998). "The Uluburun Shipwreck: An Overview." *International Journal of Nautical Archaeology*, 27(3), 188–224.
@@ -62,4 +65,4 @@ Copper was traded as ingots, raw material, and finished goods. Ingots were cast 
 - The extent to which copper trade drove cultural exchange versus being a consequence of it
 - [[Open Questions]/Bronze-Age-Collapse-and-Trade-Network-Disruption]
 
-**Tags:** copper, trade, bronze-age, metallurgy, region/mediterranean, region/central-asia, region/americas, function/material, period/bronze-age
+**Tags:** `copper, trade, bronze-age, metallurgy, region/mediterranean, region/central-asia, region/americas, function/material, period/bronze-age`

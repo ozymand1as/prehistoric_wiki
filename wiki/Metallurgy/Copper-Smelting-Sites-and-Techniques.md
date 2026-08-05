@@ -15,6 +15,10 @@ layout: null
 
 Copper smelting is the process of applying heat and a chemical reducing agent to copper ore to extract the base metal, marking the transition from the Copper Age (Chalcolithic) to the Bronze Age. It was a critical technological development that revolutionized tool-making, warfare, and trade networks across the ancient world. Copper was the first metal smelted, with evidence dating back to the 5th millennium BC in the Balkans.
 
+
+## Overview
+
+Copper smelting is the process of applying heat and a chemical reducing agent to copper ore to extract the base metal, marking the transition from the Copper Age (Chalcolithic) to the Bronze Age. It was a critical technological development that revolutionized tool-making, warfare, and trade networks across the ancient world. Copper was the first metal smelted, with evidence dating back to the 5th millennium BC in the Balkans.
 ## History & Development
 
 Smelting uses heat and a chemical reducing agent to decompose the ore, driving off other elements as gases or slag and leaving the metal behind. The reducing agent is commonly a fossil-fuel source of carbon, such as carbon monoxide from incomplete combustion of charcoal. The oxygen in the ore binds to carbon at high temperatures, as the chemical potential energy of the bonds in carbon dioxide is lower than that of the bonds in the ore.
@@ -54,10 +58,11 @@ The smelting process proceeds through several stages: Concentration → Roasting
 - **Americas:** Andes — Moche culture (200 BC–600 CE) adobe brick furnaces with 3+ blow pipes; Puma Punku, Bolivia (800–500 BC) portable smelting kilns for I-shaped cramps; Inca Empire — tin bronze, arsenical bronze, arsenical copper; Qullasuyu (Chile) major Inca metallurgy center; North America — Old Copper Culture (Great Lakes, ~6500 BC) cold hammering only, no smelting; Mississippian culture (c. 1200 CE) copper sheet working via hammering and annealing at Cahokia; Mesoamerica — metallurgy appeared ~800 CE via contact with South America, lost-wax casting, bronze axes and bells by 1300–1530 CE
 
 ## Related Technologies
-
 - [[Metallurgy/Lost-Wax-Casting]]
 - [[Metallurgy/Copper-Trade]]
-
+- [[Asia/Neolithic-Technology]]
+- [[Europe/Neolithic-Technology]]
+- [[Metallurgy/Bronze-Age-Archaeology]]
 ## Sources
 
 1. Wikipedia contributors. "Smelting." *Wikipedia*, en.wikipedia.org.
@@ -73,4 +78,4 @@ The smelting process proceeds through several stages: Concentration → Roasting
 - The independent development of metallurgy in the Americas versus potential diffusion routes remain debated
 - Ethnographic parallels need verification
 
-**Tags:** copper, copper-age, bronze-age, metallurgy, smelting, period/copper-age, period/bronze-age, function/tool, function/trade, region/global, evidence/material
+**Tags:** `copper, copper-age, bronze-age, metallurgy, smelting, period/copper-age, period/bronze-age, function/tool, function/trade, region/global, evidence/material`

@@ -21,6 +21,10 @@ layout: null
 
 Lost-wax casting (cire perdue) is a metal casting technique used since antiquity that enables the production of intricate metal objects with complex shapes and fine detail. The process involves creating a wax model, encasing it in clay, melting out the wax, and pouring molten metal into the resulting cavity. It was independently developed in multiple civilizations and remains in use today for jewelry, art, and dental prosthetics.
 
+
+## Overview
+
+Lost-wax casting (cire perdue) is a metal casting technique used since antiquity that enables the production of intricate metal objects with complex shapes and fine detail. The process involves creating a wax model, encasing it in clay, melting out the wax, and pouring molten metal into the resulting cavity. It was independently developed in multiple civilizations and remains in use today for jewelry, art, and dental prosthetics.
 ## History & Development
 
 - c. 4500 BCE: Earliest known examples in the Middle East
@@ -54,10 +58,9 @@ The technique begins with a wax model shaped to the desired form. The wax model 
 - **Mesoamerica:** Independently developed for gold and copper ornaments; used wax models from tree resins and plant materials
 
 ## Related Technologies
-
-- [[Metallurgy/Bronze-Age-Metallurgy]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Metallurgy/Copper-Trade]]
-
+- [[Metallurgy/Bronze-Age-Archaeology]]
 ## Sources
 
 - Wikipedia: "Lost-wax casting" - https://en.wikipedia.org/wiki/Lost-wax_casting
@@ -68,4 +71,4 @@ The technique begins with a wax model shaped to the desired form. The wax model 
 - The degree of cross-cultural transmission versus independent invention in certain regions is uncertain
 - [[Open Questions]/[Lost-Wax-Casting-Open-Questions]]
 
-**Tags:** lost-wax-casting, cire-perdue, metallurgy, casting, bronze, ancient-technology, metalwork, period/ancient, region/middle-east, function/craft
+**Tags:** `lost-wax-casting, cire-perdue, metallurgy, casting, bronze, technology, metalwork, period/ancient, region/middle-east, function/craft`

@@ -18,6 +18,10 @@ layout: null
 
 Maize (corn) is one of the most important domesticated crops in human history, originating from the wild grass teosinte in Mesoamerica approximately 10,000 years ago. It became a staple food across the Americas and, after 1492 CE, spread to Europe, Africa, and Asia, transforming global agriculture and diets.
 
+
+## Overview
+
+Maize (corn) is one of the most important domesticated crops in human history, originating from the wild grass teosinte in Mesoamerica approximately 10,000 years ago. It became a staple food across the Americas and, after 1492 CE, spread to Europe, Africa, and Asia, transforming global agriculture and diets.
 ## History & Development
 
 - Maize domestication from teosinte began in Mesoamerica ~10,000 years ago
@@ -47,11 +51,10 @@ Maize (corn) is one of the most important domesticated crops in human history, o
 - **Post-1492 Global:** Thousands of modern cultivars developed worldwide, adapted to temperate, tropical, and arid climates
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Tools]]
-- [[Agriculture/Early-Agriculture-and-Domestication]]
-- [[Agriculture/Crop-Domestication]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
+- [[AGRICULTURE/Crop-Domestication]]
+- [[Americas/Mesoamerican-Tech]]
 ## Sources
 
 1. Matsuoka, Y. et al. (2002). "A single domestication for maize shown by multilocus microsatellite genotyping." *Proceedings of the National Academy of Sciences*, 99(9), 6080–6084.
@@ -63,4 +66,4 @@ Maize (corn) is one of the most important domesticated crops in human history, o
 - The degree to which teosinte intermediates were involved in the domestication process is still under investigation
 - [[Open Questions]/[Maize-Agriculture-Open-Questions]]
 
-**Tags:** agriculture, crop, maize, region/mesoamerica, period/neolithic, domestication, function/food
+**Tags:** `agriculture, crop, maize, region/mesoamerica, period/neolithic, domestication, function/food`

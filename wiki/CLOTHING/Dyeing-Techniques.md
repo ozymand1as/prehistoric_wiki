@@ -15,6 +15,10 @@ layout: null
 
 Dyeing is the process of adding color to textiles using natural or synthetic pigments. Natural dyes were used from the earliest textile production, with the oldest evidence of textile dyeing dating to approximately 10,000 BCE. This technology was fundamental to the development of decorative and functional textiles across all cultures.
 
+
+## Overview
+
+Dyeing is the process of adding color to textiles using natural or synthetic pigments. Natural dyes were used from the earliest textile production, with the oldest evidence of textile dyeing dating to approximately 10,000 BCE. This technology was fundamental to the development of decorative and functional textiles across all cultures.
 ## History & Development
 
 - ~10,000 BCE: Earliest evidence of textile dyeing using plant and mineral pigments
@@ -40,9 +44,9 @@ Dyeing involves bonding dye molecules to textile fibers through chemical or phys
 - **Mediterranean:** Tyrian purple, derived from murex sea snails, was a prestigious dye used for royal garments in Phoenicia, Greece, and Rome
 
 ## Related Technologies
-
-- [[Textiles/Weaving]]
-
+- [[CLOTHING/Woven-Textiles]]
+- [[CLOTHING/Bark-Cloth]]
+- [[MEDICINE/Herbal-Medicine]]
 ## Sources
 
 1. Barber, Elizabeth J. W. (1991). "Prehistoric Textiles." *Princeton University Press*, Vol. 1, pp. 1–300.
@@ -56,4 +60,4 @@ Dyeing involves bonding dye molecules to textile fibers through chemical or phys
 - What is the full geographic range of independent dye technology development?
 - [[Open Questions]/[Dyeing-Techniques-Open-Questions]]
 
-**Tags:** dyeing, textile-production, chemistry, clothing, period/prehistoric, region/global, function/decorative
+**Tags:** `dyeing, textile-production, chemistry, clothing, period/prehistoric, region/global, function/decorative`

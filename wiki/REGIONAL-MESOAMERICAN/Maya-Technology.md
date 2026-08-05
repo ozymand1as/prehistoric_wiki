@@ -22,6 +22,10 @@ layout: null
 
 The Maya developed the most sophisticated writing system and astronomical knowledge in Mesoamerica, alongside monumental architecture featuring stepped pyramids and corbelled arches. Their technological achievements in agriculture, construction, and record-keeping were sustained over more than three millennia.
 
+
+## Overview
+
+The Maya developed the most sophisticated writing system and astronomical knowledge in Mesoamerica, alongside monumental architecture featuring stepped pyramids and corbelled arches. Their technological achievements in agriculture, construction, and record-keeping were sustained over more than three millennia.
 ## History & Development
 
 - **2600 BCE–1697 AD:** Sustained Maya civilization across Yucatán and Central American highlands
@@ -53,10 +57,11 @@ The Maya developed the most sophisticated writing system and astronomical knowle
 - **Southern Maya area:** Earliest Maya developments; connections to Olmec trade networks
 
 ## Related Technologies
-
-- [[Regional-Mesoamerican/Mesoamerican-Tech]]
-- [[Regional-Mesoamerican/Olmec-Technology]]
-
+- [[REGIONAL-MESOAMERICAN/Mesoamerican-Tech]]
+- [[REGIONAL-MESOAMERICAN/Olmec-Technology]]
+- [[REGIONAL-MESOAMERICAN/Aztec-Technology]]
+- [[AGRICULTURE/Maize-Agriculture]]
+- [[Lithic_Technologies/Stone-Tools]]
 ## Sources
 
 1. Research findings from Mesoamerican technological traditions subagent (Maya section)
@@ -72,4 +77,4 @@ The Maya developed the most sophisticated writing system and astronomical knowle
 - Dating precision of earliest Maya writing and relationship to Olmec script
 - Sustainability and productivity of Pet kot forest gardens vs. milpa agriculture
 
-**Tags:** mesoamerica, maya, writing, astronomy, architecture, agriculture, period/classic, region/yucatan, function/multi
+**Tags:** `mesoamerica, maya, writing, astronomy, architecture, agriculture, period/classic, region/yucatan, function/multi`

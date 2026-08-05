@@ -27,6 +27,10 @@ layout: null
 
 Mesoamerican technological traditions encompass the innovations of the major civilizations of central and southern Mexico and northern Central America, spanning over three millennia. These cultures developed sophisticated stone tool technologies, metallurgy, ceramics, agricultural systems, and monumental architecture, with obsidian serving as the dominant lithic material and a trade network of extraordinary scale.
 
+
+## Overview
+
+Mesoamerican technological traditions encompass the innovations of the major civilizations of central and southern Mexico and northern Central America, spanning over three millennia. These cultures developed sophisticated stone tool technologies, metallurgy, ceramics, agricultural systems, and monumental architecture, with obsidian serving as the dominant lithic material and a trade network of extraordinary scale.
 ## History & Development
 
 - **Olmec (1500–400 BCE):** Earliest complex civilization of Mesoamerica; pioneered stone carving (colossal heads), rubber production, and long-distance trade
@@ -61,12 +65,11 @@ Mesoamerican technological traditions encompass the innovations of the major civ
 - **West Mexico (Mixtec, Purépecha):** Earliest metallurgy (~800 CE); Mixtec goldsmithing; Purépecha resistance to Aztec expansion
 
 ## Related Technologies
-
-- [[Lithic Technologies/Obsidian-Work]]
-- [[Metallurgy/Copper-Working]]
-- [[Agriculture/Milpa-System]]
-- [[Construction/Monumental-Architecture]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Metallurgy/Copper-Smelting-Sites-and-Techniques]]
+- [[AGRICULTURE/Maize-Agriculture]]
+- [[REGIONAL-MESOAMERICAN/Mesoamerican-Tech]]
+- [[Americas/Mesoamerican-Tech]]
 ## Sources
 
 1. Research findings from Mesoamerican technological traditions subagent (Olmec, Maya, Teotihuacan, Zapotec, Toltec, Aztec, Mixtec, Purépecha)
@@ -81,4 +84,4 @@ Mesoamerican technological traditions encompass the innovations of the major civ
 - Extent of Toltec technological influence on Chichén Itzá vs. independent development
 - Why the wheel was known but never adopted in Mesoamerica
 
-**Tags:** mesoamerica, stone-tool, obsidian, metallurgy, ceramics, agriculture, monumental-architecture, trade-network, period/pre-columbian, region/mesoamerica, function/multi
+**Tags:** `mesoamerica, stone-tool, obsidian, metallurgy, ceramics, agriculture, monumental-architecture, trade-network, period/pre-columbian, region/mesoamerica, function/multi`

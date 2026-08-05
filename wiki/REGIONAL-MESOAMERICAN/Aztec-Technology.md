@@ -15,6 +15,10 @@ layout: null
 
 The Aztec civilization built the largest Mesoamerican city at Tenochtitlan and developed innovative agricultural, architectural, and military technologies. Their chinampas (floating gardens), monumental temple construction, and tribute empire represented the culmination of Mesoamerican technological development before European contact.
 
+
+## Overview
+
+The Aztec civilization built the largest Mesoamerican city at Tenochtitlan and developed innovative agricultural, architectural, and military technologies. Their chinampas (floating gardens), monumental temple construction, and tribute empire represented the culmination of Mesoamerican technological development before European contact.
 ## History & Development
 
 - **1325–1521 AD:** Aztec (Mexica) civilization centered on Tenochtitlan in the Valley of Mexico
@@ -47,11 +51,11 @@ The Aztec civilization built the largest Mesoamerican city at Tenochtitlan and d
 - **Michoacán (Purépecha):** Copper-tin bronze production hub; resisted Aztec domination
 
 ## Related Technologies
-
-- [[Regional-Mesoamerican/Mesoamerican-Tech]]
-- [[Regional-Mesoamerican/Olmec-Technology]]
-- [[Agriculture/Chinampas]]
-
+- [[REGIONAL-MESOAMERICAN/Mesoamerican-Tech]]
+- [[REGIONAL-MESOAMERICAN/Olmec-Technology]]
+- [[AGRICULTURE/Maize-Agriculture]]
+- [[REGIONAL-MESOAMERICAN/Maya-Technology]]
+- [[AGRICULTURE/Quinoa-Domestication]]
 ## Sources
 
 1. Research findings from Mesoamerican technological traditions subagent (Aztec section)
@@ -68,4 +72,4 @@ The Aztec civilization built the largest Mesoamerican city at Tenochtitlan and d
 - Engineering details of chinampa construction and productivity
 - How macuahuitl functioned in warfare vs. ritual contexts
 
-**Tags:** mesoamerica, aztec, chinampas, metallurgy, architecture, urban-planning, trade, period/postclassic, region/central-mexico, function/multi
+**Tags:** `mesoamerica, aztec, chinampas, metallurgy, architecture, urban-planning, trade, period/postclassic, region/central-mexico, function/multi`

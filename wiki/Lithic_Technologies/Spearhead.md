@@ -17,6 +17,10 @@ layout: null
 
 Spearheads are projectile points designed to be attached to spears, serving as one of the most enduring and widespread hunting technologies in human prehistory. They evolved from simple pointed stones to sophisticated lithic and later metal points, reflecting advances in cognitive ability, material knowledge, and hunting strategy across cultures and millennia.
 
+
+## Overview
+
+Spearheads are projectile points designed to be attached to spears, serving as one of the most enduring and widespread hunting technologies in human prehistory. They evolved from simple pointed stones to sophisticated lithic and later metal points, reflecting advances in cognitive ability, material knowledge, and hunting strategy across cultures and millennia.
 ## History & Development
 
 - **Lower Paleolithic (~500 ka – 300 ka):** Earliest stone spear points appear at sites such as Kathu Pan (South Africa, ~500,000 BP), where pointed stone tools were likely mounted on wooden spears for hunting large game.
@@ -48,12 +52,11 @@ The choice of material and attachment method depended on available resources, in
 - **Neolithic (Global):** Polished stone spearheads with varied forms — leaf-shaped in Europe, elongated in East Asia — reflecting different hunting strategies and prey types
 
 ## Related Technologies
-
-- [[Lithic Technologies/Paleolithic-Stone-Tools]]
-- [[Lithic Technologies/Stone-Tools]]
-- [[Lithic Technologies/Axe]]
-- [[Metallurgy/Bronze-Age-Metallurgy]]
-
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Lithic_Technologies/Axe]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
+- [[Lithic_Technologies/Hammerstone]]
 ## Sources
 
 1. Thieme, H. (1997). "Lower Palaeolithic hunting spears from Germany." *Nature*, 385(6619), 807–810.
@@ -68,4 +71,4 @@ The choice of material and attachment method depended on available resources, in
 - How did hafting techniques evolve independently across different regions?
 - [[Open Questions]/[Paleolithic-Stone-Tools-Open-Questions]]
 
-**Tags:** spearhead, projectile-point, lithic, hunting, period/paleolithic, period/neolithic, region/global, function/hunting, function/defense, function/fishing, technique/knapping, technique/hafting
+**Tags:** `spearhead, projectile-point, lithic, hunting, period/paleolithic, period/neolithic, region/global, function/hunting, function/defense, function/fishing, technique/knapping, technique/hafting`

@@ -24,6 +24,10 @@ layout: null
 
 Woven textiles are cloth made by interlacing threads on a loom, representing one of the oldest and most widespread textile technologies in human history. Weaving transformed raw fibers into durable, versatile fabric and became a cornerstone of ancient economies and daily life.
 
+
+## Overview
+
+Woven textiles are cloth made by interlacing threads on a loom, representing one of the oldest and most widespread textile technologies in human history. Weaving transformed raw fibers into durable, versatile fabric and became a cornerstone of ancient economies and daily life.
 ## History & Development
 
 - ~10,000 BCE: Oldest known woven textiles in Neolithic Europe
@@ -58,10 +62,14 @@ Fiber preparation includes spinning raw fibers into thread, which is then woven 
 - **Andean textiles:** Complex woven textiles using camelid fibers (alpaca, llama); known for intricate patterns and vibrant dyes
 
 ## Related Technologies
-
-- [[Textiles/Bark-Cloth|Bark Cloth]]
-- [[Textiles/Fur-Clothing|Fur Clothing]]
-
+- [[CLOTHING/Bark-Cloth|Bark Cloth]]
+- [[CLOTHING/Fursuits|Fur Clothing]]
+- [[CLOTHING/Fursuits]]
+- [[CLOTHING/Bark-Cloth]]
+- [[CLOTHING/Dyeing-Techniques]]
+- [[AGRICULTURE/Crop-Domestication]]
+- [[Asia/Neolithic-Technology]]
+- [[Europe/Neolithic-Technology]]
 ## Sources
 
 1. Barber, Elizabeth J. W. (1991). "Prehistoric Textiles: The Development of Cloth in the Neolithic and Bronze Ages." *Princeton University Press*.
@@ -74,4 +82,4 @@ Fiber preparation includes spinning raw fibers into thread, which is then woven 
 - What was the precise timeline for the spread of weaving techniques across continents?
 - [[Open Questions]/[Textile-Preservation-Limitations]]
 
-**Tags:** woven-textiles, textile-production, weaving, clothing, period/neolithic, region/global, function/textile
+**Tags:** `woven-textiles, textile-production, weaving, clothing, period/neolithic, region/global, function/textile`

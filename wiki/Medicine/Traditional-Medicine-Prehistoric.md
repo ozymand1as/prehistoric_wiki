@@ -18,6 +18,10 @@ layout: null
 
 Medicine in the time before the invention of writing. Prehistoric medicine encompasses any use of medicine from before the invention of writing and the documented history of medicine. Because the timing of the invention of writing varies per culture and region, the term "prehistoric medicine" covers a wide range of time periods — from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Life expectancy was 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters. Common ailments included osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, and infections without antiseptics.
 
+
+## Overview
+
+Medicine in the time before the invention of writing. Prehistoric medicine encompasses any use of medicine from before the invention of writing and the documented history of medicine. Because the timing of the invention of writing varies per culture and region, the term "prehistoric medicine" covers a wide range of time periods — from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Life expectancy was 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters. Common ailments included osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, and infections without antiseptics.
 ## History & Development
 
 The study of prehistoric medicine relies heavily on artifacts, human remains, mummies (such as the Siberian Ice Maiden and bog bodies), cave paintings, and ethnographic studies of uncontacted and indigenous peoples. Ötzi the Iceman (c. 3230 BC) carried a deliberate "prehistoric medical kit": birch polypore fungus (antiparasitic/antibiotic), poppy seeds (analgesic), sloe berries (vertigo/eczema), and sphagnum moss (antiseptic wound dressing). Neanderthal remains show evidence of healing practices and care for the sick and injured.
@@ -49,11 +53,11 @@ The study of prehistoric medicine relies heavily on artifacts, human remains, mu
 - **India:** Ayurveda — diet-based treatment, herbal remedies, spiritual elements; Charaka and Sushruta (1st millennium BC) described herbs and minerals
 
 ## Related Technologies
-
-- [[Metallurgy/Stone-Tools|Stone Tools]]
-- [[Medicine/Archaeosurgery]]
-- [[Medicine/Herbal-Medicine]]
-
+- [[Lithic_Technologies/Stone-Tools|Stone Tools]]
+- [[MEDICINE/Archaeosurgery]]
+- [[MEDICINE/Herbal-Medicine]]
+- [[MEDICINE/Traditional-Medicine]]
+- [[MEDICINE/Dental-Care]]
 ## Sources
 
 1. Wikipedia contributors. "Prehistoric medicine." *Wikipedia*, The Free Encyclopedia. Retrieved [Date].
@@ -68,4 +72,4 @@ The study of prehistoric medicine relies heavily on artifacts, human remains, mu
 
 - [[Open Questions]/[Traditional-Medicine-Prehistoric-Open-Questions]]
 
-**Tags:** medicine, prehistoric, ethnographic, inferred, health, healing, trepanning, plant-medicine, surgery, shamanism
+**Tags:** `medicine, prehistoric, ethnographic, inferred, health, healing, trepanning, plant-medicine, surgery, shamanism`

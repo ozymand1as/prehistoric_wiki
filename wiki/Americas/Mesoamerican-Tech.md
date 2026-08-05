@@ -28,6 +28,10 @@ layout: null
 
 Mesoamerica was a primary center for the independent origin of agriculture and complex civilization development. The region evolved from early stone-tool reliance to sophisticated material sciences including pottery, weaving, metallurgy, and complex agricultural systems. The Mesoamerican technological tradition is characterized by independent development of key technologies and distinctive material cultures.
 
+
+## Overview
+
+Mesoamerica was a primary center for the independent origin of agriculture and complex civilization development. The region evolved from early stone-tool reliance to sophisticated material sciences including pottery, weaving, metallurgy, and complex agricultural systems. The Mesoamerican technological tradition is characterized by independent development of key technologies and distinctive material cultures.
 ## History & Development
 
 ### Paleo-Indian Period (10,000–3500 BCE)
@@ -121,10 +125,10 @@ Large-scale ceremonial architecture, writing, cities, and states developed:
 
 ## Related Technologies
 
-- [[Regional-Mesoamerican/Mesoamerican-Tech]]
-- [[Regional-Mesoamerican/Olmec-Technology]]
-- [[Agriculture/Maize-Agriculture]]
-- [[Lithic Technologies/Obsidian-Work]]
+- [[REGIONAL-MESOAMERICAN/Mesoamerican-Tech]]
+- [[REGIONAL-MESOAMERICAN/Olmec-Technology]]
+- [[AGRICULTURE/Maize-Agriculture]]
+- [[Lithic_Technologies/Stone-Tools]]
 
 ## Sources
 
@@ -139,4 +143,4 @@ Large-scale ceremonial architecture, writing, cities, and states developed:
 - Zapotec script largely undeciphered
 - Classic Maya collapse causes remain debated
 
-**Tags:** period/stone-age, period/neolithic, function/tool, agriculture, metallurgy, region/americas, mexico, evidence/material, evidence/ethnographic
+**Tags:** `period/stone-age, period/neolithic, function/tool, agriculture, metallurgy, region/americas, mexico, evidence/material, evidence/ethnographic`

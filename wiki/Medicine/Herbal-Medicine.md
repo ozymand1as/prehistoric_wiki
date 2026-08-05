@@ -24,6 +24,10 @@ layout: null
 
 Herbal medicine is the use of plants for medicinal purposes and represents the oldest form of medicine, predating written history. Plants—including herbs, roots, bark, leaves, and flowers—have been used across all cultures to treat illness and maintain health. Many modern drugs derive from plant compounds originally identified through traditional herbal knowledge.
 
+
+## Overview
+
+Herbal medicine is the use of plants for medicinal purposes and represents the oldest form of medicine, predating written history. Plants—including herbs, roots, bark, leaves, and flowers—have been used across all cultures to treat illness and maintain health. Many modern drugs derive from plant compounds originally identified through traditional herbal knowledge.
 ## History & Development
 
 - **Sumerians (c. 3000 BCE):** First written records of herbal prescriptions on cuneiform tablets
@@ -57,10 +61,10 @@ Herbal medicine is the use of plants for medicinal purposes and represents the o
 
 ## Related Technologies
 
-- [[Medicine/Traditional-Medicine]]
-- [[Medicine/Traditional-Medicine-Prehistoric]]
-- [[Medicine/Archaeosurgery]]
-- [[Botany/Plant-Domestication]]
+- [[MEDICINE/Traditional-Medicine]]
+- [[MEDICINE/Traditional-Medicine-Prehistoric]]
+- [[MEDICINE/Archaeosurgery]]
+- [[AGRICULTURE/Crop-Domestication]]
 
 ## Sources
 
@@ -75,4 +79,4 @@ Herbal medicine is the use of plants for medicinal purposes and represents the o
 - Which plant compounds used in ancient herbal medicine remain unvalidated by modern science?
 - [[Open Questions]/[Paleopharmacology-Open-Questions]]
 
-**Tags:** herbal-medicine, medicine, prehistoric, ethnobology, paleopharmacology, function/medicine
+**Tags:** `herbal-medicine, medicine, prehistoric, ethnobology, paleopharmacology, function/medicine`

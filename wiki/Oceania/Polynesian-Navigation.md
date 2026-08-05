@@ -23,6 +23,10 @@ layout: null
 
 Polynesian navigation (Polynesian wayfinding) was used for thousands of years to enable long voyages across thousands of kilometres of the open Pacific Ocean. Polynesians made contact with nearly every island within the vast Polynesian Triangle, using outrigger canoes or double-hulled canoes. Navigators used wayfinding techniques such as navigation by the stars, observations of birds, ocean swells, and wind patterns, relying on oral tradition. This island-hopping was a solution to scarcity of useful resources in the Pacific.
 
+
+## Overview
+
+Polynesian navigation (Polynesian wayfinding) was used for thousands of years to enable long voyages across thousands of kilometres of the open Pacific Ocean. Polynesians made contact with nearly every island within the vast Polynesian Triangle, using outrigger canoes or double-hulled canoes. Navigators used wayfinding techniques such as navigation by the stars, observations of birds, ocean swells, and wind patterns, relying on oral tradition. This island-hopping was a solution to scarcity of useful resources in the Pacific.
 ## History & Development
 
 ### Migration Patterns
@@ -140,9 +144,10 @@ Polynesian navigation relies on constant observation and memorization.
 - Reached "a place of bitter cold"
 
 ## Related Technologies
-
-- [[Transportation/Polynesian-Navigation]]
-
+- [[Oceania/Polynesian-Navigation]]
+- [[Americas/Oceania_Technology]]
+- [[CLOTHING/Bark-Cloth]]
+- [[Lithic_Technologies/Stone-Tools]]
 ## Sources
 
 1. Wikipedia. "Polynesian navigation." *Wikipedia*, en.wikipedia.org.
@@ -157,4 +162,4 @@ Polynesian navigation relies on constant observation and memorization.
 - Descriptions of early pottery on Antipodes Islands unsubstantiated
 - Degree of Pre-Columbian contact between Polynesia and Americas remains debated
 
-**Tags:** period/stone-age, period/neolithic, function/transport, evidence/ethnographic, region/oceania, evidence/material
+**Tags:** `period/stone-age, period/neolithic, function/transport, evidence/ethnographic, region/oceania, evidence/material`

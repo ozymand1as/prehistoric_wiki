@@ -16,6 +16,10 @@ layout: null
 
 Axes are among the earliest and most enduring stone tools in human prehistory, dating back to the Acheulean industry approximately 1.76 million years ago. They evolved from simple pebble tools to sophisticated ground stone implements, serving as fundamental instruments for survival, subsistence, and technological advancement across multiple continents and millennia.
 
+
+## Overview
+
+Axes are among the earliest and most enduring stone tools in human prehistory, dating back to the Acheulean industry approximately 1.76 million years ago. They evolved from simple pebble tools to sophisticated ground stone implements, serving as fundamental instruments for survival, subsistence, and technological advancement across multiple continents and millennia.
 ## History & Development
 
 The earliest axes appeared in the Acheulean tradition as bifacial hand axes, shaped by knapping on both sides to produce a symmetrical cutting edge. These tools, found at sites such as Saint-Acheul in France and Olorgesailie in Kenya, represent a significant cognitive leap in hominin tool-making. During the Middle and Upper Paleolithic, axe forms diversified as hafting—the attachment of stone heads to wooden handles—became widespread, dramatically improving their effectiveness. In the Neolithic period, axes reached their peak sophistication with the development of polished stone axes and ground stone axes, which offered sharper, more durable edges. Key Neolithic sites such as Lake Turkana in Kenya have yielded well-preserved examples of these advanced forms.
@@ -37,11 +41,11 @@ Acheulean hand axes were produced by bifacial knapping, striking stone cores on 
 - **Asian cleavers:** Large, heavy-duty chopping tools with a distinctive transverse cutting edge, prevalent in Acheulean assemblages across South and East Asia
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Tools]]
-- [[Lithic Technologies/Neolithic_Pottery]]
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Choppers-Regional]]
+- [[Lithic_Technologies/Spearhead]]
 ## Sources
 
 1. Mary Leakey (1971). "Olduvai Gorge: Excavations in Beds I and II, 1960–1963." *Cambridge University Press*, Vol. 3.
@@ -53,4 +57,4 @@ Acheulean hand axes were produced by bifacial knapping, striking stone cores on 
 - What role did axe trade networks play in the social organization of Neolithic communities?
 - [[Open Questions]/[Acheulean-Open-Questions]]
 
-**Tags:** axe, lithic-technology, period/stone-age, region/africa, region/europe, region/asia, function/tool, function/weapon, culture/acheulean, culture/neolithic
+**Tags:** `axe, lithic-technology, period/stone-age, region/africa, region/europe, region/asia, function/tool, function/weapon, culture/acheulean, culture/neolithic`

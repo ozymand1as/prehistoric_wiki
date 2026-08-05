@@ -17,6 +17,10 @@ layout: null
 
 Hammerstones are among the oldest stone tools, used as percussive tools for knapping other stones to produce flakes. They are hard, rounded stones used to strike other rocks, and they were essential for producing all other stone tools throughout human prehistory.
 
+
+## Overview
+
+Hammerstones are among the oldest stone tools, used as percussive tools for knapping other stones to produce flakes. They are hard, rounded stones used to strike other rocks, and they were essential for producing all other stone tools throughout human prehistory.
 ## History & Development
 
 Hammerstones date back to the earliest Stone Age, with the oldest known examples associated with the Lomekwi industry (~3.3 Ma). They were used continuously through the Acheulean period and remained central to lithic production through the Neolithic. Their development paralleled the increasing complexity of knapping techniques, from simple hard-hammer percussion to more refined soft-hammer methods using bone or antler.
@@ -38,11 +42,10 @@ Hammerstones are naturally hard, rounded stones selected for their density and d
 - **Neolithic Europe:** More refined hammerstones, often with evidence of soft-hammer technique using antler or bone percussors
 
 ## Related Technologies
-
-- [[Lithic Technologies/Flintknapping]]
-- [[Lithic Technologies/Axe]]
-- [[Lithic Technologies/Stone-Age-Choppers]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Lithic_Technologies/Axe]]
+- [[Lithic_Technologies/Choppers]]
+- [[Lithic_Technologies/Spearhead]]
 ## Sources
 
 1. Harmand, S. et al. (2015). "3.3-million-year-old stone tools from Lomekwi 3, West Lake Turkana, Kenya." *Nature*, 521(7552), 310–315.
@@ -54,4 +57,4 @@ Hammerstones are naturally hard, rounded stones selected for their density and d
 - To what extent were hammerstones used for purposes other than knapping (e.g., ore processing)?
 - [[Open Questions]/Hammerstone-Use-Variability]
 
-**Tags:** lithic-technology, stone-age, percussive-tool, archaeology, region/global, function/tool
+**Tags:** `lithic-technology, stone-age, percussive-tool, archaeology, region/global, function/tool`

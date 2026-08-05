@@ -19,6 +19,10 @@ layout: null
 
 Bronze Age metallurgy represents a fundamental technological revolution in human history. The development of bronze (copper-tin alloy) tools, weapons, and ornaments marked the transition from the Stone Age to the Bronze Age. This technological advancement enabled more durable tools, improved weapon effectiveness, and facilitated complex trade networks.
 
+
+## Overview
+
+Bronze Age metallurgy represents a fundamental technological revolution in human history. The development of bronze (copper-tin alloy) tools, weapons, and ornaments marked the transition from the Stone Age to the Bronze Age. This technological advancement enabled more durable tools, improved weapon effectiveness, and facilitated complex trade networks.
 ## History & Development
 
 ### Early Copper Working (~6,500 BCE)
@@ -66,11 +70,10 @@ Bronze Age metallurgy represents a fundamental technological revolution in human
 - **Europe:** Bell Beaker culture immigration, new ceramic culture
 
 ## Related Technologies
-
-- [[Lithic Technologies/Choppers]]
+- [[Lithic_Technologies/Choppers]]
 - [[Metallurgy/Lost-Wax-Casting]]
 - [[Metallurgy/Copper-Trade]]
-
+- [[Metallurgy/Bronze-Age-Archaeology]]
 ## Sources
 
 1. [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) - Wikipedia
@@ -82,4 +85,4 @@ Bronze Age metallurgy represents a fundamental technological revolution in human
 - [[Open Questions]/[Bronze-Metallurgy]]
 - [[Open Questions]/[Copper-Trade]]
 
-**Tags:** period/bronze-age, region/mesopotamia, region/egypt, region/china, region/europe, function/tool, function/weapon, evidence/material, function/metallurgy
+**Tags:** `period/bronze-age, region/mesopotamia, region/egypt, region/china, region/europe, function/tool, function/weapon, evidence/material, function/metallurgy`

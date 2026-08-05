@@ -15,6 +15,10 @@ layout: null
 
 The Olmec civilization was the earliest complex society in Mesoamerica, pioneering stone carving, rubber production, and long-distance trade networks that established foundational technological patterns for all subsequent Mesoamerican cultures. The Olmec are known for their colossal stone heads, obsidian trade, and cacao cultivation.
 
+
+## Overview
+
+The Olmec civilization was the earliest complex society in Mesoamerica, pioneering stone carving, rubber production, and long-distance trade networks that established foundational technological patterns for all subsequent Mesoamerican cultures. The Olmec are known for their colossal stone heads, obsidian trade, and cacao cultivation.
 ## History & Development
 
 - **1500–400 BCE:** Flourishing of Olmec civilization along the Gulf Coast
@@ -43,10 +47,10 @@ The Olmec civilization was the earliest complex society in Mesoamerica, pioneeri
 
 ## Related Technologies
 
-- [[Regional-Mesoamerican/Mesoamerican-Tech]]
-- [[Lithic Technologies/Obsidian-Work]]
-- [[Metallurgy/Copper-Working]]
-- [[Agriculture/Cacao-Domestication]]
+- [[REGIONAL-MESOAMERICAN/Mesoamerican-Tech]]
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Metallurgy/Copper-Smelting-Sites-and-Techniques]]
+- [[AGRICULTURE/Crop-Domestication]]
 
 ## Sources
 
@@ -61,4 +65,4 @@ The Olmec civilization was the earliest complex society in Mesoamerica, pioneeri
 - Full extent of Olmec trade network reach and exchange relationships
 - Dating precision of earliest rubber production stages
 
-**Tags:** mesoamerica, olmec, stone-carving, rubber, trade, period/formative, region/gulf-coast, function/ritual
+**Tags:** `mesoamerica, olmec, stone-carving, rubber, trade, period/formative, region/gulf-coast, function/ritual`

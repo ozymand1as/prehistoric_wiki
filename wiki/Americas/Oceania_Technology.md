@@ -22,6 +22,10 @@ layout: null
 
 Oceania technologies represent the technological development of indigenous peoples in the Pacific Islands, spanning from early settlement to complex maritime cultures. These technologies included advanced navigation, boat building, knotting, and astronomical observation. Ethnographic records highlight intergenerational teaching, oral histories, and adaptive survival strategies in remote environments.
 
+
+## Overview
+
+Oceania technologies represent the technological development of indigenous peoples in the Pacific Islands, spanning from early settlement to complex maritime cultures. These technologies included advanced navigation, boat building, knotting, and astronomical observation. Ethnographic records highlight intergenerational teaching, oral histories, and adaptive survival strategies in remote environments.
 ## History & Development
 
 ### Initial Settlement (~50,000 years ago)
@@ -63,10 +67,9 @@ Oceania technologies represent the technological development of indigenous peopl
 - **Pacific Islands:** Distinct regional adaptations
 
 ## Related Technologies
-
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
 - [[Oceania/Polynesian-Navigation]]
-
+- [[CLOTHING/Bark-Cloth]]
 ## Sources
 
 1. Melanesians - Wikipedia
@@ -78,4 +81,4 @@ Oceania technologies represent the technological development of indigenous peopl
 - [[Open Questions]/[Oceania-Technology]]
 - [[Open Questions]/[Polynesian-Navigation]]
 
-**Tags:** region/oceania, function/tool, function/transport, evidence/material
+**Tags:** `region/oceania, function/tool, function/transport, evidence/material`

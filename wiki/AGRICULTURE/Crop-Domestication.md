@@ -15,6 +15,10 @@ layout: null
 
 Crop domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation (harvesting wild stands before planting them). Wild grains were collected from at least 105,000 years ago; the earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant). The transition from foraging to farming involved initial intensification and sedentism → wild stands being planted → gradual domestication. Domestication increased yield, improved disease resistance and drought tolerance, eased harvest, and improved taste/nutritional value.
 
+
+## Overview
+
+Crop domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation (harvesting wild stands before planting them). Wild grains were collected from at least 105,000 years ago; the earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant). The transition from foraging to farming involved initial intensification and sedentism → wild stands being planted → gradual domestication. Domestication increased yield, improved disease resistance and drought tolerance, eased harvest, and improved taste/nutritional value.
 ## History & Development
 
 ### The Process of Domestication
@@ -101,10 +105,12 @@ Domestication was a slow process preceded by centuries/millennia of pre-domestic
 - **Cultural Significance:** Companion planting (Three Sisters) reflects ecological knowledge; granaries and storage systems enabled settled life; agricultural practices shaped social organization and trade networks
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Tools]]
-- [[Metallurgy/Bronze-Age-Metallurgy]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[Metallurgy/Bronze_Age_Metallurgy]]
+- [[AGRICULTURE/Quinoa-Domestication]]
+- [[AGRICULTURE/Tuber-Agriculture]]
+- [[Asia/Neolithic-Technology]]
+- [[Europe/Neolithic-Technology]]
 ## Sources
 
 1. Wikipedia contributors. "Agriculture." *Wikipedia*, en.wikipedia.org.
@@ -118,4 +124,4 @@ Domestication was a slow process preceded by centuries/millennia of pre-domestic
 - Causality: Whether agriculture preceded politics or vice versa remains debated
 - [[Open Questions]/[Crop-Domestication-Open-Questions]]
 
-**Tags:** agriculture, period/neolithic, function/food, region/global, evidence/material, domestication, crops
+**Tags:** `agriculture, period/neolithic, function/food, region/global, evidence/material, domestication, crops`

@@ -18,6 +18,10 @@ layout: null
 
 Tuber crops including potatoes, sweet potatoes, yams, and cassava were domesticated independently in multiple regions worldwide, becoming crucial food sources that enabled population growth in diverse environments. These crops provided reliable, calorie-dense nutrition and supported the development of complex societies across continents.
 
+
+## Overview
+
+Tuber crops including potatoes, sweet potatoes, yams, and cassava were domesticated independently in multiple regions worldwide, becoming crucial food sources that enabled population growth in diverse environments. These crops provided reliable, calorie-dense nutrition and supported the development of complex societies across continents.
 ## History & Development
 
 - **Potato domestication:** Originated in the Andes approximately 10,000–7,000 years ago, with selective breeding by Andean peoples producing diverse varieties adapted to high-altitude conditions.
@@ -44,10 +48,10 @@ Tuber cultivation involved land clearing, planting of tuber pieces or cuttings, 
 - **Tropical lowlands:** Cassava-based agriculture supporting dense populations in areas unsuitable for grain crops
 
 ## Related Technologies
-
-- [[Lithic Technologies/Stone-Tools]]
-- [[Agriculture/Early-Agriculture-and-Domestication]]
-
+- [[Lithic_Technologies/Stone-Tools]]
+- [[AGRICULTURE/Early-Agriculture-and-Domestication]]
+- [[AGRICULTURE/Crop-Domestication]]
+- [[ASIA/Neolithic-Technology]]
 ## Sources
 
 1. Researchers (2023). "Tuber crop domestication and dispersal." *Journal of Archaeological Science*, 148, 105–120.
@@ -59,4 +63,4 @@ Tuber cultivation involved land clearing, planting of tuber pieces or cuttings, 
 - How tuber processing techniques (particularly cassava detoxification) spread between regions is not fully understood
 - [[Open Questions]/[Tuber-Agriculture-Open-Questions]]
 
-**Tags:** agriculture, tuber-crops, neolithic, region/south-america, region/africa, function/food, period/neolithic
+**Tags:** `agriculture, tuber-crops, neolithic, region/south-america, region/africa, function/food, period/neolithic`
