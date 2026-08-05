@@ -20,15 +20,6 @@ collections:
   wiki:
     output: true
     permalink: pretty
-  navigation:
-    output: true
-    permalink: /wiki/:path.html
-  open_questions:
-    output: true
-    permalink: /wiki/:path.html
-  timeline:
-    output: true
-    permalink: /wiki/:path.html
 
 # Exclude from build
 exclude:
