@@ -30,6 +30,7 @@ exclude:
   - README.md
   - wiki/MEDICINE/research-findings-traditional-medicine-full.md
   - wiki/MEDICINE/research-findings-traditional-medicine-prehistoric.md
+  - wiki/OPEN-QUESTIONS.md
 
 watch:
   - wiki
