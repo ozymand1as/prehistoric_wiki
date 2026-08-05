@@ -1,6 +1,9 @@
-# Primitive Tech Wiki - Open Questions Index
-
 ---
+layout: null
+permalink: /wiki/OPEN-QUESTIONS-INDEX.html
+---
+
+# Primitive Tech Wiki - Open Questions Index
 **Period:** Stone Age to Bronze Age
 **Region(s):** Global
 **Culture(s):** All known prehistoric cultures

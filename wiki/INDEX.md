@@ -1,6 +1,9 @@
-# Primitive Tech Wiki - Index
-
 ---
+layout: null
+permalink: /wiki/INDEX.html
+---
+
+# Primitive Tech Wiki - Index
 **Period:** Stone Age to Bronze Age
 **Region(s):** Global
 **Culture(s):** All known prehistoric cultures

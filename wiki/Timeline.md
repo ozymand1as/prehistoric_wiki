@@ -1,6 +1,9 @@
-# Primitive Tech Wiki - Timeline
-
 ---
+layout: null
+permalink: /wiki/Timeline.html
+---
+
+# Primitive Tech Wiki - Timeline
 **Period:** Stone Age to Bronze Age
 **Region(s):** Global
 **Culture(s):** All known prehistoric cultures

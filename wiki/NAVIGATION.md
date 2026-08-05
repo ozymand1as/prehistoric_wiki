@@ -1,6 +1,9 @@
-# Primitive Tech Wiki - Navigation Guide
-
 ---
+layout: null
+permalink: /wiki/NAVIGATION.html
+---
+
+# Primitive Tech Wiki - Navigation Guide
 **Period:** Stone Age to Bronze Age
 **Region(s):** Global
 **Culture(s):** All known prehistoric cultures
