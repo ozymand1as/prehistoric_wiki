@@ -19,7 +19,8 @@ defaults:
 collections:
   wiki:
     output: true
-    permalink: pretty
+    path: wiki
+    permalink: /wiki/:path.html
 
 # Exclude from build
 exclude:
