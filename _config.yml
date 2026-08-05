@@ -32,6 +32,7 @@ exclude:
   - wiki/MEDICINE/research-findings-traditional-medicine-prehistoric.md
   - wiki/OPEN-QUESTIONS.md
   - wiki/NAVIGATION.md
+  - wiki/OPEN-QUESTIONS-INDEX.md
 
 watch:
   - wiki
