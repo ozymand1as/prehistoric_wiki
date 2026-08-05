@@ -22,21 +22,21 @@ This navigation guide provides structured pathways through the wiki, helping use
 ```
 Lithic Technologies
   ├─ Paleolithic Stone Tools
-  │  └─ [[Lithic Technologies/Paleolithic_Stone_Tools]]
+  │  └─ [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
   │
   ├─ Stone Age Choppers
-  │  └─ [[Lithic Technologies/Stone_Age_Choppers]]
+  │  └─ [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic Technologies/Stone_Age_Choppers.html)
   │
   ├─ Neolithic Pottery
-  │  └─ [[Lithic Technologies/Neolithic_Pottery]]
+  │  └─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
   │
   └─ Pottery Techniques
-     └─ [[Lithic Technologies/Pottery-Techniques]]
+     └─ [Pottery Techniques](/prehistoric_wiki/wiki/Lithic Technologies/Pottery-Techniques.html)
 ```
 
 **Related Technologies:**
-- [[AGRICULTURE/Crop-Domestication]] - Neolithic context
-- [[Metallurgy/Bronze_Age_Metallurgy]] - Metal transition
+- [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Neolithic context
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Metal transition
 
 ---
 
@@ -44,13 +44,13 @@ Lithic Technologies
 ```
 Agriculture
   └─ Crop Domestication
-     └─ [[AGRICULTURE/Crop-Domestication]]
+     └─ [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
 ```
 
 **Related Technologies:**
-- [[Lithic Technologies/Neolithic_Pottery]] - Food storage
-- [[Metallurgy/Bronze_Age_Metallurgy]] - Agricultural tools
-- [[Americas/Mesoamerican-Tech]] - Independent origins
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html) - Food storage
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Agricultural tools
+- [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html) - Independent origins
 
 ---
 
@@ -58,13 +58,13 @@ Agriculture
 ```
 Metallurgy
   └─ Bronze Age Metallurgy
-     └─ [[Metallurgy/Bronze_Age_Metallurgy]]
+     └─ [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 ```
 
 **Related Technologies:**
-- [[Lithic Technologies/Stone_Age_Choppers]] - Pre-metal tools
-- [[Oceania/Polynesian-Navigation]] - Maritime trade
-- [[Americas/Mesoamerican-Tech]] - Metalworking traditions
+- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic Technologies/Stone_Age_Choppers.html) - Pre-metal tools
+- [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html) - Maritime trade
+- [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html) - Metalworking traditions
 
 ---
 
@@ -72,15 +72,15 @@ Metallurgy
 ```
 Oceania
   ├─ Polynesian Navigation
-  │  └─ [[Oceania/Polynesian-Navigation]]
+  │  └─ [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
   │
   └─ Oceania Technologies
-     └─ [[Americas/Oceania_Technology]]
+     └─ [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
 ```
 
 **Related Technologies:**
-- [[Lithic Technologies/Pottery-Techniques]] - Lapita pottery
-- [[Metallurgy/Bronze_Age_Metallurgy]] - Maritime trade networks
+- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic Technologies/Pottery-Techniques.html) - Lapita pottery
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Maritime trade networks
 
 ---
 
@@ -88,15 +88,15 @@ Oceania
 ```
 Americas
   ├─ Mesoamerican Technology
-  │  └─ [[Americas/Mesoamerican-Tech]]
+  │  └─ [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
   │
   └─ Oceania Technologies
-     └─ [[Americas/Oceania_Technology]]
+     └─ [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
 ```
 
 **Related Technologies:**
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Paleo-Indian period
-- [[AGRICULTURE/Crop-Domestication]] - Independent domestication
+- [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html) - Paleo-Indian period
+- [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Independent domestication
 
 ---
 
@@ -106,17 +106,17 @@ Americas
 ```
 Paleolithic
   ├─ Lower Paleolithic (3.3m - 300k BCE)
-  │  └─ [[Lithic Technologies/Paleolithic_Stone_Tools]]
+  │  └─ [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
   │
   ├─ Middle/Late Paleolithic (300k - 12k BCE)
-  │  └─ [[Lithic Technologies/Stone_Age_Choppers]]
+  │  └─ [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic Technologies/Stone_Age_Choppers.html)
   │
   └─ Epipalaeolithic (12k - 10k BCE)
-     └─ [[Lithic Technologies/Neolithic_Pottery]]
+     └─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
 ```
 
 **Related Technologies:**
-- [[Metallurgy/Bronze_Age_Metallurgy]] - Technology evolution
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Technology evolution
 
 ---
 
@@ -124,19 +124,19 @@ Paleolithic
 ```
 Neolithic
   ├─ Agriculture
-  │  └─ [[AGRICULTURE/Crop-Domestication]]
+  │  └─ [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
   │
   ├─ Pottery
-  │  ├─ [[Lithic Technologies/Neolithic_Pottery]]
-  │  └─ [[Lithic Technologies/Pottery-Techniques]]
+  │  ├─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+  │  └─ [Pottery Techniques](/prehistoric_wiki/wiki/Lithic Technologies/Pottery-Techniques.html)
   │
   └─ Settled Societies
-     └─ [[Americas/Mesoamerican-Tech]]
+     └─ [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
 ```
 
 **Related Technologies:**
-- [[Metallurgy/Bronze_Age_Metallurgy]] - Copper Age transition
-- [[Oceania/Polynesian-Navigation]] - Migration period
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Copper Age transition
+- [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html) - Migration period
 
 ---
 
@@ -144,18 +144,18 @@ Neolithic
 ```
 Bronze Age
   ├─ Metallurgy
-  │  └─ [[Metallurgy/Bronze_Age_Metallurgy]]
+  │  └─ [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
   │
   ├─ Complex Societies
-  │  └─ [[Americas/Mesoamerican-Tech]]
+  │  └─ [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
   │
   └─ Maritime Cultures
-     └─ [[Oceania/Polynesian-Navigation]]
+     └─ [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
 ```
 
 **Related Technologies:**
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Tool replacement
-- [[AGRICULTURE/Crop-Domestication]] - Agricultural base
+- [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html) - Tool replacement
+- [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Agricultural base
 
 ---
 
@@ -164,9 +164,9 @@ Bronze Age
 ### Near East / Fertile Crescent
 ```
 Near East
-  ├─ [[AGRICULTURE/Crop-Domestication]]
-  ├─ [[Lithic Technologies/Neolithic_Pottery]]
-  └─ [[Metallurgy/Bronze_Age_Metallurgy]]
+  ├─ [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
+  ├─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+  └─ [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 ```
 
 ---
@@ -174,9 +174,9 @@ Near East
 ### Europe
 ```
 Europe
-  ├─ [[Lithic Technologies/Paleolithic_Stone_Tools]]
-  ├─ [[Lithic Technologies/Neolithic_Pottery]]
-  └─ [[Metallurgy/Bronze_Age_Metallurgy]]
+  ├─ [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
+  ├─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+  └─ [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 ```
 
 ---
@@ -184,9 +184,9 @@ Europe
 ### Asia
 ```
 Asia
-  ├─ [[Lithic Technologies/Paleolithic_Stone_Tools]]
-  ├─ [[Lithic Technologies/Neolithic_Pottery]]
-  └─ [[Metallurgy/Bronze_Age_Metallurgy]]
+  ├─ [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
+  ├─ [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+  └─ [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 ```
 
 ---
@@ -194,9 +194,9 @@ Asia
 ### Americas
 ```
 Americas
-  ├─ [[Americas/Mesoamerican-Tech]]
-  ├─ [[Americas/Oceania_Technology]]
-  └─ [[Lithic Technologies/Paleolithic_Stone_Tools]]
+  ├─ [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
+  ├─ [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
+  └─ [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
 ```
 
 ---
@@ -204,8 +204,8 @@ Americas
 ### Oceania
 ```
 Oceania
-  ├─ [[Oceania/Polynesian-Navigation]]
-  └─ [[Americas/Oceania_Technology]]
+  ├─ [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
+  └─ [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
 ```
 
 ---
@@ -213,30 +213,30 @@ Oceania
 ## Cross-Reference Index
 
 ### Stone Tools
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
-- [[Lithic Technologies/Stone_Age_Choppers]]
-- [[Lithic Technologies/Neolithic_Pottery]]
-- [[Lithic Technologies/Pottery-Techniques]]
+- [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
+- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic Technologies/Stone_Age_Choppers.html)
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic Technologies/Pottery-Techniques.html)
 
 ### Agriculture
-- [[AGRICULTURE/Crop-Domestication]]
-- [[Lithic Technologies/Neolithic_Pottery]]
-- [[Metallurgy/Bronze_Age_Metallurgy]]
+- [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html)
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 
 ### Oceania
-- [[Oceania/Polynesian-Navigation]]
-- [[Americas/Oceania_Technology]]
-- [[Lithic Technologies/Pottery-Techniques]]
+- [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
+- [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
+- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic Technologies/Pottery-Techniques.html)
 
 ### Americas
-- [[Americas/Mesoamerican-Tech]]
-- [[Americas/Oceania_Technology]]
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
+- [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
+- [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
+- [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html)
 
 ### Metallurgy
-- [[Metallurgy/Bronze_Age_Metallurgy]]
-- [[Lithic Technologies/Stone_Age_Choppers]]
-- [[Oceania/Polynesian-Navigation]]
+- [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
+- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic Technologies/Stone_Age_Choppers.html)
+- [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
 
 ---
 
@@ -244,12 +244,12 @@ Oceania
 
 | Category | Primary Page |
 |----------|--------------|
-| Stone Tools | [[Lithic Technologies/Paleolithic_Stone_Tools]] |
-| Agriculture | [[AGRICULTURE/Crop-Domestication]] |
-| Metallurgy | [[Metallurgy/Bronze_Age_Metallurgy]] |
-| Oceania | [[Oceania/Polynesian-Navigation]] |
-| Americas | [[Americas/Mesoamerican-Tech]] |
-| Pottery | [[Lithic Technologies/Neolithic_Pottery]] |
+| Stone Tools | [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic Technologies/Paleolithic_Stone_Tools.html) |
+| Agriculture | [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) |
+| Metallurgy | [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) |
+| Oceania | [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html) |
+| Americas | [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html) |
+| Pottery | [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic Technologies/Neolithic_Pottery.html) |
 
 ---
 
