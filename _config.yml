@@ -14,6 +14,10 @@ defaults:
       path: ""
     values:
       layout: null
+  - scope:
+      path: "_wiki"
+    values:
+      layout: null
 
 # Enable collections for proper URL structure
 collections:
