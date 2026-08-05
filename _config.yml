@@ -2,7 +2,6 @@
 
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies
-baseurl: "/prehistoric_wiki"
 
 # Build settings
 markdown: kramdown
@@ -19,6 +18,7 @@ defaults:
 collections:
   wiki:
     output: true
+    permalink: pretty
 
 # Exclude from build
 exclude:
@@ -28,11 +28,6 @@ exclude:
   - state.md
   - docs/
   - README.md
-  - wiki/MEDICINE/research-findings-traditional-medicine-full.md
-  - wiki/MEDICINE/research-findings-traditional-medicine-prehistoric.md
-  - wiki/OPEN-QUESTIONS.md
-  - wiki/NAVIGATION.md
-  - wiki/OPEN-QUESTIONS-INDEX.md
 
 watch:
   - wiki
