@@ -2,6 +2,8 @@
 
 title: Primitive Tech Wiki
 description: A knowledge base documenting prehistoric and early historical technologies
+baseurl: "/prehistoric_wiki"
+url: "https://ozymand1as.github.io"
 
 # Build settings
 markdown: kramdown

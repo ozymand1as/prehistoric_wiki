@@ -82,6 +82,49 @@ This navigation guide provides structured pathways through the wiki, helping use
 
 ---
 
+### Clothing & Textile Technologies
+
+- **Clothing**
+  - [Paleolithic Clothing](/prehistoric_wiki/wiki/CLOTHING/Paleolithic_Clothing.html)
+  - [Neolithic Textiles](/prehistoric_wiki/wiki/CLOTHING/Neolithic_Textiles.html)
+  - [Bronze Age Textiles](/prehistoric_wiki/wiki/CLOTHING/Bronze_Age_Textiles.html)
+  - [Bark Cloth](/prehistoric_wiki/wiki/CLOTHING/Bark_Cloth.html)
+
+**Related Technologies:**
+- [Lithic Technologies](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html) - Ceramic spindle whorls, loom weights
+- [Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Bronze needles, textile trade
+- [Agriculture](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Flax domestication, sheep husbandry
+
+---
+
+### Housing & Shelter Technologies
+
+- **Housing**
+  - [Paleolithic Caves & Rock Shelters](/prehistoric_wiki/wiki/HOUSING/Paleolithic_Caves_and_Rock_Shelters.html)
+  - [Mammoth Bone Huts](/prehistoric_wiki/wiki/HOUSING/Mammoth_Bone_Huts.html)
+  - [Neolithic Longhouses](/prehistoric_wiki/wiki/HOUSING/Neolithic_Longhouses.html)
+  - [Bronze Age Roundhouses](/prehistoric_wiki/wiki/HOUSING/Bronze_Age_Roundhouses.html)
+
+**Related Technologies:**
+- [Lithic Technologies](/prehistoric_wiki/wiki/Lithic_Technologies/Stone-Tools.html) - Woodworking axes, adzes
+- [Clothing](/prehistoric_wiki/wiki/CLOTHING/Animal_Skins_and_Hides.html) - Hide coverings for shelters
+- [Social Organization](/prehistoric_wiki/wiki/SOCIAL_ORGANIZATION/Settlement_Patterns.html) - Housing reflects social organization
+
+---
+
+### Community & Social Organization
+
+- **Social Organization**
+  - [Band Society](/prehistoric_wiki/wiki/SOCIAL_ORGANIZATION/Band_Society.html)
+  - [Chiefdom](/prehistoric_wiki/wiki/SOCIAL_ORGANIZATION/Chiefdom.html)
+  - [Early State](/prehistoric_wiki/wiki/SOCIAL_ORGANIZATION/Early_State.html)
+  - [Trade Networks](/prehistoric_wiki/wiki/SOCIAL_ORGANIZATION/Trade_Networks.html)
+
+**Related Technologies:**
+- [Agriculture](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Farming enables sedentism
+- [Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Metal wealth drives hierarchy
+- [Housing](/prehistoric_wiki/wiki/HOUSING/Neolithic_Longhouses.html) - Architecture reflects organization
+
 ## Navigation Tree 2: By Period
 
 ### Paleolithic (3.3 million - 12,000 BCE)
