@@ -18,9 +18,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Writing_and_Administration.html
 ---
 
+
 # Writing and Administration
 
-Writing is the administrative technology that enables state bureaucracy, long-distance coordination, and historical record-keeping. Its invention marks the transition from prehistory to history.
+Writing is the administrative technology that enables state bureaucracy, long-distance coordination, and historical record-keeping. Its invention marks the transition from prehistory to history. [1]
 
 ## Overview
 
@@ -43,18 +44,18 @@ Writing systems develop in the context of state formation to meet administrative
 ### Token System (Near East, 8,000–3,000 BCE)
 - **Clay tokens**: Geometric shapes = commodities
 - **Bullae**: Clay envelopes with tokens inside
-- **Impressions**: Token shapes impressed on envelope
+- **Impressions**: Token shapes impressed on envelope [2]
 - **Transition**: Impressions → pictographs → cuneiform
 
 ### Sealings
 - **Cylinder seals**: Rolled on clay = signature/ownership
 - **Stamp seals**: Pressed on clay/bulae
-- **Administrative**: Authorization, sealing containers
+- **Administrative**: Authorization, sealing containers [3]
 
 ## Administrative Uses
 
 ### Resource Management
-- **Inventories**: Grain, livestock, textiles, labor
+- **Inventories**: Grain, livestock, textiles, labor [4]
 - **Ration lists**: Workers, soldiers, priests
 - **Tax records**: Land, poll, trade taxes
 - **Tribute accounts**: Provincial, vassal payments
@@ -102,6 +103,7 @@ Writing systems develop in the context of state formation to meet administrative
 - [[SOCIAL_ORGANIZATION/Taxation]] - Tax records
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Merchant correspondence
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal records
+
 
 ## Sources
 1. Schmandt-Besserat, D. (1992). *Before Writing*. Texas UP.

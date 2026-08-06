@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Pit_House_Construction.html
 ---
 
+
 # Pit House Construction
 
-Pit house construction encompasses the techniques for building semi-subterranean dwellings across cultures and millennia. From Upper Paleolithic mammoth bone structures to 19th century Indigenous pit houses, the principles remain consistent.
+Pit house construction encompasses the techniques for building semi-subterranean dwellings across cultures and millennia. From Upper Paleolithic mammoth bone structures to 19th century Indigenous pit houses, the principles remain consistent. [1]
 
 ## Overview
 
@@ -24,7 +25,7 @@ Pit houses exploit the thermal stability of the earth by sinking the living floo
 ### 1. Excavation
 - **Depth**: 0.5-2.0 m (deeper = more stable temp)
 - **Shape**: Circular, oval, rectangular, square
-- **Tools**: Digging sticks, stone hoes, baskets, shovels
+- **Tools**: Digging sticks, stone hoes, baskets, shovels [2]
 
 ### 2. Retaining Walls
 - **Earth**: Cut face stabilized with plaster
@@ -85,6 +86,7 @@ Pit houses exploit the thermal stability of the earth by sinking the living floo
 - [[HOUSING/Mammoth_Bone_Huts]] - Bone-walled variant
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Related technology
 - [[HOUSING/Earth_Construction]] - Earth building principles
+
 
 ## Sources
 1. Gilman, P.A. (1987). *Architecture as Artifact*. In *Pit House Archaeology*.

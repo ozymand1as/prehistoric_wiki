@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/CLOTHING/Near_Eastern_Textiles.html
 ---
 
+
 # Near Eastern Textiles
 
-The Near East developed the world's first large-scale textile industries, with palace and temple workshops employing thousands of workers documented by extensive cuneiform archives.
+The Near East developed the world's first large-scale textile industries, with palace and temple workshops employing thousands of workers documented by extensive cuneiform archives. [1]
 
 ## Overview
 
@@ -28,12 +29,12 @@ From the Neolithic domestication of flax to the Bronze Age wool economies of Sum
 ## Neolithic Foundations (8,000–4,500 BCE)
 
 ### Flax Domestication
-- **PPNB** (8,500 BCE): Flax at Jericho, Çayönü, Nevalı Çori
+- **PPNB** (8,500 BCE): Flax at Jericho, Çayönü, Nevalı Çori [2]
 - **Primary fiber**: Linen for millennia
 - **Processing**: Retting, breaking, scutching, hackling
 
 ### Early Weaving
-- **Çatalhöyük** (7,100 BCE): Wall paintings show textiles
+- **Çatalhöyük** (7,100 BCE): Wall paintings show textiles [3]
 - **Tools**: Spindle whorls, loom weights, needles
 - **Loom**: Warp-weighted, ground loom
 
@@ -41,12 +42,12 @@ From the Neolithic domestication of flax to the Bronze Age wool economies of Sum
 
 ### Sumer (Ur III, 2112–2004 BCE) — Best Documented
 - **Workers**: 500–1,000+ women per major city
-- **Rations**: Monthly grain, wool, oil allocations
+- **Rations**: Monthly grain, wool, oil allocations [4]
 - **Output**: Thousands of standardized garments/year
 - **Records**: 100,000+ cuneiform tablets
 
 ### Akkadian & Old Babylonian
-- **Private merchants**: Textile trade (Assyrian colonies at Kanesh)
+- **Private merchants**: Textile trade (Assyrian colonies at Kanesh) [5]
 - **Standards**: Fixed thread counts, weights, dimensions
 - **Trade**: Wool textiles for Anatolian silver, copper, lapis
 
@@ -127,6 +128,7 @@ From the Neolithic domestication of flax to the Bronze Age wool economies of Sum
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Textile trade routes
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools, trade
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Workshop labor
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

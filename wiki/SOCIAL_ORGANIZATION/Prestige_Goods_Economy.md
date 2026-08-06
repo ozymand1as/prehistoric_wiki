@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Prestige_Goods_Economy.html
 ---
 
+
 # Prestige Goods Economy
 
-Prestige goods economies are systems where elites control the acquisition, production, and distribution of high-value, non-utilitarian items to legitimize power, create alliances, and distinguish themselves from commoners.
+Prestige goods economies are systems where elites control the acquisition, production, and distribution of high-value, non-utilitarian items to legitimize power, create alliances, and distinguish themselves from commoners. [1]
 
 ## Overview
 
@@ -62,17 +63,17 @@ Prestige goods are non-subsistence items whose value derives from rarity, exotic
 ## Control Mechanisms
 
 ### Source Control
-- **Direct**: Elite expeditions, royal mines (Sinai turquoise, Nubian gold)
+- **Direct**: Elite expeditions, royal mines (Sinai turquoise, Nubian gold) [2]
 - **Indirect**: Tribute from source regions, trade monopolies
 
 ### Production Control
 - **Attached specialists**: Palace workshops (Mycenaean, Ur III, Shang)
-- **Sumptuary laws**: Restricted designs, materials, wearers
+- **Sumptuary laws**: Restricted designs, materials, wearers [3]
 
 ### Distribution Control
 - **Gift giving**: Diplomatic, ritual, reward
 - **Restricted circulation**: Sumptuary, sacred contexts
-- **Burial deposition**: Removed from circulation (elite tombs)
+- **Burial deposition**: Removed from circulation (elite tombs) [4]
 
 ## Prestige Goods in Key Societies
 
@@ -117,6 +118,7 @@ Prestige goods are non-subsistence items whose value derives from rarity, exotic
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal prestige goods
 - [[CLOTHING/Textile_Production]] - Textile prestige goods
 - [[SOCIAL_ORGANIZATION/Redistribution_and_Tribute]] - Elite distribution
+
 
 ## Sources
 1. Frankenstein, S. & Rowlands, M. (1978). *The Internal Structure of Early States*. In *Social Organization*.

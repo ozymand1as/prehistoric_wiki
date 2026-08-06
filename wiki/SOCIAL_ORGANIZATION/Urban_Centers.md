@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Urban_Centers.html
 ---
 
+
 # Urban Centers
 
-Urban centers are large, permanent settlements with specialized functions (administrative, religious, economic, military) that serve as the political and cultural capitals of early states. They represent the culmination of sedentism, agricultural surplus, and social stratification.
+Urban centers are large, permanent settlements with specialized functions (administrative, religious, economic, military) that serve as the political and cultural capitals of early states. They represent the culmination of sedentism, agricultural surplus, and social stratification. [1]
 
 ## Overview
 
@@ -40,14 +41,14 @@ Cities are not merely large villages. They are functionally differentiated space
 
 ### Mesopotamia (Uruk, 4,000–3,100 BCE)
 - **Uruk**: >50 ha, 20,000–50,000 people
-- **Eanna precinct**: Temple complex, early writing
+- **Eanna precinct**: Temple complex, early writing [2]
 - **Administration**: Cylinder seals, tablets, seals
 - **Trade**: Long-distance (lapis, copper, timber)
 
 ### Egypt (Memphis, Hierakonpolis, 3,100 BCE+)
 - **Memphis**: Capital, administrative center
 - **Hierakonpolis**: Early urbanization, palace
-- **Urban planning**: Grid (Kahun), organic (Thebes)
+- **Urban planning**: Grid (Kahun), organic (Thebes) [3]
 
 ### Indus Valley (Mohenjo-daro, Harappa, 2,600–1,900 BCE)
 - **Grid planning**: Streets, drainage, standardization
@@ -57,7 +58,7 @@ Cities are not merely large villages. They are functionally differentiated space
 
 ### China (Erlitou, Anyang, 1,900–1,046 BCE)
 - **Erlitou**: Palace complex, bronze workshops
-- **Anyang (Yinxu)**: Oracle bones, royal tombs, workshops
+- **Anyang (Yinxu)**: Oracle bones, royal tombs, workshops [4]
 - **Urban layout**: Palace-temple core, workshops, residential
 
 ### Mesoamerica (Teotihuacan, Maya cities, 100 BCE–900 CE)
@@ -109,6 +110,7 @@ Cities are not merely large villages. They are functionally differentiated space
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Urban trade
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Urban defense
 - [[HOUSING/Near_Eastern_Architecture]] - Urban housing
+
 
 ## Sources
 1. Childe, V.G. (1950). *The Urban Revolution*. Town Planning Review.

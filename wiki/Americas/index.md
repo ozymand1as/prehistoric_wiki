@@ -19,3 +19,11 @@ Continent-wide technological overviews.
 
 - [Mesoamerican Technology](Mesoamerican-Tech.html)
 - [Oceania Technology](Oceania_Technology.html)
+
+## Sources
+
+1. Lekson, S.H. (2008). *A History of the Ancient Southwest*. SAR Press.
+2. Morgan, W. (1999). *Prehistoric Architecture in the Eastern United States*. University Press of Florida.
+3. Carrasco, D. (1999). *Daily Life of the Aztecs*. Greenwood.
+4. Burger, R.L. (1992). *Chavín and the Origins of Andean Civilization*. Princeton UP.
+5. Moseley, M.E. (2001). *The Incas and Their Ancestors*. Thames & Hudson.

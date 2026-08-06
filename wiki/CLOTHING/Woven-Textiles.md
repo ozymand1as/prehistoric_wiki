@@ -21,9 +21,10 @@ layout: null
 permalink: /wiki/CLOTHING/Woven-Textiles.html
 ---
 
+
 # Woven Textiles
 
-Woven textiles are cloth made by interlacing threads on a loom, representing one of the oldest and most widespread textile technologies in human history. Weaving transformed raw fibers into durable, versatile fabric and became a cornerstone of ancient economies and daily life.
+Woven textiles are cloth made by interlacing threads on a loom, representing one of the oldest and most widespread textile technologies in human history. Weaving transformed raw fibers into durable, versatile fabric and became a cornerstone of ancient economies and daily life. [1]
 
 
 ## Overview
@@ -31,12 +32,12 @@ Woven textiles are cloth made by interlacing threads on a loom, representing one
 Woven textiles are cloth made by interlacing threads on a loom, representing one of the oldest and most widespread textile technologies in human history. Weaving transformed raw fibers into durable, versatile fabric and became a cornerstone of ancient economies and daily life.
 ## History & Development
 
-- ~10,000 BCE: Oldest known woven textiles in Neolithic Europe
+- ~10,000 BCE: Oldest known woven textiles in Neolithic Europe [2]
 - Development of the loom as the primary weaving tool
 - Early fibers: plant-based (flax, hemp, cotton) and animal-based (wool, silk)
 - Weaving techniques evolved from basic plain weave to twill and satin weave
 - Textile production became a major industry in ancient civilizations including Egypt, Mesopotamia, China, and the Andes
-- Key archaeological evidence: textile impressions in pottery, preserved textiles in dry climates
+- Key archaeological evidence: textile impressions in pottery, preserved textiles in dry climates [3]
 
 ## Function & Use
 
@@ -71,6 +72,7 @@ Fiber preparation includes spinning raw fibers into thread, which is then woven 
 - [[AGRICULTURE/Crop-Domestication]]
 - [[Asia/Neolithic-Technology]]
 - [[Europe/Neolithic-Technology]]
+
 ## Sources
 
 1. Barber, Elizabeth J. W. (1991). "Prehistoric Textiles: The Development of Cloth in the Neolithic and Bronze Ages." *Princeton University Press*.

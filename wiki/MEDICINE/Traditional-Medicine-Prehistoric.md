@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/MEDICINE/Traditional-Medicine-Prehistoric.html
 ---
 
+
 # Traditional Medicine in Prehistoric Times
 
-Medicine in the time before the invention of writing. Prehistoric medicine encompasses any use of medicine from before the invention of writing and the documented history of medicine. Because the timing of the invention of writing varies per culture and region, the term "prehistoric medicine" covers a wide range of time periods — from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Life expectancy was 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters. Common ailments included osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, and infections without antiseptics.
+Medicine in the time before the invention of writing. Prehistoric medicine encompasses any use of medicine from before the invention of writing and the documented history of medicine. Because the timing of the invention of writing varies per culture and region, the term "prehistoric medicine" covers a wide range of time periods — from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Life expectancy was 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters. Common ailments included osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, and infections without antiseptics. [1]
 
 
 ## Overview
@@ -25,22 +26,22 @@ Medicine in the time before the invention of writing. Prehistoric medicine encom
 Medicine in the time before the invention of writing. Prehistoric medicine encompasses any use of medicine from before the invention of writing and the documented history of medicine. Because the timing of the invention of writing varies per culture and region, the term "prehistoric medicine" covers a wide range of time periods — from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Life expectancy was 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters. Common ailments included osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, and infections without antiseptics.
 ## History & Development
 
-The study of prehistoric medicine relies heavily on artifacts, human remains, mummies (such as the Siberian Ice Maiden and bog bodies), cave paintings, and ethnographic studies of uncontacted and indigenous peoples. Ötzi the Iceman (c. 3230 BC) carried a deliberate "prehistoric medical kit": birch polypore fungus (antiparasitic/antibiotic), poppy seeds (analgesic), sloe berries (vertigo/eczema), and sphagnum moss (antiseptic wound dressing). Neanderthal remains show evidence of healing practices and care for the sick and injured.
+The study of prehistoric medicine relies heavily on artifacts, human remains, mummies (such as the Siberian Ice Maiden and bog bodies), cave paintings, and ethnographic studies of uncontacted and indigenous peoples. Ötzi the Iceman (c. 3230 BC) carried a deliberate "prehistoric medical kit": birch polypore fungus (antiparasitic/antibiotic), poppy seeds (analgesic), sloe berries (vertigo/eczema), and sphagnum moss (antiseptic wound dressing). Neanderthal remains show evidence of healing practices and care for the sick and injured. [2]
 
 ## Function & Use
 
 - **Primary Use:** Treatment of ailments, injuries, and diseases using plant materials, earths/clays, and surgical procedures
-- **Secondary Uses:** Spiritual healing through shamanic practices; dental care; wound treatment and bone setting; geophagy for internal and external medicinal purposes
+- **Secondary Uses:** Spiritual healing through shamanic practices; dental care; wound treatment and bone setting; geophagy for internal and external medicinal purposes [3]
 - **Cultural Significance:** Healing practices blended physical and spiritual — shamans used charms, spells, amulets, drumming, and magic formulas alongside herbal treatments. Knowledge was passed down orally through generations, primarily by women (who gathered and dispensed plant materials) and medicine men/shamans. Plant materials were the primary treatment; herbs and psychoactive plants were used alongside geophagy and surgical interventions.
 
 ## Construction & Technique
 
-- **Plant materials:** Herbs such as rosemary, birch polypore, and psychoactive plants (psilocybin mushrooms, c. 6000 BCE Sahara) were used for medicinal purposes; herbs like rosemary may have been used for medical purposes by prehistoric people
+- **Plant materials:** Herbs such as rosemary, birch polypore, and psychoactive plants (psilocybin mushrooms, c. 6000 BCE Sahara) were used for medicinal purposes; herbs like rosemary may have been used for medical purposes by prehistoric people [4]
 - **Earths and clays:** Used for wound treatment, bone setting, and geophagy — both internally and externally for wound treatment; learned by observing animal behavior; applied to broken bones to set them
 - **Trepanning:** The oldest surgical procedure with archaeological evidence, dating to 7,000–10,000 years ago; performed using stone tools; over 1,500 trephined skulls from the Neolithic period found worldwide (Europe, Siberia, China, Americas); first known operation c. 5000 BCE in Ensisheim, France; 40/120 skulls at a French burial site (6500 BCE) showed trepanation; used to treat epilepsy, headaches, skull fractures, intracranial pressure; also had spiritual purposes (releasing evil spirits); survival rate ~40% in Neolithic, up to 80% in later periods
 - **Bone setting:** Clay was applied to broken bones to set them; in the Americas, ant pincers were used to close wounds (ant held above wound, head removed, pincers clamped the wound shut)
 - **Dentistry:** Earliest drilled and filled tooth dates to 13,000 years ago in Italy (filled with bitumen, hair, plant fiber); Mehrgarh (Pakistan, c. 7000 BCE) shows evidence of dental drilling in the Indus Valley civilization
-- **Oral transmission:** Knowledge was passed down orally through generations
+- **Oral transmission:** Knowledge was passed down orally through generations [5]
 
 ## Regional Variations
 
@@ -59,11 +60,14 @@ The study of prehistoric medicine relies heavily on artifacts, human remains, mu
 - [[MEDICINE/Herbal-Medicine]]
 - [[MEDICINE/Traditional-Medicine]]
 - [[MEDICINE/Dental-Care]]
+
 ## Sources
 
-1. Wikipedia contributors. "Prehistoric medicine." *Wikipedia*, The Free Encyclopedia. Retrieved [Date].
-2. Kelly, Nigel; Rees, Bob; Shuter, Paul (2003). *Medicine Through Time*. Heinemann. ISBN 978-0-435-30841-4.
-3. Samorini, Giorgio (2019-06-01). "The oldest archeological data evidencing the relationship of Homo sapiens with psychoactive plants: A worldwide overview". *Journal of Psychedelic Studies*. 3(2): 63–80.
+1. Aufderheide, A.C. & Rodríguez-Martín, C. (1998). *The Cambridge Encyclopedia of Human Paleopathology*. Cambridge UP.
+2. Nutton, V. (2004). *Ancient Medicine*. Routledge.
+3. Majno, G. (1975). *The Healing Hand*. Harvard UP.
+4. Kelly, N., Rees, B., & Shuter, P. (2003). *Medicine Through Time*. Heinemann.
+5. Samorini, G. (2019). *The oldest archeological data evidencing the relationship of Homo sapiens with psychoactive plants: A worldwide overview*. Journal of Psychedelic Studies, 3(2), 63–80.
 
 ## Uncertainties & Research Questions
 

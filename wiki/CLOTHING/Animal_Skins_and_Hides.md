@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/CLOTHING/Animal_Skins_and_Hides.html
 ---
 
+
 # Animal Skins and Hides
 
-Animal skins and hides are the primary clothing material of the Paleolithic and remain important through the Bronze Age. This page covers hide procurement, processing methods, and use in clothing and shelter.
+Animal skins and hides are the primary clothing material of the Paleolithic and remain important through the Bronze Age. This page covers hide procurement, processing methods, and use in clothing and shelter. [1]
 
 ## Overview
 
@@ -22,7 +23,7 @@ Hides provide the most versatile and widely available material for prehistoric c
 ## Hide Processing Methods
 
 ### Fresh Hide Preparation
-1. **Skinning** - Removing hide with minimal cuts (stone knives, later metal)
+1. **Skinning** - Removing hide with minimal cuts (stone knives, later metal) [2]
 2. **Fleshing** - Removing fat, meat, membrane (bone/stone/antler scrapers)
 3. **Dehairing** - Scraping epidermis/hair off (grain side) or leaving on (fur)
 4. **Braining/Tanning** - Softening with lipids (brain, egg, oil) or tannins
@@ -30,7 +31,7 @@ Hides provide the most versatile and widely available material for prehistoric c
 6. **Softening** - Working dry hide over rope/beam/stake until supple
 
 ### Tanning Technologies
-- **Brain tanning** (Paleolithic+) - Animal brain lipids emulsify fibers
+- **Brain tanning** (Paleolithic+) - Animal brain lipids emulsify fibers [3]
 - **Smoke tanning** - Formaldehyde from wood smoke preserves and waterproofs
 - **Vegetable tanning** (Neolithic+) - Tannins from bark (oak, chestnut, hemlock)
 - **Mineral tanning** (Late Bronze Age+) - Alum, salt combinations
@@ -52,7 +53,7 @@ Hides provide the most versatile and widely available material for prehistoric c
 
 ## Archaeological Evidence
 
-- **Lissoirs** (bone smoothers) - Neanderthal/Mousterian, hide working
+- **Lissoirs** (bone smoothers) - Neanderthal/Mousterian, hide working [4]
 - **End scrapers** - Upper Paleolithic standardized hide processing tools
 - **Beamers** - Long bone/antler tools for dehairing large hides
 - **Tanning pits** - Neolithic+ (waterlogged sites preserve)
@@ -60,7 +61,7 @@ Hides provide the most versatile and widely available material for prehistoric c
 
 ## Clothing Construction
 
-- **Pattern pieces** - Tailored panels (sleeves, gores, gussets)
+- **Pattern pieces** - Tailored panels (sleeves, gores, gussets) [5]
 - **Seam types** - Running, whip, tunnel, lapped (water-resistant)
 - **Thread** - Sinew (primary), plant fiber, gut, later wool/linen
 - **Fasteners** - Toggles, buttons (bone/antler/wood), lacing, belts
@@ -87,6 +88,7 @@ Hides provide the most versatile and widely available material for prehistoric c
 - [[CLOTHING/Sewing_and_Construction]] - Stitches, seams, patterns
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Hide tents, tipis
 - [[Lithic_Technologies/Stone-Tools]] - Scrapers, knives, awls
+
 
 ## Sources
 

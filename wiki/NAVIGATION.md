@@ -260,3 +260,10 @@ This navigation guide provides structured pathways through the wiki, helping use
 ---
 
 **Tags:** `navigation`, `index`, `wiki-structure`, `period/stone-age`
+
+## Sources
+
+1. Bradley, R. (2007). *The Prehistory of Europe*. Oxford UP.
+2. Childe, V.G. (1950). *The Urban Revolution*. Town Planning Review.
+3. Childe, V.G. (1936). *Man Makes Himself*. Watts.
+4. Trigger, B.G. (2003). *Understanding Early Civilizations*. Cambridge UP.

@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/MEDICINE/Dental-Care.html
 ---
 
+
 # Dental Care
 
-Prehistoric dental care includes evidence of tooth modification, drilling, and treatment of dental pathologies dating back at least 9,000 years. The earliest evidence comes from Mehrgarh, Pakistan, where 11 drilled molars from 9 individuals show precise conical holes made with flint drill bits, demonstrating sophisticated dental intervention in the Neolithic period.
+Prehistoric dental care includes evidence of tooth modification, drilling, and treatment of dental pathologies dating back at least 9,000 years. The earliest evidence comes from Mehrgarh, Pakistan, where 11 drilled molars from 9 individuals show precise conical holes made with flint drill bits, demonstrating sophisticated dental intervention in the Neolithic period. [1]
 
 ## Overview
 
@@ -24,22 +25,22 @@ Prehistoric dental care includes evidence of tooth modification, drilling, and t
 
 ## History & Development
 
-- **Earliest Evidence (~9,000 years ago):** Mehrgarh, Pakistan (Neolithic, ~7000–5500 BCE) — 11 drilled molars with conical holes from flint drill bits, likely for treating cavities or abscesses
+- **Earliest Evidence (~9,000 years ago):** Mehrgarh, Pakistan (Neolithic, ~7000–5500 BCE) — 11 drilled molars with conical holes from flint drill bits, likely for treating cavities or abscesses [2]
 - **Neolithic Europe (~6,500 years ago):** Evidence of beeswax dental fillings in a Neolithic jaw from Slovenia (~6500 BCE)
 - **Ancient Egypt (~4,500 years ago):** Edwin Smith Papyrus documents dental treatments; Hesi-Re titled "Chief of Dentists" (~2600 BCE)
 - **Indus Valley (~4,000 years ago):** Tooth drilling and possible prosthetic dental work
 - **Pre-Columbian Americas:** Dental inlays with jade, turquoise, and pyrite (Maya, ~250–900 CE); filing and modification for cultural identity
-- **Ancient Greece/Rome:** Hippocrates and Celsus describe tooth extraction, wiring loose teeth, and oral hygiene practices
+- **Ancient Greece/Rome:** Hippocrates and Celsus describe tooth extraction, wiring loose teeth, and oral hygiene practices [3]
 
 ## Function & Use
 
 - **Primary Use:** Treatment of dental caries, abscesses, tooth wear, and trauma
-- **Secondary Uses:** Cultural modification (filing, inlays, ablation) for identity, status, or ritual; preventive cleaning with chewing sticks and abrasive powders
+- **Secondary Uses:** Cultural modification (filing, inlays, ablation) for identity, status, or ritual; preventive cleaning with chewing sticks and abrasive powders [4]
 - **Cultural Significance:** Dental modification often signaled group affiliation, life stage, or social status; tooth ablation in Austronesian and African cultures marked rites of passage; jade inlays in Maya culture denoted elite status
 
 ## Construction & Technique
 
-- **Drilling:** Flint microdrills rotated via bow drill or hand rotation; conical holes 1–3 mm diameter; some show evidence of multiple drilling sessions
+- **Drilling:** Flint microdrills rotated via bow drill or hand rotation; conical holes 1–3 mm diameter; some show evidence of multiple drilling sessions [5]
 - **Fillings:** Beeswax (Neolithic Slovenia), bitumen, plant resins, and possibly metal foils (later periods) packed into cavities
 - **Extraction:** Elevators and forceps made from bronze, iron, or bone; often performed without anesthesia beyond alcohol or plant-based analgesics
 - **Prosthetics:** Animal teeth, bone, ivory, or gold wired to adjacent teeth (Etruscan, ~700 BCE); human donor teeth in medieval period
@@ -60,6 +61,7 @@ Prehistoric dental care includes evidence of tooth modification, drilling, and t
 - [[MEDICINE/Archaeosurgery]]
 - [[MEDICINE/Herbal-Medicine]]
 - [[Lithic_Technologies/Stone-Tools]]
+
 
 ## Sources
 

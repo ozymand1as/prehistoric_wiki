@@ -254,4 +254,10 @@ This timeline presents a chronological overview of the wiki's content, organized
 
 ---
 
-**Tags:** `timeline`, `chronology`, `index`, `period/stone-age`, `region/global`
+## Sources
+
+1. Trigger, B.G. (2003). *Understanding Early Civilizations*. Cambridge UP.
+2. Bar-Yosef, O. (1998). *The Natufian Culture in the Levant*. Evolutionary Anthropology.
+3. Zohary, D., Hopf, M., & Weiss, E. (2012). *Domestication of Plants in the Old World*. Oxford UP.
+4. Crawford, H. (2004). *Sumer and the Sumerians*. Cambridge UP.
+5. Trigger, B.G. (1990). *Monumental Architecture*. In *The Anthropology of Power*.

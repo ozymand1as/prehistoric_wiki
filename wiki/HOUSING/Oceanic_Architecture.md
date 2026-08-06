@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Oceanic_Architecture.html
 ---
 
+
 # Oceanic Architecture
 
-Oceanic architecture encompasses the diverse building traditions of the Pacific Islands, from Lapita stilt houses to Polynesian meeting houses and Micronesian latte stone structures. Adapted to tropical marine environments, these traditions share a reliance on timber, thatch, and coral stone.
+Oceanic architecture encompasses the diverse building traditions of the Pacific Islands, from Lapita stilt houses to Polynesian meeting houses and Micronesian latte stone structures. Adapted to tropical marine environments, these traditions share a reliance on timber, thatch, and coral stone. [1]
 
 ## Overview
 
@@ -28,21 +29,21 @@ Pacific architecture is shaped by the marine environment: cyclone-resistant desi
 ### Polynesia
 
 #### Meeting Houses (Fale, Whare, Fare)
-- **Samoa (Fale tele)**: Oval, domed roof, no walls (open), central posts
+- **Samoa (Fale tele)**: Oval, domed roof, no walls (open), central posts [2]
 - **Tonga (Fale fakatu'i)**: Rectangular, raised platform, curved roof
 - **Hawaii (Hale)**: Thatch, pili grass, stone platforms (heiau)
 - **New Zealand (Wharenui)**: Carved, painted, ancestral embodiment
 - **Construction**: Lashed timber frame, thatch (pandanus, grass), no nails
 
 #### Domestic Houses
-- **Fale o'o (Samoa)**: Small, thatched, raised floor
+- **Fale o'o (Samoa)**: Small, thatched, raised floor [3]
 - **Hale pili (Hawaii)**: Grass-thatched, stone foundation
 - **Materials**: Timber posts, pandanus/grass thatch, cordage lashing
 
 ### Melanesia
 
 #### Men's Houses (Haus Tambaran, Haus Boi)
-- **Sepik River (PNG)**: Towering gables, carved posts, painted facades
+- **Sepik River (PNG)**: Towering gables, carved posts, painted facades [4]
 - **Highlands (PNG)**: Round, woven bamboo, thatch, earth floor
 - **Vanuatu/Fiji**: Bure (Fiji), nakamal (Vanuatu) - community centers
 
@@ -102,6 +103,7 @@ Pacific architecture is shaped by the marine environment: cyclone-resistant desi
 - [[HOUSING/Wattle_and_Daub]] - Wall infill
 - [[CLOTHING/Oceanic_Bark_Cloth]] - Bark cloth in architecture
 - [[SOCIAL_ORGANIZATION/Ritual_and_Ceremony]] - Ceremonial houses
+
 
 ## Sources
 1. Jennings, J. et al. (2018). *The Archaeology of Island Societies*. Routledge.

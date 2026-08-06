@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Experimental_House_Reconstruction.html
 ---
 
+
 # Experimental House Reconstruction
 
-Experimental house reconstruction builds full-scale replicas of prehistoric dwellings using period-appropriate tools, materials, and techniques. These projects test archaeological hypotheses and generate quantitative data on labor, performance, and durability.
+Experimental house reconstruction builds full-scale replicas of prehistoric dwellings using period-appropriate tools, materials, and techniques. These projects test archaeological hypotheses and generate quantitative data on labor, performance, and durability. [1]
 
 ## Overview
 
@@ -35,7 +36,7 @@ Since the 1960s, experimental archaeology has moved beyond tool replication to f
 ### Neolithic Longhouse (LBK)
 - **Butser, Archeon, Samara**
 - **Labor**: 3,000-5,000 person-hours
-- **Materials**: 50-80 oak trees, 2-3 tonnes clay, 5-10 tonnes thatch
+- **Materials**: 50-80 oak trees, 2-3 tonnes clay, 5-10 tonnes thatch [2]
 - **Lifespan**: 20-40 years (post rot)
 - **Thermal**: 10-15°C above external in winter
 
@@ -48,7 +49,7 @@ Since the 1960s, experimental archaeology has moved beyond tool replication to f
 
 ### Bronze Age Byre-House
 - **Samara, Lejre**
-- **Integrated byre**: Cattle heat raises interior 5-8°C
+- **Integrated byre**: Cattle heat raises interior 5-8°C [3]
 - **Drainage**: Central gully critical
 - **Manure management**: Daily labor
 
@@ -56,7 +57,7 @@ Since the 1960s, experimental archaeology has moved beyond tool replication to f
 - **Pfahlbaumuseum, Archeon**
 - **Piles**: Driven 2-3 m into lakebed
 - **Floor**: 1 m above water
-- **Preservation**: Waterlogged = exceptional organics
+- **Preservation**: Waterlogged = exceptional organics [4]
 
 ### Pit House (Jōmon, Great Plains)
 - **Samara, Pueblo Grande**
@@ -116,6 +117,7 @@ Since the 1960s, experimental archaeology has moved beyond tool replication to f
 - [[HOUSING/Bronze_Age_Roundhouses]] - Roundhouse experiments
 - [[HOUSING/Neolithic_Pile_Dwellings]] - Lake dwelling experiments
 - [[CLOTHING/Experimental_Archaeology]] - Textile experiments
+
 
 ## Sources
 1. Reynolds, P.J. (1979). *Iron Age Farm*. British Museum.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Earth_Construction.html
 ---
 
+
 # Earth Construction
 
-Earth construction encompasses building techniques using raw earth as the primary structural material: mudbrick, adobe, rammed earth (pisé), cob, and compressed earth blocks. It is the most widespread building technology in human history.
+Earth construction encompasses building techniques using raw earth as the primary structural material: mudbrick, adobe, rammed earth (pisé), cob, and compressed earth blocks. It is the most widespread building technology in human history. [1]
 
 ## Overview
 
@@ -33,12 +34,12 @@ Earth construction uses locally available soil mixed with water and stabilizers 
 - **Layers**: 10-15 cm lifts, pneumatic/mechanical
 - **Forms**: Removable, reusable
 - **Strength**: 1-5 MPa (unstabilized)
-- **History**: China (Great Wall sections), North Africa, Europe
+- **History**: China (Great Wall sections), North Africa, Europe [2]
 
 ### Cob
 - **Mix**: Clay, sand, straw (high fiber)
 - **Method**: Hand-sculpted, no forms
-- **Construction**: Monolithic walls, built in lifts
+- **Construction**: Monolithic walls, built in lifts [3]
 - **Region**: England, West Africa, Americas
 - **Sculptural**: Curved, organic forms
 
@@ -89,6 +90,7 @@ Earth construction uses locally available soil mixed with water and stabilizers 
 - [[HOUSING/Wattle_and_Daub]] - Composite earth
 - [[HOUSING/Rammed_Earth]] - Pisé technique
 - [[CLOTHING/Animal_Skins_and_Hides]] - Dung stabilizer
+
 
 ## Sources
 1. Houben, H. & Guillaud, H. (1994). *Earth Construction*. CRATerre.

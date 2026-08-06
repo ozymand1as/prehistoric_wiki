@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/European_Prehistoric_Housing.html
 ---
 
+
 # European Prehistoric Housing
 
-European housing traditions show a clear evolutionary sequence from Paleolithic cave occupation through Neolithic longhouses to Bronze Age byre-houses and Iron Age roundhouses, with exceptional preservation in Alpine lake dwellings and British hillforts.
+European housing traditions show a clear evolutionary sequence from Paleolithic cave occupation through Neolithic longhouses to Bronze Age byre-houses and Iron Age roundhouses, with exceptional preservation in Alpine lake dwellings and British hillforts. [1]
 
 ## Overview
 
@@ -22,18 +23,18 @@ Europe's diverse environments—from Mediterranean to Arctic, Atlantic to steppe
 ## Paleolithic (40,000–12,000 BCE)
 
 ### Cave & Rock Shelter Occupation
-- **Sites**: Lascaux, Chauvet, Dolní Věstonice, Mezhirich
+- **Sites**: Lascaux, Chauvet, Dolní Věstonice, Mezhirich [2]
 - **Modification**: Hearths, windbreaks, spatial zoning
 - **Mammoth bone huts**: Ukraine, Russia, Czech Republic
 
 ### Open-Air Shelters
-- **Lean-tos, conical tents**: Hide-covered pole frames
+- **Lean-tos, conical tents**: Hide-covered pole frames [3]
 - **Semi-subterranean**: Pit dwellings with pole superstructure
 
 ## Mesolithic (12,000–6,000 BCE)
 
 ### Post-Built Huts
-- **Howick House** (UK, 7,600 BCE): Oldest British house
+- **Howick House** (UK, 7,600 BCE): Oldest British house [4]
 - **Star Carr** (UK, 9,000 BCE): Platform dwellings
 - **Mount Sandel** (Ireland): Circular post-ring
 
@@ -107,6 +108,7 @@ Europe's diverse environments—from Mediterranean to Arctic, Atlantic to steppe
 - [[HOUSING/Bronze_Age_Longhouses]] - Byre-houses
 - [[HOUSING/Bronze_Age_Roundhouses]] - Iron Age roundhouses
 - [[HOUSING/Experimental_House_Reconstruction]] - Butser, Lejre data
+
 
 ## Sources
 1. Bradley, R. (2007). *The Prehistory of Europe*. Oxford UP.

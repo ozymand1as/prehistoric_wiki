@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Mesolithic_Post_Built_Huts.html
 ---
 
+
 # Mesolithic Post-Built Huts
 
-Mesolithic post-built huts represent the earliest substantial evidence for wooden architecture in northern Europe. These circular or oval structures, identified by posthole patterns, mark a significant development in hunter-gatherer residential technology.
+Mesolithic post-built huts represent the earliest substantial evidence for wooden architecture in northern Europe. These circular or oval structures, identified by posthole patterns, mark a significant development in hunter-gatherer residential technology. [1]
 
 ## Overview
 
@@ -32,7 +33,7 @@ As the climate warmed and forests expanded after the Last Glacial Maximum, Mesol
 
 ### Star Carr (Yorkshire, UK, ~9,000 BCE)
 - **Structures**: Multiple circular platforms
-- **Construction**: Split timber platforms, post settings
+- **Construction**: Split timber platforms, post settings [2]
 - **Environment**: Lake edge, peat preservation
 - **Artifacts**: Antler frontlets, barbed points
 
@@ -57,7 +58,7 @@ As the climate warmed and forests expanded after the Last Glacial Maximum, Mesol
 ### Superstructure (Inferred)
 - **Roof**: Conical, thatch/turf/bark
 - **Walls**: Wattle, hide, split plank
-- **Entrance**: South-east facing (dawn, away from wind)
+- **Entrance**: South-east facing (dawn, away from wind) [3]
 
 ### Hearth
 - **Central**: Stone-lined or clay-rimmed
@@ -82,7 +83,7 @@ As the climate warmed and forests expanded after the Last Glacial Maximum, Mesol
 ### Base Camps
 - **Duration**: Seasonal to multi-year
 - **Location**: Lake/river edges, resource-rich
-- **Activities**: Tool making, food processing, social
+- **Activities**: Tool making, food processing, social [4]
 
 ### Logistical Camps
 - **Duration**: Days to weeks
@@ -107,6 +108,7 @@ As the climate warmed and forests expanded after the Last Glacial Maximum, Mesol
 - [[HOUSING/Post_and_Lintel_Construction]] - Carpentry basis
 - [[HOUSING/Wattle_and_Daub]] - Wall technology
 - [[SOCIAL_ORGANIZATION/Band_Society]] - Social unit
+
 
 ## Sources
 1. Waddington, C. (2007). *Mesolithic Settlement in the North Sea Basin*. Oxbow.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Fortified_Settlements.html
 ---
 
+
 # Fortified Settlements
 
-Fortified settlements are communities protected by artificial defensive works—walls, ditches, palisades, ramparts, and citadels. They represent the architectural manifestation of intergroup conflict and the increasing importance of territorial defense.
+Fortified settlements are communities protected by artificial defensive works—walls, ditches, palisades, ramparts, and citadels. They represent the architectural manifestation of intergroup conflict and the increasing importance of territorial defense. [1]
 
 ## Overview
 
@@ -96,11 +97,12 @@ Fortification marks the transition from communities that rely on mobility or kin
 - **Suburbs**: Outside walls (later)
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Warfare context
+- [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Warfare context [2]
 - [[SOCIAL_ORGANIZATION/Intergroup_Violence]] - Violence evidence
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom defense
 - [[SOCIAL_ORGANIZATION/Early_State]] - State fortification
 - [[HOUSING/Experimental_House_Reconstruction]] - Construction labor
+
 
 ## Sources
 1. Keeley, L.H. et al. (2007). *Warfare and Fortification*. In *Warfare and Society*.

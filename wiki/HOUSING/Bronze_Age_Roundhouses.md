@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Bronze_Age_Roundhouses.html
 ---
 
+
 # Bronze Age Roundhouses
 
-The roundhouse is the signature dwelling of the British and Atlantic European Bronze and Iron Ages. These circular post-built structures with conical thatched roofs represent a remarkably stable architectural tradition lasting over 1,500 years, reflecting both environmental adaptation and social organization.
+The roundhouse is the signature dwelling of the British and Atlantic European Bronze and Iron Ages. These circular post-built structures with conical thatched roofs represent a remarkably stable architectural tradition lasting over 1,500 years, reflecting both environmental adaptation and social organization. [1]
 
 ## Overview
 
@@ -26,38 +27,38 @@ Roundhouses emerge in the Middle Bronze Age (~1,500 BCE) as the dominant house f
 ## Construction
 
 ### Post-Ring Foundation
-- **Wall posts**: 10-30 upright timbers (oak, ash, hazel) in continuous ring trench or individual postholes
+- **Wall posts**: 10-30 upright timbers (oak, ash, hazel) in continuous ring trench or individual postholes [2]
 - **Diameter**: 5-15 m (typically 8-10 m)
 - **Posthole depth**: 0.5-1.0 m
 - **Spacing**: 0.5-1.0 m between posts
 - **Entrance**: Wider gap (1.5-2 m), often with porch/porch posts
 
 ### Wall Construction
-- **Wattle-and-daub**: Hazel/willow woven between posts, daubed both sides
+- **Wattle-and-daub**: Hazel/willow woven between posts, daubed both sides [3]
 - **Daub**: Clay + straw/dung + sand, 5-10 cm thick
 - **Alternative**: Vertical planks (where oak abundant), stone footings + timber
 
 ### Roof Structure
-- **Rafters**: 20-40 timbers from wall plate to central ring
+- **Rafters**: 20-40 timbers from wall plate to central ring [4]
 - **Central ring**: Horizontal timber ring (not single post - avoids point load)
 - **Purlins**: 3-5 horizontal rings lashed to rafters
 - **Thatch laths**: Hazel/birch rods for thatch attachment
 - **Pitch**: 45-50° (optimal for thatch runoff)
 
 ### Thatch Roofing
-- **Materials**: Water reed (Phragmites), wheat straw, heather, bracken
+- **Materials**: Water reed (Phragmites), wheat straw, heather, bracken [5]
 - **Thickness**: 30-50 cm
 - **Ridge**: Clay saddle, turf, or overlapping bundles
 - **Overhang**: 50-100 cm beyond walls
 - **Lifespan**: 15-25 years (reed), 10-15 years (straw)
 
 ### Internal Features
-- **Central hearth**: Stone-lined or clay-rimmed, sometimes raised
+- **Central hearth**: Stone-lined or clay-rimmed, sometimes raised [6]
 - **Floor**: Trampled earth, sometimes chalk/clay laid
 - **Drainage**: Gully around inner wall, soak-away pit
 - **Sleeping platforms**: Raised earth benches around perimeter
 - **Storage pits**: Under floor or in entrance passage
-- **Loft**: Possible in larger houses (central ring supports)
+- **Loft**: Possible in larger houses (central ring supports) [7]
 
 ## Regional Variants
 
@@ -150,6 +151,7 @@ Roundhouses emerge in the Middle Bronze Age (~1,500 BCE) as the dominant house f
 - [[SOCIAL_ORGANIZATION/Settlement_Patterns]] - Enclosed vs. open
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools for carpentry
 - [[AGRICULTURE/Crop-Domestication]] - Grain storage in houses
+
 
 ## Sources
 

@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/CLOTHING/Bark_Cloth.html
 ---
 
+
 # Bark Cloth (Tapa/Kapa)
 
-Bark cloth is a non-woven textile made by beating the inner bark of certain trees into flexible sheets. It represents one of humanity's earliest textile technologies, predating weaving in many regions, and remains culturally significant across the tropics.
+Bark cloth is a non-woven textile made by beating the inner bark of certain trees into flexible sheets. It represents one of humanity's earliest textile technologies, predating weaving in many regions, and remains culturally significant across the tropics. [1]
 
 ## Overview
 
@@ -39,32 +40,32 @@ Bark cloth (tapa in Polynesia, kapa in Hawaii, amate in Mesoamerica, lubugo in U
 ## Production Process
 
 ### 1. Harvesting
-- **Timing**: Wet season (bark peels easily), young branches (2-3 years)
+- **Timing**: Wet season (bark peels easily), young branches (2-3 years) [2]
 - **Method**: Circular cuts + longitudinal slit, peel in one piece
 - **Sustainability**: Coppicing - tree regenerates, repeated harvests
 
 ### 2. Preparation
-- **Stripping**: Outer bark scraped off (shell, stone, bamboo knife)
+- **Stripping**: Outer bark scraped off (shell, stone, bamboo knife) [3]
 - **Inner bark (bast) separated** - Only phloem used
 - **Soaking**: Water (hours to days) - softens, begins retting
 - **Fermentation** (some traditions): Controlled microbial action loosens fibers
 
 ### 3. Beating (Core Process)
-- **Tools**: Wooden beaters (ike in Hawaii, tutua in Samoa)
+- **Tools**: Wooden beaters (ike in Hawaii, tutua in Samoa) [4]
   - Grooved/ribbed faces for different stages
   - Single or double-sided, various sizes
 - **Anvil**: Hard wood log, stone, or banana stump
 - **Technique**: 
   1. Initial heavy beating - separate fibers, widen sheet
   2. Progressive lighter beating - refine, smooth, felt fibers
-  3. Final smoothing - polished beater, sometimes burnishing
+  3. Final smoothing - polished beater, sometimes burnishing [5]
 - **Joining**: Overlapping edges beaten together for larger sheets
 
 ### 4. Finishing
 - **Drying**: Sun-dried on frames or flat
 - **Decoration**: 
   - Freehand painting (natural dyes)
-  - Stamping (carved bamboo/wood stamps - 'ohe kāpala in Hawaii)
+  - Stamping (carved bamboo/wood stamps - 'ohe kāpala in Hawaii) [6]
   - Rubbing over patterned boards
   - Dyeing (overall or resist)
 - **Softening**: Re-beating, rubbing with shell/stone, oiling
@@ -130,6 +131,7 @@ Bark cloth (tapa in Polynesia, kapa in Hawaii, amate in Mesoamerica, lubugo in U
 - [[SOCIAL_ORGANIZATION/Ritual_and_Ceremony]] - Ceremonial uses
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Bark cloth as trade good
 - [[Lithic_Technologies/Neolithic_Pottery]] - Beater impressions on pottery
+
 
 ## Sources
 

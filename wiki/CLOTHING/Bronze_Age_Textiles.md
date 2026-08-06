@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/CLOTHING/Bronze_Age_Textiles.html
 ---
 
+
 # Bronze Age Textiles
 
-The Bronze Age sees textiles become a major economic commodity, with specialized production, long-distance trade, and complex dye industries. Wool dominates in temperate zones, linen in the Mediterranean, and silk emerges in China.
+The Bronze Age sees textiles become a major economic commodity, with specialized production, long-distance trade, and complex dye industries. Wool dominates in temperate zones, linen in the Mediterranean, and silk emerges in China. [1]
 
 ## Overview
 
@@ -28,24 +29,24 @@ Bronze Age textiles are characterized by: systematic wool economies, professiona
 ## Materials & Fibers
 
 ### Wool (Dominant in Europe/Near East)
-- **Sheep improvement**: Selection for woolly fleece (vs. hairy wild ancestors)
+- **Sheep improvement**: Selection for woolly fleece (vs. hairy wild ancestors) [2]
 - **Breeds**: Regional variation emerging; fat-tailed, fine-wool, long-wool
 - **Shearing**: Bronze shears appear ~2,000 BCE (before: plucking/molting collection)
 - **Yield**: 1-3 kg/fleece; processed into 1-2 kg clean wool
 
 ### Linen (Mediterranean/Near East)
-- **Flax**: Continued cultivation, improved retting/processing
+- **Flax**: Continued cultivation, improved retting/processing [3]
 - **Quality grades**: Fine (royal/elite), medium, coarse (sails, sacks)
 - **Egypt**: Linen dominance, massive temple production, mummy wrappings
 
 ### Silk (China - Late Bronze Age)
-- **Sericulture**: Domesticated silkworm (Bombyx mori) ~3,000 BCE
+- **Sericulture**: Domesticated silkworm (Bombyx mori) ~3,000 BCE [4]
 - **Reeling**: Filament unwound from cocoon (unique to silk)
 - **Early finds**: Yangshao culture (~3,000 BCE), Shang tombs (~1,200 BCE)
 - **Trade**: Not yet major export (Silk Road = Iron Age/Han)
 
 ### Other Fibers
-- **Hemp**: Northern Europe, China, Central Asia (rope, coarse cloth)
+- **Hemp**: Northern Europe, China, Central Asia (rope, coarse cloth) [5]
 - **Nettle**: Continuing wild harvest
 - **Cotton**: Indus Valley (major), limited Near East
 - **Camelid fiber**: Andes (llama, alpaca, vicuña) - independent tradition
@@ -53,7 +54,7 @@ Bronze Age textiles are characterized by: systematic wool economies, professiona
 ## Production Organization
 
 ### Palace/Temple Workshops (Near East, Aegean)
-- **Attached specialists**: Full-time weavers, spinners, dyers, finishers
+- **Attached specialists**: Full-time weavers, spinners, dyers, finishers [6]
 - **Rationed workers**: Paid in grain, oil, wool allocations (Linear B tablets)
 - **Standardization**: Fixed warp counts, thread counts, dimensions
 - **Scale**: Hundreds of workers at Knossos, Pylos, Ur, Mari
@@ -64,7 +65,7 @@ Bronze Age textiles are characterized by: systematic wool economies, professiona
 - **Gendered**: Women's work (spinning especially)
 
 ### Nomadic Production (Steppes, Central Asia)
-- **Felt**: Non-woven, portable, essential for yurts/clothing
+- **Felt**: Non-woven, portable, essential for yurts/clothing [7]
 - **Pile weaving**: Early knotted carpets (Pazyryk ~400 BCE, earlier inferred)
 - **Trade**: Felt, wool, carpets to settled zones
 
@@ -175,6 +176,7 @@ Bronze Age textiles are characterized by: systematic wool economies, professiona
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Textile trade routes
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Palace workshops
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Dyed cloth as status
+
 
 ## Sources
 

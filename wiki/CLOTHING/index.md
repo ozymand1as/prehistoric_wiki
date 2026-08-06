@@ -73,3 +73,11 @@ Clothing and textile technologies represent some of humanity's earliest and most
 
 ## Tags
 `clothing`, `textiles`, `technology`, `period/paleolithic`, `period/neolithic`, `period/bronze-age`, `material/fiber`, `function/social`, `evidence/archaeological`
+
+## Sources
+
+1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton University Press.
+2. Gleba, M. & Mannering, U. (2012). *Textiles and Textile Production in Europe*. Oxbow.
+3. Rast-Eicher, A. (2016). *Textile Production in Neolithic Switzerland*. In *Neolithic Textile Production*.
+4. Cutler, J. et al. (2020). *Flax Domestication*. Nature Plants.
+5. Breniquet, C. & Michel, C. (2014). *Wool Economy in the Ancient Near East*. Oxbow.

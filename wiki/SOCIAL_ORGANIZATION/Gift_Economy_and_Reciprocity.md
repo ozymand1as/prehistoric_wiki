@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity.html
 ---
 
+
 # Gift Economy and Reciprocity
 
-Gift economy and reciprocity are the fundamental mechanisms of social integration in pre-market societies. They create and maintain social bonds, distribute resources, and establish hierarchies through the obligations to give, receive, and reciprocate.
+Gift economy and reciprocity are the fundamental mechanisms of social integration in pre-market societies. They create and maintain social bonds, distribute resources, and establish hierarchies through the obligations to give, receive, and reciprocate. [1]
 
 ## Overview
 
@@ -23,21 +24,21 @@ Unlike market exchange (simultaneous, equivalent, impersonal), gift exchange is 
 
 ### 1. Generalized Reciprocity
 - **Context**: Close kin, intimate relations
-- **Expectation**: No immediate return, no calculation
+- **Expectation**: No immediate return, no calculation [2]
 - **Logic**: "From each according to ability, to each according to need"
 - **Examples**: Parent-child, spouse-spouse, close siblings
 - **Social effect**: Reinforces intimacy, trust
 
 ### 2. Balanced Reciprocity
 - **Context**: Distant kin, friends, allies
-- **Expectation**: Direct return, rough equivalence, defined timeframe
+- **Expectation**: Direct return, rough equivalence, defined timeframe [3]
 - **Logic**: Quid pro quo, but socially embedded
 - **Examples**: Gift exchange (Kula, potlatch), bridewealth, trade partnerships
 - **Social effect**: Creates/maintains social distance, defines relationships
 
 ### 3. Negative Reciprocity
 - **Context**: Strangers, enemies, out-groups
-- **Expectation**: Get more than give, minimize loss
+- **Expectation**: Get more than give, minimize loss [4]
 - **Logic**: Maximize self-interest, "caveat emptor"
 - **Examples**: Haggling, theft, sharp practice, warfare plunder
 - **Social effect**: Reinforces boundaries, hostility
@@ -116,6 +117,7 @@ Unlike market exchange (simultaneous, equivalent, impersonal), gift exchange is 
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Elite exchange
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Long-distance exchange
 - [[CLOTHING/Textile_Production]] - Textiles as gifts/currency
+
 
 ## Sources
 1. Mauss, M. (1925/1990). *The Gift*. Routledge.

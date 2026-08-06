@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/CLOTHING/Flax_Cultivation.html
 ---
 
+
 # Flax Cultivation
 
-Flax (Linum usitatissimum) is one of the founder crops of the Neolithic Revolution and the primary source of linen fiber for Old World textiles for over 8,000 years.
+Flax (Linum usitatissimum) is one of the founder crops of the Neolithic Revolution and the primary source of linen fiber for Old World textiles for over 8,000 years. [1]
 
 ## Overview
 
@@ -26,17 +27,17 @@ Flax was domesticated in the Near East alongside wheat, barley, and legumes. Its
 
 ### Wild Ancestor
 - **Species**: Linum bienne (wild flax)
-- **Region**: Fertile Crescent, Mediterranean basin
+- **Region**: Fertile Crescent, Mediterranean basin [2]
 - **Traits**: Small seeds, dehiscent capsules, short fibers
 
 ### Domestication Syndrome
 - **Larger seeds**: Non-shattering capsules
-- **Longer fibers**: Single tall stem, reduced branching
+- **Longer fibers**: Single tall stem, reduced branching [3]
 - **Higher oil content**: Linseed oil
 - **Loss of dormancy**: Uniform germination
 
 ### Archaeological Evidence
-- **PPNB** (8,500 BCE): Wild flax at Jericho, Abu Hureyra
+- **PPNB** (8,500 BCE): Wild flax at Jericho, Abu Hureyra [4]
 - **Early Neolithic** (7,500 BCE): Domestic flax at Çayönü, Nevalı Çori
 - **Egypt** (5,000 BCE): Flax in Predynastic graves
 - **Europe** (5,500 BCE): LBK sites (flax seeds, capsule fragments)
@@ -132,6 +133,7 @@ Flax was domesticated in the Near East alongside wheat, barley, and legumes. Its
 - [[CLOTHING/Neolithic_Textiles]] - Early linen
 - [[CLOTHING/Bronze_Age_Textiles]] - Linen trade
 - [[AGRICULTURE/Crop-Domestication]] - Founder crop
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

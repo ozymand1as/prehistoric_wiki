@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Band_Society.html
 ---
 
+
 # Band Society
 
-The band is the simplest and most ancient form of human social organization. Characterized by small size, egalitarian ethos, kinship-based membership, and face-to-face decision-making, bands were the universal human social form throughout the Paleolithic and persist among hunter-gatherers today.
+The band is the simplest and most ancient form of human social organization. Characterized by small size, egalitarian ethos, kinship-based membership, and face-to-face decision-making, bands were the universal human social form throughout the Paleolithic and persist among hunter-gatherers today. [1]
 
 ## Overview
 
@@ -40,20 +41,20 @@ Bands are small (20-50 people), mobile or semi-mobile foraging groups bound by k
 ## Social Structure
 
 ### Membership & Composition
-- **Core**: Nuclear families linked by parent-child, sibling ties
+- **Core**: Nuclear families linked by parent-child, sibling ties [2]
 - **Fluid**: Individuals/families move between bands freely
 - **Fission-fusion**: Groups split/merge seasonally or socially
 - **No fixed boundaries**: Band identity is relational, not territorial
 
 ### Kinship & Marriage
 - **Descent**: Bilateral (both sides recognized)
-- **Residence**: Multilocal (uxorilocal, virilocal, neolocal flexible)
+- **Residence**: Multilocal (uxorilocal, virilocal, neolocal flexible) [3]
 - **Marriage**: Exogamous (outside band), often arranged but consensual
 - **Incest taboo**: Extends to all band members (classificatory kin)
 - **Alliance**: Marriage creates ties between bands
 
 ### Age & Gender Organization
-- **Elders**: Respect for experience; advisors, not rulers
+- **Elders**: Respect for experience; advisors, not rulers [4]
 - **Gender complementarity**: Distinct but valued roles (hunt/gather)
 - **Initiation**: Rites of passage (variable, often minimal)
 - **Childrearing**: Communal, alloparenting common
@@ -61,7 +62,7 @@ Bands are small (20-50 people), mobile or semi-mobile foraging groups bound by k
 ## Decision-Making & Leadership
 
 ### Consensus Process
-1. **Discussion**: Open, prolonged, all adults participate
+1. **Discussion**: Open, prolonged, all adults participate [5]
 2. **Influential voices**: Skilled hunters, elders, shamans, persuasive speakers
 3. **No voting**: Continue until agreement or dissenters withdraw
 4. **Implementation**: Voluntary compliance; no enforcement mechanism
@@ -76,7 +77,7 @@ Bands are small (20-50 people), mobile or semi-mobile foraging groups bound by k
 
 ### Conflict Resolution
 - **Gossip/ridicule**: Primary social control
-- **Avoidance**: Physical separation (band fission)
+- **Avoidance**: Physical separation (band fission) [6]
 - **Mediation**: Elders, kin intervene
 - **Compensation**: Gift-giving restores relations
 - **Execution/expulsion**: Extreme, rare (sorcerers, repeat killers)
@@ -84,13 +85,13 @@ Bands are small (20-50 people), mobile or semi-mobile foraging groups bound by k
 ## Economy: Immediate Return Egalitarianism
 
 ### Sharing Norms
-- **Demand sharing**: "Give me" → compliance expected
+- **Demand sharing**: "Give me" → compliance expected [7]
 - **Generalized reciprocity**: Give without immediate return expectation
 - **Leveling mechanisms**: Prevent accumulation (mockery, theft, destruction)
 - **Food distribution**: Hunter's share → family → band (proportional)
 
 ### Property Concepts
-- **Personal**: Tools, ornaments, clothing (small, portable)
+- **Personal**: Tools, ornaments, clothing (small, portable) [8]
 - **Communal**: Territory, water, fire, knowledge
 - **No land ownership**: Use rights only, no exclusion
 - **Inheritance**: Minimal (personal items destroyed/buried)
@@ -173,6 +174,7 @@ Bands are small (20-50 people), mobile or semi-mobile foraging groups bound by k
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Band camps
 - [[CLOTHING/Paleolithic_Clothing]] - Band material culture
 - [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Band technology
+
 
 ## Sources
 

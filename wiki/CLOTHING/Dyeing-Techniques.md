@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/CLOTHING/Dyeing-Techniques.html
 ---
 
+
 # Dyeing Techniques
 
-Dyeing is the process of adding color to textiles using natural or synthetic pigments. Natural dyes were used from the earliest textile production, with the oldest evidence of textile dyeing dating to approximately 10,000 BCE. This technology was fundamental to the development of decorative and functional textiles across all cultures.
+Dyeing is the process of adding color to textiles using natural or synthetic pigments. Natural dyes were used from the earliest textile production, with the oldest evidence of textile dyeing dating to approximately 10,000 BCE. This technology was fundamental to the development of decorative and functional textiles across all cultures. [1]
 
 
 ## Overview
@@ -22,7 +23,7 @@ Dyeing is the process of adding color to textiles using natural or synthetic pig
 Dyeing is the process of adding color to textiles using natural or synthetic pigments. Natural dyes were used from the earliest textile production, with the oldest evidence of textile dyeing dating to approximately 10,000 BCE. This technology was fundamental to the development of decorative and functional textiles across all cultures.
 ## History & Development
 
-- ~10,000 BCE: Earliest evidence of textile dyeing using plant and mineral pigments
+- ~10,000 BCE: Earliest evidence of textile dyeing using plant and mineral pigments [2]
 - Prehistoric period: Development of basic dyeing with ochre, iron oxide, and plant extracts
 - Ancient civilizations: Refinement of dyeing techniques; indigo cultivation in Asia, Tyrian purple production in the Mediterranean
 - Medieval period: Expansion of dye trade routes; woad and madder become widespread in Europe
@@ -30,7 +31,7 @@ Dyeing is the process of adding color to textiles using natural or synthetic pig
 
 ## Function & Use
 
-- **Primary Use:** Adding color to fibers and textiles for decoration and identification
+- **Primary Use:** Adding color to fibers and textiles for decoration and identification [3]
 - **Secondary Uses:** Color-coding fibers for weaving patterns; preserving and treating fibers; ritual and ceremonial adornment
 - **Cultural Significance:** Dye colors often denoted social status, rank, or clan affiliation; certain dyes (e.g., Tyrian purple, cochineal) were luxury commodities traded across continents
 
@@ -48,6 +49,7 @@ Dyeing involves bonding dye molecules to textile fibers through chemical or phys
 - [[CLOTHING/Woven-Textiles]]
 - [[CLOTHING/Bark-Cloth]]
 - [[MEDICINE/Herbal-Medicine]]
+
 ## Sources
 
 1. Barber, Elizabeth J. W. (1991). "Prehistoric Textiles." *Princeton University Press*, Vol. 1, pp. 1–300.

@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/HOUSING/Nuragic_Architecture.html
 ---
 
+
 # Nuragic Architecture
 
-Nuragic architecture is the distinctive Bronze Age building tradition of Sardinia, characterized by thousands of stone towers (nuraghi) and associated village complexes. It represents one of the most remarkable indigenous architectural developments in the Mediterranean.
+Nuragic architecture is the distinctive Bronze Age building tradition of Sardinia, characterized by thousands of stone towers (nuraghi) and associated village complexes. It represents one of the most remarkable indigenous architectural developments in the Mediterranean. [1]
 
 ## Overview
 
@@ -26,14 +27,14 @@ Over 7,000 nuraghi dot the Sardinian landscape, ranging from simple single tower
 - **Form**: Single conical tower
 - **Chamber**: Circular, corbelled dome (tholos)
 - **Entrance**: Low, lintelled, often with niche
-- **Stairs**: Internal spiral stair in wall thickness
+- **Stairs**: Internal spiral stair in wall thickness [2]
 - **Height**: 10-20 m
 - **Diameter**: 8-15 m base
 
 ### Complex Nuraghe (Polylobate)
 - **Form**: Central tower + 2-4 subsidiary towers
 - **Connection**: Curtain walls, courtyards
-- **Plan**: Bilobate, trilobate, quadrilobate, pentalobate
+- **Plan**: Bilobate, trilobate, quadrilobate, pentalobate [3]
 - **Function**: Defense, residence, storage, ritual
 
 ### Nuragic Villages
@@ -107,6 +108,7 @@ Over 7,000 nuraghi dot the Sardinian landscape, ranging from simple single tower
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Social organization
 - [[SOCIAL_ORGANIZATION/Fortified_Settlements]] - Defense
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools
+
 
 ## Sources
 1. Dyson, S.L. & Rowland, R.J. (2007). *Archaeology of Sardinia*. UPenn.

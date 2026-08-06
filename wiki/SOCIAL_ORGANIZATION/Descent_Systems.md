@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Descent_Systems.html
 ---
 
+
 # Descent Systems
 
-Descent systems are the cultural rules that determine how individuals affiliate with kin groups through parentage. They structure inheritance, residence, marriage, and political allegiance across all human societies.
+Descent systems are the cultural rules that determine how individuals affiliate with kin groups through parentage. They structure inheritance, residence, marriage, and political allegiance across all human societies. [1]
 
 ## Overview
 
@@ -26,20 +27,20 @@ Descent is not biological but cultural—a system for recognizing socially signi
 
 #### Patrilineal (Agnatic)
 - **Affiliation**: Father's line only
-- **Inheritance**: Sons inherit father's group, property
+- **Inheritance**: Sons inherit father's group, property [2]
 - **Residence**: Patrilocal (wife moves to husband's village)
 - **Prevalence**: ~60% of documented societies
 - **Examples**: China (traditional), Near East, pastoral Africa, Highlands PNG
 
 #### Matrilineal (Uterine)
 - **Affiliation**: Mother's line only
-- **Inheritance**: Sister's sons (nephews) inherit uncle's property
+- **Inheritance**: Sister's sons (nephews) inherit uncle's property [3]
 - **Residence**: Matrilocal/avunculocal (husband moves to wife's village, or to maternal uncle)
 - **Prevalence**: ~15% of societies
 - **Examples**: Minangkabau, Navajo, Trobriand, Ashanti, Khasi
 
 ### Double (Duolineal) Descent
-- **Principle**: Different properties through each line
+- **Principle**: Different properties through each line [4]
 - **Patrilineal**: Land, political office, surname
 - **Matrilineal**: Movable wealth, ritual roles, spiritual identity
 - **Examples**: Yako (Nigeria), Herero (Namibia), some Australian groups
@@ -102,6 +103,7 @@ Descent is not biological but cultural—a system for recognizing socially signi
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Ranked lineages
 - [[SOCIAL_ORGANIZATION/Marriage_and_Alliance]] - Exogamy rules
 - [[SOCIAL_ORGANIZATION/Ancestor_Veneration]] - Descent ritual
+
 
 ## Sources
 1. Fox, R. (1967). *Kinship and Marriage*. Penguin.

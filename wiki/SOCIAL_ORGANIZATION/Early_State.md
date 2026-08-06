@@ -18,9 +18,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Early_State.html
 ---
 
+
 # Early State
 
-The early state represents a qualitative leap in social organization: a centralized political authority with a monopoly on force, territorial administration, social stratification, and bureaucratic institutions. States emerge independently in six primary regions during the Bronze Age.
+The early state represents a qualitative leap in social organization: a centralized political authority with a monopoly on force, territorial administration, social stratification, and bureaucratic institutions. States emerge independently in six primary regions during the Bronze Age. [1]
 
 ## Overview
 
@@ -43,36 +44,36 @@ States differ from chiefdoms in having: (1) a professional bureaucracy, (2) terr
 ## Primary State Formation (Six Cradles)
 
 ### 1. Mesopotamia (Sumer) - Earliest (~3,500 BCE)
-- **Uruk Period** (4,000-3,100 BCE): First cities, temple economies, proto-cuneiform
+- **Uruk Period** (4,000-3,100 BCE): First cities, temple economies, proto-cuneiform [2]
 - **Early Dynastic** (2,900-2,350 BCE): City-states, kingship, warfare, law codes
 - **Akkadian Empire** (2,334-2,154 BCE): First multi-ethnic empire
 - **Key innovations**: Cuneiform, wheel, plow, bronze, law codes (Ur-Nammu)
 
 ### 2. Egypt - Unified ~3,100 BCE
-- **Predynastic** (4,000-3,100 BCE): Competing chiefdoms → unification
+- **Predynastic** (4,000-3,100 BCE): Competing chiefdoms → unification [3]
 - **Old Kingdom** (2,686-2,181 BCE): Divine kingship, pyramid bureaucracy
 - **Middle Kingdom** (2,055-1,650 BCE): Reunification, literature, forts
 - **Key innovations**: Hieroglyphs, papyrus, stone architecture, nilometer
 
 ### 3. Indus Valley - Mature ~2,600 BCE
-- **Early Harappan** (3,300-2,600 BCE): Regional centers, early script
+- **Early Harappan** (3,300-2,600 BCE): Regional centers, early script [4]
 - **Mature Harappan** (2,600-1,900 BCE): Planned cities, standardization, trade
 - **Key innovations**: Grid cities, sanitation, weights/measures, Indus script
 
 ### 4. China (Erlitou → Shang) - Erlitou ~1,900 BCE
-- **Longshan** (3,000-1,900 BCE): Walled towns, social hierarchy
+- **Longshan** (3,000-1,900 BCE): Walled towns, social hierarchy [5]
 - **Erlitou** (1,900-1,500 BCE): Palace complex, bronze ritual vessels
 - **Shang** (1,600-1,046 BCE): Oracle bones, bronze industry, royal tombs
 - **Key innovations**: Bronze casting, oracle bones, writing, chariots
 
 ### 5. Mesoamerica (Olmec → Maya) - Olmec ~1,400 BCE
-- **Early Formative** (2,000-1,000 BCE): Villages, pottery, maize
+- **Early Formative** (2,000-1,000 BCE): Villages, pottery, maize [6]
 - **Olmec** (1,400-400 BCE): Colossal heads, centers, jade, writing precursors
 - **Maya** (1,000 BCE-900 CE): City-states, calendar, mathematics
 - **Key innovations**: Maize nixtamalization, rubber, zero, Long Count
 
 ### 6. Andes (Norte Chico → Chavín) - Norte Chico ~3,000 BCE
-- **Preceramic** (3,500-1,800 BCE): Monumental architecture without pottery
+- **Preceramic** (3,500-1,800 BCE): Monumental architecture without pottery [7]
 - **Chavín** (900-200 BCE): Temple complex, interaction sphere, iconography
 - **Moche** (100-800 CE): Urban centers, irrigation, metallurgy
 - **Key innovations**: Cotton fishing nets, camelid domestication, terrace farming
@@ -80,7 +81,7 @@ States differ from chiefdoms in having: (1) a professional bureaucracy, (2) terr
 ## State Institutions
 
 ### Bureaucracy
-- **Officials**: Scribes, tax collectors, granary keepers, judges, generals
+- **Officials**: Scribes, tax collectors, granary keepers, judges, generals [8]
 - **Hierarchy**: Central → provincial → local
 - **Records**: Tax rolls, census, land surveys, legal cases, royal correspondence
 - **Seals/Sealings**: Authorization, ownership, security
@@ -167,6 +168,7 @@ Hamlets/Farmsteads (<100) — subsistence
 - [[AGRICULTURE/Crop-Domestication]] - Surplus production base
 - [[HOUSING/Settlement_Architecture]] - Palaces, administrative buildings
 - [[CLOTHING/Textile_Production]] - State textile workshops
+
 
 ## Sources
 

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Posthole_Archaeology.html
 ---
 
+
 # Posthole Archaeology
 
-Posthole archaeology is the primary method for reconstructing prehistoric timber architecture. Since wood rarely preserves, the negative features left by decayed posts provide the main evidence for building form, size, and construction technique.
+Posthole archaeology is the primary method for reconstructing prehistoric timber architecture. Since wood rarely preserves, the negative features left by decayed posts provide the main evidence for building form, size, and construction technique. [1]
 
 ## Overview
 
@@ -105,9 +106,10 @@ A posthole is the negative impression of a wooden post in the archaeological rec
 
 ## Cross-References
 - [[HOUSING/Neolithic_Longhouses]] - LBK postholes
-- [[HOUSING/Bronze_Age_Roundhouses]] - Roundhouse postholes
+- [[HOUSING/Bronze_Age_Roundhouses]] - Roundhouse postholes [2]
 - [[HOUSING/Mesolithic_Post_Built_Huts]] - Early postholes
 - [[HOUSING/Post_and_Lintel_Construction]] - Structural principles
+
 
 ## Sources
 1. Guilbert, G. (1975). *Excavation of a Bronze Age Hut Circle*. Proc. Prehistoric Society.

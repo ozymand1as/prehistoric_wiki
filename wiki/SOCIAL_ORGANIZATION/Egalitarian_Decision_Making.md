@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Egalitarian_Decision_Making.html
 ---
 
+
 # Egalitarian Decision Making
 
-Egalitarian decision making is the political process of band and tribal societies where authority is situational, leadership is persuasive not coercive, and decisions emerge through consensus rather than hierarchy.
+Egalitarian decision making is the political process of band and tribal societies where authority is situational, leadership is persuasive not coercive, and decisions emerge through consensus rather than hierarchy. [1]
 
 ## Overview
 
@@ -22,7 +23,7 @@ Egalitarian decision making is not "no leadership" but "leadership without autho
 ## Decision-Making Process
 
 ### Consensus Building
-1. **Discussion**: Open, prolonged, all adults participate
+1. **Discussion**: Open, prolonged, all adults participate [2]
 2. **Influential voices**: Elders, skilled hunters, shamans, persuasive speakers
 3. **No voting**: Continue until agreement or dissenters withdraw
 4. **Implementation**: Voluntary compliance
@@ -49,7 +50,7 @@ Egalitarian decision making is not "no leadership" but "leadership without autho
 - **Avoidance**: Physical separation (fission)
 - **Mediation**: Elders, kin intervene
 - **Compensation**: Gift-giving restores relations
-- **Execution/expulsion**: Extreme (sorcerers, repeat killers)
+- **Execution/expulsion**: Extreme (sorcerers, repeat killers) [3]
 
 ### Fission as Ultimate Sanction
 - **Threat**: "If you don't like it, leave"
@@ -78,10 +79,11 @@ Egalitarian decision making is not "no leadership" but "leadership without autho
 | **Settlement fission** | Egalitarian fissioning |
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Band_Society]] - Band politics
+- [[SOCIAL_ORGANIZATION/Band_Society]] - Band politics [4]
 - [[SOCIAL_ORGANIZATION/Tribal_Organization]] - Tribal councils
 - [[SOCIAL_ORGANIZATION/Big_Man_System]] - Achieved leadership
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Contrast (hierarchical)
+
 
 ## Sources
 1. Boehm, C. (1999). *Hierarchy in the Forest*. Harvard UP.

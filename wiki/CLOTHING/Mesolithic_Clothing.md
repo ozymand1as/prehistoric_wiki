@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/CLOTHING/Mesolithic_Clothing.html
 ---
 
+
 # Mesolithic Clothing
 
-Mesolithic clothing represents a transitional phase between Paleolithic tailored hide garments and Neolithic woven textiles. Evidence suggests continued reliance on animal hides with increasing use of plant fibers and decorative elements.
+Mesolithic clothing represents a transitional phase between Paleolithic tailored hide garments and Neolithic woven textiles. Evidence suggests continued reliance on animal hides with increasing use of plant fibers and decorative elements. [1]
 
 ## Overview
 
@@ -26,13 +27,13 @@ The Mesolithic (~12,000–6,000 BCE) saw climate warming, forest expansion, and 
 ## Materials
 
 ### Animal Products
-- **Red deer, roe deer**: Primary hide sources (Europe)
+- **Red deer, roe deer**: Primary hide sources (Europe) [2]
 - **Seal, fish skins**: Coastal/Arctic groups
 - **Bird skins**: Feathers for decoration, insulation
 - **Antler, bone**: Tools, fasteners, ornaments
 
 ### Plant Fibers (Increasing)
-- **Nettle (Urtica dioica)**: Fine bast fiber, widespread
+- **Nettle (Urtica dioica)**: Fine bast fiber, widespread [3]
 - **Lime/basswood (Tilia)**: Inner bark, flexible
 - **Willow, oak bast**: Coarser fibers
 - **Grasses, reeds**: Twining, plaiting
@@ -40,7 +41,7 @@ The Mesolithic (~12,000–6,000 BCE) saw climate warming, forest expansion, and 
 ## Garment Types (Inferred)
 
 ### Upper Body
-- **Capes/cloaks**: Hide or woven, fastened at neck
+- **Capes/cloaks**: Hide or woven, fastened at neck [4]
 - **Shirts/tunics**: Pullover, hide or plant fiber
 - **Vests**: Sleeveless, layered
 
@@ -119,6 +120,7 @@ The Mesolithic (~12,000–6,000 BCE) saw climate warming, forest expansion, and 
 - [[CLOTHING/Tanning_and_Hide_Processing]] - Hide methods
 - [[CLOTHING/Bone_Needles_and_Tools]] - Needle technology
 - [[Lithic_Technologies/Stone-Tools]] - Microlithic toolkit
+
 
 ## Sources
 1. Weller, O. (2015). *Mesolithic Clothing*. In *Oxford Handbook of the Mesolithic*.

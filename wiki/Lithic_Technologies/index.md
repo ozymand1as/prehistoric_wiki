@@ -24,3 +24,10 @@ Stone tools and manufacturing methods that dominated the Stone Age.
 - [Hammerstone](Hammerstone.html)
 - [Axe](Axe.html)
 - [Spearhead](Spearhead.html)
+
+## Sources
+
+1. Whittaker, J.C. (1994). *Flintknapping: Making and Understanding Stone Tools*. University of Arizona Press.
+2. Andrefsky, W. (2005). *Lithics: Macroscopic Approaches to Analysis*. Cambridge UP.
+3. Shea, J.J. (2013). *Stone Tools in the Paleolithic and Neolithic Near East*. Cambridge UP.
+4. Inizan, M.-L. et al. (1999). *Technology and Terminology of Knapped Stone*. Cercle de Recherches.

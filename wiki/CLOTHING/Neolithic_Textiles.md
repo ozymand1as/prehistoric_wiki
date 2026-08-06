@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/CLOTHING/Neolithic_Textiles.html
 ---
 
+
 # Neolithic Textiles
 
-The Neolithic Revolution brought agriculture, sedentism, and the systematic cultivation of fiber plants and domestication of wool-bearing animals. This period sees the transition from hide-based clothing to woven textiles as a major technological and economic development.
+The Neolithic Revolution brought agriculture, sedentism, and the systematic cultivation of fiber plants and domestication of wool-bearing animals. This period sees the transition from hide-based clothing to woven textiles as a major technological and economic development. [1]
 
 ## Overview
 
@@ -26,14 +27,14 @@ Neolithic textiles represent the birth of true cloth production. Flax cultivatio
 ## Fiber Sources
 
 ### Plant Fibers
-- **Flax (Linum usitatissimum)** - Primary Near Eastern/European fiber; domesticated ~8,000 BCE
+- **Flax (Linum usitatissimum)** - Primary Near Eastern/European fiber; domesticated ~8,000 BCE [2]
 - **Hemp (Cannabis sativa)** - East Asia early, Europe later; coarse, durable
 - **Nettle (Urtica dioica)** - Wild-harvested, fine fiber, widespread Europe/Asia
 - **Tree bast (lime, willow, oak)** - Non-cultivated, cordage and coarse cloth
 - **Cotton (Gossypium spp.)** - Indus Valley (~6,000 BCE), Mesoamerica, Peru (later Neolithic/Chalcolithic)
 
 ### Animal Fibers
-- **Sheep wool** - Domesticated ~9,000 BCE; initially hairy, woolly breeds selected later
+- **Sheep wool** - Domesticated ~9,000 BCE; initially hairy, woolly breeds selected later [3]
 - **Goat hair/cashmere** - Coarse outer, fine inner; separate uses
 - **Cattle hair** - Minor, coarse applications
 
@@ -51,7 +52,7 @@ Neolithic textiles represent the birth of true cloth production. Flax cultivatio
 ## Weaving Technology: Warp-Weighted Loom
 
 ### Structure
-- **Frame**: Two uprights, crossbeam (cloth beam), leaning against wall
+- **Frame**: Two uprights, crossbeam (cloth beam), leaning against wall [4]
 - **Warp**: Vertical threads tied to loom weights at bottom
 - **Weights**: Fired clay (discoid, pyramidal), stone; 100-500g each
 - **Shed**: Created by heddle rod + shed rod (counter-shed)
@@ -66,7 +67,7 @@ Neolithic textiles represent the birth of true cloth production. Flax cultivatio
 ### Archaeological Identification
 - **Rows of loom weights** in situ = loom position
 - **Weight clusters** near walls = weaving areas
-- **Spindle whorl concentrations** = spinning areas
+- **Spindle whorl concentrations** = spinning areas [5]
 
 ## Regional Developments
 
@@ -130,6 +131,7 @@ Neolithic textiles represent the birth of true cloth production. Flax cultivatio
 - [[AGRICULTURE/Crop-Domestication]] - Flax as founder crop
 - [[Lithic_Technologies/Neolithic_Pottery]] - Ceramic spindle whorls, loom weights
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Textile workers
+
 
 ## Sources
 

@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/CLOTHING/Oceanic_Bark_Cloth.html
 ---
 
+
 # Oceanic Bark Cloth (Tapa/Kapa)
 
-Bark cloth (tapa in Polynesia, kapa in Hawaii, siapo in Samoa, masi in Fiji) is the signature textile of the Pacific Islands, made by beating the inner bark of trees into flexible sheets without weaving.
+Bark cloth (tapa in Polynesia, kapa in Hawaii, siapo in Samoa, masi in Fiji) is the signature textile of the Pacific Islands, made by beating the inner bark of trees into flexible sheets without weaving. [1]
 
 ## Overview
 
@@ -25,14 +26,14 @@ Bark cloth represents a non-woven textile tradition that predates weaving in the
 ## Production Process
 
 ### Tree Cultivation
-- **Paper mulberry**: Primary species, cultivated in gardens
+- **Paper mulberry**: Primary species, cultivated in gardens [2]
 - **Harvest**: 2-3 year stems, wet season (bark peels easily)
 - **Sustainability**: Coppicing allows repeated harvests
 
 ### Processing Steps
 1. **Stripping**: Outer bark removed (shell, bamboo knife)
 2. **Soaking**: Inner bark (bast) soaked hours to days
-3. **Beating**: Wooden beaters (ike, tutua) on wooden anvil
+3. **Beating**: Wooden beaters (ike, tutua) on wooden anvil [3]
    - Grooved faces for different stages
    - Fibers interlock mechanically
 4. **Joining**: Overlapping edges beaten together for large sheets
@@ -62,7 +63,7 @@ Bark cloth represents a non-woven textile tradition that predates weaving in the
 
 ## Properties
 
-- **Strength**: High tear resistance (wet), variable dry
+- **Strength**: High tear resistance (wet), variable dry [4]
 - **Flexibility**: Stiffens when new, softens with wear
 - **Water resistance**: Moderate; improved with oils/resins
 - **Breathability**: Good - porous structure
@@ -79,6 +80,7 @@ Bark cloth represents a non-woven textile tradition that predates weaving in the
 - [[CLOTHING/Plant_Fibers]] - Non-woven fibers
 - [[SOCIAL_ORGANIZATION/Ritual_and_Ceremony]] - Ceremonial use
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Bark cloth as trade good
+
 
 ## Sources
 1. Bjerregaard, L. (2016). *The Materiality of Tapa*. In *Pacific Barkcloth*.

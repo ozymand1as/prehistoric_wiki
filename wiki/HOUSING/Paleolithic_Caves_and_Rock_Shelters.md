@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/HOUSING/Paleolithic_Caves_and_Rock_Shelters.html
 ---
 
+
 # Paleolithic Caves & Rock Shelters
 
-Caves and rock shelters were the primary durable dwellings of the Paleolithic. They provided ready-made protection from elements and predators, and their sediments preserve the richest archaeological records of early human behavior.
+Caves and rock shelters were the primary durable dwellings of the Paleolithic. They provided ready-made protection from elements and predators, and their sediments preserve the richest archaeological records of early human behavior. [1]
 
 ## Overview
 
@@ -37,7 +38,7 @@ Natural rock shelters and caves were not merely "homes" but structured living sp
 ## Spatial Organization (Ethnographic & Archaeological Model)
 
 ### Activity Areas (Documented at Multiple Sites)
-1. **Hearth Zone** - Central or back wall; cooking, warmth, light, social focus
+1. **Hearth Zone** - Central or back wall; cooking, warmth, light, social focus [2]
 2. **Sleeping/Resting** - Rear/sides, often raised on bedding (grass, leaves, hides)
 3. **Tool Production** - Near entrance (light), specific knapping stations
 4. **Butchery/Processing** - Near entrance or exterior; blood, bone waste
@@ -45,7 +46,7 @@ Natural rock shelters and caves were not merely "homes" but structured living sp
 6. **Ritual/Symbolic** - Deep cave (art), specific niches (burials, caches)
 
 ### Evidence for Zoning
-- **Phosphate mapping** - Elevated in sleeping, butchery, refuse areas
+- **Phosphate mapping** - Elevated in sleeping, butchery, refuse areas [3]
 - **Microartifact distribution** - Knapping debris clusters, bone fragments
 - **Hearth sequences** - Superimposed hearths = long-term structured reuse
 - **Postholes/stakeholes** - Internal partitions, windbreaks, structures
@@ -87,14 +88,14 @@ Natural rock shelters and caves were not merely "homes" but structured living sp
 ## Construction & Modification
 
 ### Internal Structures
-- **Windbreaks**: Stones, bones, posts at entrance (reduce drafts)
+- **Windbreaks**: Stones, bones, posts at entrance (reduce drafts) [4]
 - **Partitions**: Posthole rows dividing space (rare but documented)
 - **Flooring**: Grass, leaves, bark, hides over damp floors
 - **Wall niches**: Natural or excavated for storage
 - **Drainage**: Shallow trenches directing water out
 
 ### External Modifications
-- **Entrance walls**: Stone walls narrowing opening (wind, heat)
+- **Entrance walls**: Stone walls narrowing opening (wind, heat) [5]
 - **Platforms**: Leveled areas for sleeping/working
 - **Midden management**: Designated discard zones
 
@@ -109,7 +110,7 @@ Natural rock shelters and caves were not merely "homes" but structured living sp
 | **Fire-cracked rock** | Boiling stones (indirect cooking) | Middle Paleolithic+ |
 
 ### Fire Evidence
-- **Charcoal** - Wood species identification (fuel choice)
+- **Charcoal** - Wood species identification (fuel choice) [6]
 - **Ash layers** - Repeated use, cleaning episodes
 - **Burned bone** - Fuel (fat-rich) or waste disposal
 - **Thermally altered sediments** - Reddened bases = in situ burning
@@ -153,6 +154,7 @@ Natural rock shelters and caves were not merely "homes" but structured living sp
 - [[Lithic_Technologies/Choppers]] - Early cave occupation tools
 - [[SOCIAL_ORGANIZATION/Band_Society]] - Band-sized groups in shelters
 - [[SOCIAL_ORGANIZATION/Ritual_and_Ceremony]] - Cave art, burials
+
 
 ## Sources
 

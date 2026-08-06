@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Hearth_and_Floor_Analysis.html
 ---
 
+
 # Hearth and Floor Analysis
 
-Hearth and floor analysis uses geoarchaeological methods to reconstruct domestic activities, spatial organization, and site formation processes from the microscopic and chemical traces preserved in occupation surfaces.
+Hearth and floor analysis uses geoarchaeological methods to reconstruct domestic activities, spatial organization, and site formation processes from the microscopic and chemical traces preserved in occupation surfaces. [1]
 
 ## Overview
 
@@ -31,14 +32,14 @@ Hearths and floors are the primary loci of domestic activity. Their microscopic 
 | **Oven** | Neolithic+ | Domed, enclosed |
 
 ### Hearth Residues
-- **Macro**: Charcoal (fuel), bone (cooking), seeds (parching)
+- **Macro**: Charcoal (fuel), bone (cooking), seeds (parching) [2]
 - **Micro**: Ash (mineral), phytoliths (plant parts), spherulites (dung)
 - **Chemical**: Phosphates (organic), lipids (cooking), isotopes (diet)
 - **Magnetic**: Thermoremament magnetism (temperature)
 
 ### Activity Inference
 - **Primary**: Cooking, heating, lighting
-- **Secondary**: Tool heat-treating, hide smoking, ceramic firing
+- **Secondary**: Tool heat-treating, hide smoking, ceramic firing [3]
 - **Social**: Gathering, storytelling, ritual
 
 ## Floor Analysis
@@ -94,6 +95,7 @@ Hearths and floors are the primary loci of domestic activity. Their microscopic 
 - [[HOUSING/Neolithic_Longhouses]] - Floor/hearth context
 - [[SOCIAL_ORGANIZATION/Ritual_and_Ceremony]] - Hearth ritual
 - [[CLOTHING/Animal_Skins_and_Hides]] - Hide processing residues
+
 
 ## Sources
 1. Mentzer, S.M. (2014). *Microarchaeology*. In *Encyclopedia of Geoarchaeology*.

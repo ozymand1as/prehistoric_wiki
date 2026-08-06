@@ -20,9 +20,10 @@ layout: null
 permalink: /wiki/Europe/Neolithic-Technology.html
 ---
 
+
 # European Neolithic Technology
 
-The European Neolithic (~7,000–2,000 BCE) marks the transition from Mesolithic hunter-gatherer societies to sedentary farming communities. Originating in the Near East, agriculture spread westward through two main routes: the Danubian corridor (Linear Pottery Culture) and the Mediterranean coast (Cardial Ware). European Neolithic technologies include polished stone axes, pottery, megalithic architecture, longhouses, and early copper metallurgy (Chalcolithic).
+The European Neolithic (~7,000–2,000 BCE) marks the transition from Mesolithic hunter-gatherer societies to sedentary farming communities. Originating in the Near East, agriculture spread westward through two main routes: the Danubian corridor (Linear Pottery Culture) and the Mediterranean coast (Cardial Ware). European Neolithic technologies include polished stone axes, pottery, megalithic architecture, longhouses, and early copper metallurgy (Chalcolithic). [1]
 
 ## Overview
 
@@ -30,36 +31,36 @@ The European Neolithic (~7,000–2,000 BCE) marks the transition from Mesolithic
 
 ## History & Development
 
-- **Early Neolithic (~7,000–5,500 BCE):** Arrival of farming via Anatolia and Greece; Linear Pottery Culture (LBK) spreads along Danube/Rhine; Cardial Ware along Mediterranean coast
+- **Early Neolithic (~7,000–5,500 BCE):** Arrival of farming via Anatolia and Greece; Linear Pottery Culture (LBK) spreads along Danube/Rhine; Cardial Ware along Mediterranean coast [2]
 - **Middle Neolithic (~5,500–4,500 BCE):** Regional diversification; Funnelbeaker Culture (TRB) in Northern Europe; Cucuteni-Trypillia in Eastern Europe; megalithic monuments begin
 - **Late Neolithic (~4,500–3,000 BCE):** Large settlements (Cucuteni-Trypillia mega-sites up to 300 ha); extensive trade networks for obsidian, flint, copper; Corded Ware and Bell Beaker phenomena
 - **Chalcolithic/Copper Age (~3,000–2,000 BCE):** Early copper smelting (Balkans, Iberia); Varna Necropolis (Bulgaria) with oldest processed gold (~4,600 BCE); transition to Bronze Age
 
 ## Function & Use
 
-- **Primary Use:** Food production (cereals, legumes, livestock), shelter (longhouses, pile dwellings), tool making, ceremonial/monumental construction
+- **Primary Use:** Food production (cereals, legumes, livestock), shelter (longhouses, pile dwellings), tool making, ceremonial/monumental construction [3]
 - **Secondary Uses:** Trade (obsidian, flint, copper, Spondylus shells), social signaling (status goods, body ornamentation), territorial marking (megaliths, enclosures)
 - **Cultural Significance:** Agriculture enabled population growth and social complexity; megaliths expressed cosmology and ancestry; polished axes as both tools and status objects; pottery styles defined cultural groups
 
 ## Construction & Technique
 
 **Polished Stone Axes:**
-- Flaked roughout from flint, jadeite, or amphibolite; polished by grinding on sandstone to create sharp, durable edge
+- Flaked roughout from flint, jadeite, or amphibolite; polished by grinding on sandstone to create sharp, durable edge [4]
 - Hafted in wooden handles with antler sleeves; used for forest clearance, woodworking, and as prestige items
 - Major production sites: Great Langdale (England), Plancher-les-Mines (France), Rathlin Island (Ireland)
 
 **Pottery:**
-- Coil-built, hand-shaped vessels; impressed (Cardial), incised (LBK), or painted decoration
+- Coil-built, hand-shaped vessels; impressed (Cardial), incised (LBK), or painted decoration [5]
 - Fired in open bonfires or simple pit kilns (600–800°C); later Neolithic sees more controlled firing
 - Forms: globular jars, carinated bowls, lugged vessels for storage/cooking/transport
 
 **Megalithic Architecture:**
-- Massive stone slabs (megaliths) quarried, transported, and erected using levers, rollers, ramps, and timber sledges
+- Massive stone slabs (megaliths) quarried, transported, and erected using levers, rollers, ramps, and timber sledges [6]
 - Types: dolmens (chambered tombs), passage graves, stone circles, menhirs, alignments
 - Notable: Carnac (France, 3,000+ stones), Newgrange (Ireland, ~3,200 BCE), Stonehenge Phase 1 (~3,000 BCE)
 
 **Longhouses & Settlements:**
-- Post-and-beam timber frames with wattle-and-daub walls, thatched roofs; 20–45 m long
+- Post-and-beam timber frames with wattle-and-daub walls, thatched roofs; 20–45 m long [7]
 - LBK longhouses: centralized hearth, livestock stalling at one end; villages of 5–10 houses
 - Pile dwellings (Alpine lakes): platforms on wooden piles over water; exceptional organic preservation
 
@@ -86,6 +87,7 @@ The European Neolithic (~7,000–2,000 BCE) marks the transition from Mesolithic
 - [[AGRICULTURE/Early-Agriculture-and-Domestication]]
 - [[Metallurgy/Copper-Smelting-Sites-and-Techniques]]
 - [[CLOTHING/Woven-Textiles]]
+
 
 ## Sources
 

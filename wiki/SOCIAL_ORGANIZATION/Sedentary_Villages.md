@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Sedentary_Villages.html
 ---
 
+
 # Sedentary Villages
 
-Sedentary villages are permanent, year-round settlements based on food production (agriculture, pastoralism, or intensive foraging). They represent the fundamental social unit of the Neolithic and the building block of later urbanism.
+Sedentary villages are permanent, year-round settlements based on food production (agriculture, pastoralism, or intensive foraging). They represent the fundamental social unit of the Neolithic and the building block of later urbanism. [1]
 
 ## Overview
 
@@ -56,12 +57,12 @@ Sedentism precedes agriculture in some regions (Natufian, Jōmon) but becomes un
 ### Household
 - **Unit**: Nuclear/extended family
 - **Production**: Subsistence + craft
-- **Autonomy**: Variable (independent vs corporate)
+- **Autonomy**: Variable (independent vs corporate) [2]
 
 ### Corporate Groups
 - **Lineage/clan**: Kin-based corporate landholding
 - **Age sets**: Cross-cutting labor/ritual groups
-- **Sodalities**: Religious, craft, military associations
+- **Sodalities**: Religious, craft, military associations [3]
 
 ### Community Institutions
 - **Council**: Elders, lineage heads
@@ -73,7 +74,7 @@ Sedentism precedes agriculture in some regions (Natufian, Jōmon) but becomes un
 
 ### Subsistence
 - **Agriculture**: Intensive, irrigated, terraced
-- **Pastoralism**: Integrated (byre-houses, transhumance)
+- **Pastoralism**: Integrated (byre-houses, transhumance) [4]
 - **Storage**: Household + communal (risk buffering)
 
 ### Craft Specialization
@@ -116,6 +117,7 @@ Sedentism precedes agriculture in some regions (Natufian, Jōmon) but becomes un
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Village in chiefdom
 - [[HOUSING/Neolithic_Longhouses]] - Village architecture
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Village exchange
+
 
 ## Sources
 1. Flannery, K.V. (1972). *The Origins of the Village*. Annual Review of Anthropology.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Trade_Networks.html
 ---
 
+
 # Trade Networks
 
-Prehistoric trade networks moved raw materials, finished goods, and ideas across vast distances. From Paleolithic shell beads to Bronze Age tin routes, exchange systems were vital for acquiring scarce resources, establishing social alliances, and driving technological innovation.
+Prehistoric trade networks moved raw materials, finished goods, and ideas across vast distances. From Paleolithic shell beads to Bronze Age tin routes, exchange systems were vital for acquiring scarce resources, establishing social alliances, and driving technological innovation. [1]
 
 ## Overview
 
@@ -34,26 +35,26 @@ Trade in prehistory operated through multiple mechanisms simultaneously: direct 
 ### Stone Age Networks
 
 #### Obsidian (Volcanic Glass)
-- **Sources**: Anatolia (Cappadocia), Melos (Aegean), Lipari (Italy), Pantelleria, Armenia, Peru, Mexico, Japan, Kenya
+- **Sources**: Anatolia (Cappadocia), Melos (Aegean), Lipari (Italy), Pantelleria, Armenia, Peru, Mexico, Japan, Kenya [2]
 - **Paleolithic**: Up to 300-500 km (direct/down-the-line)
 - **Neolithic**: 1,000+ km (Anatolia → Levant, Balkans, Cyprus)
 - **Method**: Geochemical fingerprinting (XRF, NAA, LA-ICP-MS)
 - **Significance**: Best cutting edges; first "global" commodity
 
 #### Flint/Chert
-- **Sources**: Local (100s km) to regional (Grand Pressigny France → Europe; Rijckholt Netherlands → NW Europe)
+- **Sources**: Local (100s km) to regional (Grand Pressigny France → Europe; Rijckholt Netherlands → NW Europe) [3]
 - **Neolithic**: Specialized mining (Spiennes, Grimes Graves, Krzemionki)
 - **Trade**: Finished blades, rough-outs, cores
 
 #### Amphibolite/Greenstone (Axes)
-- **Sources**: Alps (jadeitite), Cornwall (gabbro), Great Langdale (tuff), Poland (świeciechów flint)
+- **Sources**: Alps (jadeitite), Cornwall (gabbro), Great Langdale (tuff), Poland (świeciechów flint) [4]
 - **Neolithic**: Polished axes traded 500-1,000+ km
 - **Social**: Prestige, ceremonial, not just utilitarian
 
 ### Shell & Organic Materials
 
 #### Marine Shells
-- **Species**: Spondylus (spiny oyster), Glycymeris, Conus, Dentalium, Nassarius
+- **Species**: Spondylus (spiny oyster), Glycymeris, Conus, Dentalium, Nassarius [5]
 - **Paleolithic**: Mediterranean → Central Europe (500+ km, Gravettian)
 - **Neolithic**: Spondylus from Aegean → Central Europe (LBK, 1,000+ km)
 - **Andes**: Spondylus from Ecuador → Peru, Bolivia, Chile (Inca precursors)
@@ -61,12 +62,12 @@ Trade in prehistory operated through multiple mechanisms simultaneously: direct 
 
 #### Amber
 - **Source**: Baltic coast (Eocene deposits)
-- **Routes**: "Amber Roads" → Mediterranean, Egypt, Near East, Britain
+- **Routes**: "Amber Roads" → Mediterranean, Egypt, Near East, Britain [6]
 - **Bronze Age**: Major commodity; Mycenaean, Egyptian, Baltic elite graves
 - **Significance**: Solar symbolism, electrostatic properties
 
 #### Ivory, Jet, Coral, Pearls
-- **Ivory**: Elephant (Africa, India), mammoth (Siberia), hippo, walrus
+- **Ivory**: Elephant (Africa, India), mammoth (Siberia), hippo, walrus [7]
 - **Jet**: Whitby (Yorkshire) → Britain, Europe (Neolithic/BA)
 - **Coral**: Mediterranean → Alps, Central Europe (Neolithic)
 - **Pearls**: Persian Gulf, Red Sea → Near East, India
@@ -74,7 +75,7 @@ Trade in prehistory operated through multiple mechanisms simultaneously: direct 
 ### Metal Age Networks (Chalcolithic/Bronze Age)
 
 #### Copper
-- **Sources**: Balkans (Rudna Glava, Ai Bunar), Anatolia, Cyprus, Oman, Iran, Caucasus, Great Lakes (native copper), Andes
+- **Sources**: Balkans (Rudna Glava, Ai Bunar), Anatolia, Cyprus, Oman, Iran, Caucasus, Great Lakes (native copper), Andes [8]
 - **Early**: Native copper (cold-hammered) → smelted (Chalcolithic)
 - **Trade**: Ingots (oxhide), tools, weapons, prestige items
 
@@ -163,6 +164,7 @@ Trade in prehistory operated through multiple mechanisms simultaneously: direct 
 - [[Lithic_Technologies/Stone-Tools]] - Stone material trade
 - [[CLOTHING/Textile_Production]] - Textile trade
 - [[HOUSING/Settlement_Architecture]] - Trade centers
+
 
 ## Sources
 

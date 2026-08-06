@@ -19,9 +19,10 @@ layout: null
 permalink: /wiki/HOUSING/American_Prehistoric_Housing.html
 ---
 
+
 # American Prehistoric Housing
 
-American housing traditions developed independently from Old World models, producing distinctive forms: pit houses and pueblos in the Southwest, earth lodges on the Plains, longhouses in the Northeast, platform mounds in the Southeast, and stone cities in Mesoamerica and the Andes.
+American housing traditions developed independently from Old World models, producing distinctive forms: pit houses and pueblos in the Southwest, earth lodges on the Plains, longhouses in the Northeast, platform mounds in the Southeast, and stone cities in Mesoamerica and the Andes. [1]
 
 ## Overview
 
@@ -39,17 +40,17 @@ American architecture evolved entirely independently, with no domesticates for t
 | **Ballcourt** | Hohokam (700–1450 CE) | Mesoamerican influence |
 
 ### Plains (Earth Lodges)
-- **Mandan/Hidatsa/Arikara**: Circular, 4-post, earth-covered, cache pits
+- **Mandan/Hidatsa/Arikara**: Circular, 4-post, earth-covered, cache pits [2]
 - **Pawnee/Wichita**: Similar, larger, communal
 - **Construction**: 4 central posts, radiating beams, willow, grass, earth
 
 ### Northeast (Longhouses)
-- **Iroquois/Huron**: 20-60 m, bark-covered, matrilineal households
+- **Iroquois/Huron**: 20-60 m, bark-covered, matrilineal households [3]
 - **Construction**: Elm bark sheets, sapling frame, central fire pits
 - **Villages**: Palisaded, 20-150 longhouses
 
 ### Southeast (Mississippian)
-- **Platform mounds**: Earthen pyramids, summit structures
+- **Platform mounds**: Earthen pyramids, summit structures [4]
 - **Wattle-daub houses**: On mounds and plazas
 - **Cahokia**: Monk's Mound (30 m), 120+ mounds
 
@@ -99,6 +100,7 @@ American architecture evolved entirely independently, with no domesticates for t
 - [[HOUSING/Earth_Construction]] - Adobe, rammed earth
 - [[HOUSING/Post_and_Lintel_Construction]] - Timber framing
 - [[SOCIAL_ORGANIZATION/Early_State]] - Mesoamerican/Andean states
+
 
 ## Sources
 1. Morgan, W. (1999). *Prehistoric Architecture in the Eastern US*. Florida UP.

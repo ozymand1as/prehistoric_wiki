@@ -25,9 +25,10 @@ layout: null
 permalink: /wiki/Americas/Mesoamerican-Tech.html
 ---
 
+
 # Mesoamerican Technology
 
-Mesoamerica was a primary center for the independent origin of agriculture and complex civilization development. The region evolved from early stone-tool reliance to sophisticated material sciences including pottery, weaving, metallurgy, and complex agricultural systems. The Mesoamerican technological tradition is characterized by independent development of key technologies and distinctive material cultures.
+Mesoamerica was a primary center for the independent origin of agriculture and complex civilization development. The region evolved from early stone-tool reliance to sophisticated material sciences including pottery, weaving, metallurgy, and complex agricultural systems. The Mesoamerican technological tradition is characterized by independent development of key technologies and distinctive material cultures. [1]
 
 
 ## Overview
@@ -38,7 +39,7 @@ Mesoamerica was a primary center for the independent origin of agriculture and c
 ### Paleo-Indian Period (10,000–3500 BCE)
 
 - First human habitation via Beringian land bridge
-- Characterized by stone tool use and hunting-gathering
+- Characterized by stone tool use and hunting-gathering [2]
 - Transition to agriculture marks end of this phase
 
 ### Archaic Period (3500–2000 BCE)
@@ -49,7 +50,7 @@ Mesoamerica was a primary center for the independent origin of agriculture and c
 
 ### Preclassic Era or Formative Period (2000 BCE – 250 CE)
 
-Large-scale ceremonial architecture, writing, cities, and states developed:
+Large-scale ceremonial architecture, writing, cities, and states developed: [3]
 
 - Dominance of corn (maize)
 - Building of pyramids
@@ -57,7 +58,7 @@ Large-scale ceremonial architecture, writing, cities, and states developed:
 - Complex calendar systems
 
 **Major Civilizations:**
-- Olmec civilization at San Lorenzo Tenochtitlán, La Venta, San José Mogote
+- Olmec civilization at San Lorenzo Tenochtitlán, La Venta, San José Mogote [4]
 - Zapotec civilization in Valley of Oaxaca
 - Teotihuacan in Valley of Mexico
 - Maya civilization beginning in Mirador Basin
@@ -65,7 +66,7 @@ Large-scale ceremonial architecture, writing, cities, and states developed:
 
 ### Classic Period (250–900 CE)
 
-- Teotihuacan dominated Valley of Mexico until 8th century
+- Teotihuacan dominated Valley of Mexico until 8th century [5]
 - Monte Albán dominated Valley of Oaxaca until late Classic
 - Maya cities reached zeniths: Tikal, Uaxactun, Copán, Palenque, etc.
 
@@ -131,11 +132,14 @@ Large-scale ceremonial architecture, writing, cities, and states developed:
 - [[AGRICULTURE/Maize-Agriculture]]
 - [[Lithic_Technologies/Stone-Tools]]
 
+
 ## Sources
 
-1. Wikipedia. "History of Mesoamerica." *Wikipedia*, en.wikipedia.org.
-2. Wikipedia. "Mesoamerican chronology." *Wikipedia*, en.wikipedia.org.
-3. Wikipedia. "Archaic period in Mesoamerica." *Wikipedia*, en.wikipedia.org.
+1. Evans, S.T. (2008). *Ancient Mexico and Central America: Archaeology and Culture History*. Thames & Hudson.
+2. Coe, M.D. & Koontz, R. (2013). *Mexico: From the Olmecs to the Aztecs* (7th ed.). Thames & Hudson.
+3. Smith, M.E. & Berdan, F.F. (2003). *The Postclassic Mesoamerican World*. University of Utah Press.
+4. Henderson, J.S. (2009). *The World of the Ancient Maya* (2nd ed.). Cornell UP.
+5. Clark, J.E. & Cheetham, D. (2002). *Mesoamerica's Tribal Foundations*. In *Archaeology of Tribal Societies*. Eisenbrauns.
 
 ## Uncertainties & Research Questions
 

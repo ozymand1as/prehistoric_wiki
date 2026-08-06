@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Wattle_and_Daub.html
 ---
 
+
 # Wattle and Daub
 
-Wattle and daub is a composite building technique using woven wooden lattice (wattle) plastered with a sticky mixture of clay, sand, straw, and dung (daub). It is one of the most widespread and enduring wall construction methods in human history.
+Wattle and daub is a composite building technique using woven wooden lattice (wattle) plastered with a sticky mixture of clay, sand, straw, and dung (daub). It is one of the most widespread and enduring wall construction methods in human history. [1]
 
 ## Overview
 
@@ -22,7 +23,7 @@ Wattle and daub combines the tensile strength of woven wood with the compressive
 ## Construction
 
 ### Wattle (Lattice)
-- **Uprights (staves)**: Hazel, willow, oak, ash - driven into ground or fitted into frame
+- **Uprights (staves)**: Hazel, willow, oak, ash - driven into ground or fitted into frame [2]
 - **Withies (weavers)**: Flexible rods (hazel, willow) woven horizontally
 - **Spacing**: 15-30 cm between uprights
 - **Tension**: Withies pulled tight, self-locking
@@ -37,7 +38,7 @@ Wattle and daub combines the tensile strength of woven wood with the compressive
 | **Water** | As needed | Workability |
 
 ### Application
-1. **First coat (pricking up)**: Thrown onto wattle, keyed into lattice
+1. **First coat (pricking up)**: Thrown onto wattle, keyed into lattice [3]
 2. **Second coat (floating)**: Smoothed, leveled
 3. **Finish coat**: Fine clay slip, sometimes limewash
 4. **Thickness**: 5-15 cm typical
@@ -85,6 +86,7 @@ Wattle and daub combines the tensile strength of woven wood with the compressive
 - [[HOUSING/Bronze_Age_Roundhouses]] - Iron Age walls
 - [[HOUSING/Post_and_Lintel_Construction]] - Frame integration
 - [[CLOTHING/Animal_Skins_and_Hides]] - Dung source
+
 
 ## Sources
 1. Reynolds, P.J. (1979). *Iron Age Farm: The Butser Experiment*. British Museum.

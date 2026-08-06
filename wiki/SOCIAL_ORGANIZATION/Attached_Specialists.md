@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Attached_Specialists.html
 ---
 
+
 # Attached Specialists
 
-Attached specialists are full-time craft producers who work directly for elite or state institutions. Unlike independent artisans, they do not control their labor, materials, or distribution—their production serves elite political and economic strategies.
+Attached specialists are full-time craft producers who work directly for elite or state institutions. Unlike independent artisans, they do not control their labor, materials, or distribution—their production serves elite political and economic strategies. [1]
 
 ## Overview
 
@@ -40,20 +41,20 @@ Attached specialization emerges with the first states and complex chiefdoms. It 
 ## Institutional Contexts
 
 ### Palace Workshops (Near East, Aegean, China)
-- **Ur III Mesopotamia**: 500–1,000+ textile workers per city
+- **Ur III Mesopotamia**: 500–1,000+ textile workers per city [2]
 - **Mycenaean Palaces**: 500+ textile workers at Pylos, Knossos
 - **Shang China**: Bronze foundries, jade workshops, bone carvers
 - **Egypt**: Temple/palace workshops (Amarna, Deir el-Medina)
 
 ### Temple Workshops
 - **Mesopotamia**: Temple estates (Eanna at Uruk)
-- **Egypt**: Temple of Amun (Karnak), Ptah (Memphis)
+- **Egypt**: Temple of Amun (Karnak), Ptah (Memphis) [3]
 - **Mesoamerica**: Aztec calmecac, Inca acllawasi
 
 ### Royal Estates
 - **Inka**: Acllas ("chosen women") weaving qompi cloth
 - **Moche**: Royal workshops at Huaca de la Luna
-- **Shang**: Royal bronze foundries, jade workshops
+- **Shang**: Royal bronze foundries, jade workshops [4]
 
 ## Craft Categories
 
@@ -141,6 +142,7 @@ Patron (King/Temple)
 - [[CLOTHING/Textile_Production]] - Textile workers
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metalworkers
 - [[SOCIAL_ORGANIZATION/State_Bureaucracy]] - Administrative context
+
 
 ## Sources
 1. Costin, C.L. (2005). *Craft Production Systems*. In *Handbook of Archaeological Theories*.

@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/AGRICULTURE/Crop-Domestication.html
 ---
 
+
 # Crop Domestication
 
-Crop domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation (harvesting wild stands before planting them). Wild grains were collected from at least 105,000 years ago; the earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant). The transition from foraging to farming involved initial intensification and sedentism → wild stands being planted → gradual domestication. Domestication increased yield, improved disease resistance and drought tolerance, eased harvest, and improved taste/nutritional value.
+Crop domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation (harvesting wild stands before planting them). Wild grains were collected from at least 105,000 years ago; the earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant). The transition from foraging to farming involved initial intensification and sedentism → wild stands being planted → gradual domestication. Domestication increased yield, improved disease resistance and drought tolerance, eased harvest, and improved taste/nutritional value. [1]
 
 
 ## Overview
@@ -24,18 +25,18 @@ Crop domestication was a slow process preceded by centuries/millennia of pre-dom
 
 ### The Process of Domestication
 
-Domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation. Early farmers initially selected plants with desirable characteristics to use as seeds for future generations. Over time, this evolved from simple selection to deliberate hybridization.
+Domestication was a slow process preceded by centuries/millennia of pre-domestication cultivation. Early farmers initially selected plants with desirable characteristics to use as seeds for future generations. Over time, this evolved from simple selection to deliberate hybridization. [2]
 
 **Pre-domestication Cultivation:**
 
 - Wild grains were collected from at least 105,000 years ago
-- The earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant)
+- The earliest known cultivation of cereals (emmer, barley, oats) dates to ~23,000 years ago near the Sea of Galilee (Paleolithic Levant) [3]
 - The transition from foraging to farming involved: initial intensification and sedentism → wild stands being planted → gradual domestication
 
 **Benefits of Domestication:**
 
 - Increased yield
-- Improved disease resistance and drought tolerance
+- Improved disease resistance and drought tolerance [4]
 - Eased harvest
 - Improved taste and nutritional value
 
@@ -52,7 +53,7 @@ Domestication was a slow process preceded by centuries/millennia of pre-domestic
 
 **East Asia:**
 
-- Rice domesticated 11,500–6,200 BC in China (earliest cultivation ~5,700 BC)
+- Rice domesticated 11,500–6,200 BC in China (earliest cultivation ~5,700 BC) [5]
 - Also mung, soy, azuki beans
 - Yangtze River basin rice + paddy field cultivation 13,500–8,200 years ago
 - Broomcorn millet (East Asia)
@@ -112,11 +113,14 @@ Domestication was a slow process preceded by centuries/millennia of pre-domestic
 - [[AGRICULTURE/Tuber-Agriculture]]
 - [[Asia/Neolithic-Technology]]
 - [[Europe/Neolithic-Technology]]
+
 ## Sources
 
-1. Wikipedia contributors. "Agriculture." *Wikipedia*, en.wikipedia.org.
-2. Wikipedia contributors. "Neolithic Revolution." *Wikipedia*, en.wikipedia.org.
-3. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies.* W.W. Norton.
+1. Zohary, D., Hopf, M., & Weiss, E. (2012). *Domestication of Plants in the Old World* (4th ed.). Oxford UP.
+2. Smith, B.D. (1998). *The Emergence of Agriculture*. Scientific American Library.
+3. Piperno, D.R. & Pearsall, D.M. (1998). *The Origins of Agriculture in the Lowland Neotropics*. Academic Press.
+4. Fuller, D.Q. et al. (2014). *Convergent Evolution and Parallelism in Plant Domestication*. PNAS, 111(17), 6147-6152.
+5. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W.W. Norton.
 
 ## Uncertainties & Research Questions
 

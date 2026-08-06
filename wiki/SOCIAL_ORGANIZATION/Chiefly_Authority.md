@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Chiefly_Authority.html
 ---
 
+
 # Chiefly Authority
 
-Chiefly authority is the legitimate, institutionalized power of a chief in a ranked society. Unlike big men, chiefs hold hereditary office, command tribute, and exercise coercive power backed by ideology and ritual.
+Chiefly authority is the legitimate, institutionalized power of a chief in a ranked society. Unlike big men, chiefs hold hereditary office, command tribute, and exercise coercive power backed by ideology and ritual. [1]
 
 ## Overview
 
@@ -23,7 +24,7 @@ Chiefly authority marks the transition from achieved to ascribed leadership. It 
 
 ### Economic
 - **Tribute collection**: Staple/wealth finance
-- **Redistribution**: Feasts, rations, public works
+- **Redistribution**: Feasts, rations, public works [2]
 - **Trade control**: Monopoly on exotic goods
 - **Land allocation**: Authority over territory
 
@@ -94,10 +95,11 @@ Chiefly authority marks the transition from achieved to ascribed leadership. It 
 | **Fortifications** | Coercive capacity |
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom structure
+- [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom structure [3]
 - [[SOCIAL_ORGANIZATION/Redistribution_and_Tribute]] - Economic base
 - [[SOCIAL_ORGANIZATION/State_Religion]] - Ritual basis
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Coercive capacity
+
 
 ## Sources
 1. Earle, T.K. (1997). *How Chiefs Come to Power*. Stanford UP.

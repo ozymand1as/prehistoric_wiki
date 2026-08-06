@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Independent_Craftspeople.html
 ---
 
+
 # Independent Craftspeople
 
-Independent craftspeople are artisans who produce goods for market or exchange on their own account, controlling their labor, materials, schedule, and distribution. They represent the earliest and most persistent form of craft specialization.
+Independent craftspeople are artisans who produce goods for market or exchange on their own account, controlling their labor, materials, schedule, and distribution. They represent the earliest and most persistent form of craft specialization. [1]
 
 ## Overview
 
@@ -34,14 +35,14 @@ Independent production is the oldest form of specialization, emerging in the Neo
 
 ### Neolithic (6,000–3,000 BCE)
 - **Context**: Village households
-- **Crafts**: Pottery, flintknapping, weaving, beadmaking
+- **Crafts**: Pottery, flintknapping, weaving, beadmaking [2]
 - **Exchange**: Local, reciprocal, periodic markets
 - **Evidence**: Household workshops, diverse toolkits
 
 ### Chalcolithic/Bronze Age (4,500–1,200 BCE)
 - **Coexistence**: With attached specialists
 - **Niche**: Utilitarian goods, local markets
-- **Competition**: Attached specialists dominate prestige goods
+- **Competition**: Attached specialists dominate prestige goods [3]
 - **Evidence**: Village workshops, diverse toolkits, local distribution
 
 ### Iron Age/Classical (1,200 BCE–500 CE)
@@ -121,6 +122,7 @@ Independent production is the oldest form of specialization, emerging in the Neo
 - [[SOCIAL_ORGANIZATION/Attached_Specialists]] - Contrast
 - [[SOCIAL_ORGANIZATION/Apprenticeship_and_Knowledge_Transmission]] - Training
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Market integration
+
 
 ## Sources
 1. Costin, C.L. (1991). *Craft Specialization*. Archaeological Method and Theory.

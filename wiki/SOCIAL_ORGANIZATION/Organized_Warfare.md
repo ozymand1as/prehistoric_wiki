@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Organized_Warfare.html
 ---
 
+
 # Organized Warfare
 
-Organized warfare is the institutionalized, large-scale use of violence by political communities. It emerges with social complexity, requiring logistics, hierarchy, and technology beyond the raid or feud of tribal societies.
+Organized warfare is the institutionalized, large-scale use of violence by political communities. It emerges with social complexity, requiring logistics, hierarchy, and technology beyond the raid or feud of tribal societies. [1]
 
 ## Overview
 
@@ -43,7 +44,7 @@ Warfare evolves from interpersonal violence → feud → raid → organized warf
 - **Actors**: Professional standing armies
 - **Motive**: Expansion, control, resources
 - **Scale**: Tens of thousands
-- **Logistics**: Depots, roads, fleets, bureaucracy
+- **Logistics**: Depots, roads, fleets, bureaucracy [2]
 
 ## Military Organization
 
@@ -121,11 +122,12 @@ Warfare evolves from interpersonal violence → feud → raid → organized warf
 | **Settlement shift** | Defensive siting |
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom warfare
+- [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom warfare [3]
 - [[SOCIAL_ORGANIZATION/Early_State]] - State warfare
 - [[SOCIAL_ORGANIZATION/Fortified_Settlements]] - Defense
 - [[SOCIAL_ORGANIZATION/Weapons_as_Status]] - Warrior identity
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze weapons
+
 
 ## Sources
 1. Keeley, L.H. (1996). *War Before Civilization*. Oxford UP.

@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/State_Bureaucracy.html
 ---
 
+
 # State Bureaucracy
 
-State bureaucracy is the professional administrative apparatus that manages the resources, population, and territory of early states. It replaces kin-based governance with impersonal, rule-based administration.
+State bureaucracy is the professional administrative apparatus that manages the resources, population, and territory of early states. It replaces kin-based governance with impersonal, rule-based administration. [1]
 
 ## Overview
 
@@ -35,12 +36,12 @@ Bureaucracy emerges when state scale exceeds the capacity of personal rule. It s
 | **Local** | Rabiānu (mayors) | Village heads | County magistrates | Kuraka |
 
 ### Specialized Departments
-- **Treasury/Taxation**: Grain, livestock, labor, wealth
+- **Treasury/Taxation**: Grain, livestock, labor, wealth [2]
 - **Judiciary**: Courts, judges, law codes
 - **Military**: Standing army, logistics, conscription
 - **Public Works**: Irrigation, roads, temples, walls
 - **Granaries/Storage**: Collection, redistribution, relief
-- **Census/Cadastre**: Population, land, livestock registers
+- **Census/Cadastre**: Population, land, livestock registers [3]
 - **Diplomacy**: Envoys, treaties, hostages
 - **Ritual/Calendar**: State religion, astronomy
 
@@ -56,7 +57,7 @@ Bureaucracy emerges when state scale exceeds the capacity of personal rule. It s
 | **Seals/Sealings** | Near East, Indus, Aegean | Authorization, ownership |
 
 ### Standardization
-- **Weights & measures**: Royal standards (shekel, deben, qian)
+- **Weights & measures**: Royal standards (shekel, deben, qian) [4]
 - **Legal codes**: Hammurabi, Tang, Twelve Tables
 - **Calendars**: Agricultural, ritual, administrative
 - **Currency**: Silver, copper, cowries, cloth units
@@ -111,6 +112,7 @@ Bureaucracy emerges when state scale exceeds the capacity of personal rule. It s
 - [[SOCIAL_ORGANIZATION/Taxation]] - Revenue
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Military admin
 - [[CLOTHING/Textile_Production]] - Palace textile workers
+
 
 ## Sources
 1. Weber, M. (1922/1978). *Economy and Society*. UC Press.

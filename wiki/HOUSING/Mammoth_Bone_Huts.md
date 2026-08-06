@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Mammoth_Bone_Huts.html
 ---
 
+
 # Mammoth Bone Huts
 
-Mammoth bone huts are circular or oval dwellings constructed from the bones and tusks of woolly mammoths. Found primarily on the Eastern European Plain, they represent a remarkable adaptation to the treeless mammoth steppe environment where wood was scarce but mammoth remains were abundant.
+Mammoth bone huts are circular or oval dwellings constructed from the bones and tusks of woolly mammoths. Found primarily on the Eastern European Plain, they represent a remarkable adaptation to the treeless mammoth steppe environment where wood was scarce but mammoth remains were abundant. [1]
 
 ## Overview
 
@@ -36,7 +37,7 @@ These structures appear during the Last Glacial Maximum (~26,000-19,000 BCE) whe
 | **Vertebrae/Ribs** | Fill, insulation | Many |
 
 ### Building Sequence (Inferred)
-1. **Foundation**: Circular trench or cleared area, skulls/mandibles as base ring
+1. **Foundation**: Circular trench or cleared area, skulls/mandibles as base ring [2]
 2. **Wall uprights**: Mandibles driven into ground, tusks as corner posts
 3. **Wall infill**: Scapulae, pelvises, ribs stacked between uprights
 4. **Roof frame**: Tusks and long bones as rafters to central point or ridge
@@ -64,7 +65,7 @@ These structures appear during the Last Glacial Maximum (~26,000-19,000 BCE) whe
 
 ## Mezhirich (Type Site)
 - **4 huts** arranged in rough line
-- **Hut 1**: 6 m diameter, 112 mammoths represented (min. 15 individuals)
+- **Hut 1**: 6 m diameter, 112 mammoths represented (min. 15 individuals) [3]
 - **Bone patterning**: Mandibles in herringbone, tusks radial
 - **Internal features**: 5 hearths in Hut 1 (sequential), storage pits
 - **Artifacts**: 20,000+ flint, bone tools, ivory ornaments, "venus" figurines
@@ -73,13 +74,13 @@ These structures appear during the Last Glacial Maximum (~26,000-19,000 BCE) whe
 ## Social Implications
 
 ### Labor Organization
-- **Bone transport**: Moving 10+ ton of bone = group effort
+- **Bone transport**: Moving 10+ ton of bone = group effort [4]
 - **Construction**: Coordinated building (days to weeks)
 - **Hunting**: Communal mammoth drives or scavenging
 - **Seasonality**: Winter occupation, summer dispersal?
 
 ### Symbolic Dimensions
-- **Geometric arrangements**: Non-functional bone patterns
+- **Geometric arrangements**: Non-functional bone patterns [5]
 - **Ochre staining**: Bones colored red
 - **Art objects**: Figurines, engraved bones in huts
 - **Ritual**: Possible ceremonial aspect to construction
@@ -87,7 +88,7 @@ These structures appear during the Last Glacial Maximum (~26,000-19,000 BCE) whe
 ## Experimental Reconstructions
 - **Mehrin (Ukraine)**: Full-scale replica at site
 - **Archeon (Netherlands)**: Experimental hut
-- **Butser Ancient Farm (UK)**: Mammoth bone structure
+- **Butser Ancient Farm (UK)**: Mammoth bone structure [6]
 - **Findings**: Internal temp 15-20°C above external; smoke management critical; bone grease preserves bone; hides essential for weatherproofing
 
 ## Environment & Adaptation
@@ -116,6 +117,7 @@ These structures appear during the Last Glacial Maximum (~26,000-19,000 BCE) whe
 - [[CLOTHING/Animal_Skins_and_Hides]] - Hide coverings for huts
 - [[SOCIAL_ORGANIZATION/Band_Society]] - Social unit in huts
 - [[CLOTHING/Paleolithic_Clothing]] - Clothing for same environment
+
 
 ## Sources
 

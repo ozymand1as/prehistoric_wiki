@@ -100,3 +100,10 @@ Shelter is a fundamental human technology. From simple windbreaks to complex mul
 
 ## Tags
 `housing`, `shelter`, `architecture`, `construction`, `period/paleolithic`, `period/mesolithic`, `period/neolithic`, `period/bronze-age`, `material/wood`, `material/stone`, `material/earth`, `technique/carpentry`, `technique/masonry`, `evidence/archaeological`
+
+## Sources
+
+1. Harding, D.W. (2009). *The Iron Age Round-House*. Oxford University Press.
+2. Reynolds, P.J. (1979). *Iron Age Farm: The Butser Experiment*. British Museum.
+3. Steadman, S.R. (2004). *Archaeology of Religion*. In *The Archaeology of Houses*. AltaMira.
+4. Sayers, S. (2015). *Experimental Archaeology and the Reconstruction of Prehistoric Houses*. In *Household Archaeology*.

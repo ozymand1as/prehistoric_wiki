@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Corbelling.html
 ---
 
+
 # Corbelling
 
-Corbelling is a construction technique where each successive course of masonry projects inward beyond the course below, creating a self-supporting arch, vault, or dome without centering. It is one of the oldest methods for spanning spaces in stone.
+Corbelling is a construction technique where each successive course of masonry projects inward beyond the course below, creating a self-supporting arch, vault, or dome without centering. It is one of the oldest methods for spanning spaces in stone. [1]
 
 ## Overview
 
@@ -26,13 +27,13 @@ Corbelling appears independently in multiple regions where stone is abundant and
 ## Principle
 
 ### Geometry
-- **Projection**: Each course extends inward beyond the one below
+- **Projection**: Each course extends inward beyond the one below [2]
 - **Angle**: Typically 5-15° from vertical
 - **Stability**: Center of gravity must remain within base
 - **Keystone**: Final slab closes the opening
 
 ### Forces
-- **Compression only**: Stone strong in compression
+- **Compression only**: Stone strong in compression [3]
 - **No tension**: Unlike true arches
 - **Thrust**: Outward at base, requires buttressing
 
@@ -103,6 +104,7 @@ Corbelling appears independently in multiple regions where stone is abundant and
 - [[HOUSING/Nuragic_Architecture]] - Nuragic towers
 - [[HOUSING/Stone_and_Masonry]] - Stone construction
 - [[SOCIAL_ORGANIZATION/Monumental_Architecture]] - Labor mobilization
+
 
 ## Sources
 1. Cavanagh, W. & Mee, C. (1998). *Private Death, Public Ritual*. Oxbow.

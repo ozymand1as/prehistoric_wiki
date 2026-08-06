@@ -13,9 +13,10 @@ layout: null
 permalink: /wiki/CLOTHING/Spinning.html
 ---
 
+
 # Spinning
 
-Spinning is the process of drawing out and twisting fibers into continuous thread or yarn. It is the essential precursor to weaving, transforming loose fibers into a strong, continuous strand suitable for textile production.
+Spinning is the process of drawing out and twisting fibers into continuous thread or yarn. It is the essential precursor to weaving, transforming loose fibers into a strong, continuous strand suitable for textile production. [1]
 
 ## Overview
 
@@ -25,12 +26,12 @@ The invention of spinning transformed fiber processing from simple twisting by h
 
 ### Hand Spinning (Earliest)
 - **Thigh spinning**: Rolling fibers on thigh
-- **Hand spindle**: Drop spindle, supported spindle
+- **Hand spindle**: Drop spindle, supported spindle [2]
 - **Period**: Neolithic (~7,000 BCE) to present
 
 ### Drop Spindle (Most Common Ancient)
 - **Components**: Shaft (wood/bone), whorl (clay/stone/wood)
-- **Mechanism**: Gravity provides twist, spindle drops
+- **Mechanism**: Gravity provides twist, spindle drops [3]
 - **Varieties**: Top whorl, bottom whorl, center whorl
 - **Speed**: Slow but portable
 
@@ -40,7 +41,7 @@ The invention of spinning transformed fiber processing from simple twisting by h
 - **Regions**: Central Asia, Middle East, Russia
 
 ### Spinning Wheel (Medieval+)
-- **Great wheel** (walking wheel): Horizontal drive, one hand drafts
+- **Great wheel** (walking wheel): Horizontal drive, one hand drafts [4]
 - **Saxony wheel** (flyer wheel): Vertical, treadle, continuous
 - **Charkha** (India): Horizontal, hand-cranked, cotton
 - **Period**: China (Song), Europe (13th c.), India (medieval)
@@ -133,6 +134,7 @@ The invention of spinning transformed fiber processing from simple twisting by h
 - [[CLOTHING/Wool_and_Animal_Fibers]] - Fiber sources
 - [[CLOTHING/Flax_Cultivation]] - Linen production
 - [[Lithic_Technologies/Neolithic_Pottery]] - Clay whorls
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

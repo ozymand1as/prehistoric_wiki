@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/HOUSING/Near_Eastern_Architecture.html
 ---
 
+
 # Near Eastern Architecture
 
-Near Eastern architecture spans from the world's earliest mudbrick villages to the monumental palaces and ziggurats of the Bronze Age. The region pioneered rectilinear planning, mudbrick construction, and urban planning.
+Near Eastern architecture spans from the world's earliest mudbrick villages to the monumental palaces and ziggurats of the Bronze Age. The region pioneered rectilinear planning, mudbrick construction, and urban planning. [1]
 
 ## Overview
 
@@ -28,12 +29,12 @@ The Near East saw the earliest transition to sedentary life and the invention of
 ## Neolithic (9,500–4,500 BCE)
 
 ### PPNA (9,500–8,500 BCE)
-- **Jericho**: Round semi-subterranean houses, stone tower, perimeter wall
+- **Jericho**: Round semi-subterranean houses, stone tower, perimeter wall [2]
 - **Göbekli Tepe**: Monumental stone circles (pre-domestication)
 - **Architecture**: Communal before domestic
 
 ### PPNB (8,500–6,000 BCE)
-- **Rectangular houses**: Mudbrick, lime plaster floors
+- **Rectangular houses**: Mudbrick, lime plaster floors [3]
 - **Ain Ghazal**: Multi-room, plastered skulls under floors
 - **Çatalhöyük** (7,100 BCE): Dense, roof-access, wall art
 
@@ -46,7 +47,7 @@ The Near East saw the earliest transition to sedentary life and the invention of
 
 ### Uruk Period (4,000–3,100 BCE)
 - **Urbanization**: First cities (Uruk >50 ha)
-- **Temples**: Platform, tripartite, buttressed facades
+- **Temples**: Platform, tripartite, buttressed facades [4]
 - **Administration**: Cylinder seals, tablets, sealings
 - **Materials**: Mudbrick, bitumen waterproofing
 
@@ -102,6 +103,7 @@ The Near East saw the earliest transition to sedentary life and the invention of
 - [[HOUSING/Wattle_and_Daub]] - Partitions
 - [[SOCIAL_ORGANIZATION/Early_State]] - Urban context
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools
+
 
 ## Sources
 1. Frankfort, H. (1996). *The Art and Architecture of the Ancient Orient*. Yale UP.

@@ -18,3 +18,10 @@ Pacific island technologies.
 ## Pages
 
 - [Polynesian Navigation](Polynesian-Navigation.html)
+
+## Sources
+
+1. Kirch, P.V. (2017). *On the Road of the Winds*. UC Press.
+2. Green, R.C. (2003). *The Lapita Peoples*. Blackwell.
+3. Kirch, P.V. & Green, R.C. (2001). *Hawaiki, Ancestral Polynesia*. Cambridge UP.
+4. Irwin, G. (1992). *The Prehistoric Exploration and Colonisation of the Pacific*. Cambridge UP.

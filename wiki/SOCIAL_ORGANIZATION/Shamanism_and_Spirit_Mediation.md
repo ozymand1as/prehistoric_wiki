@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Shamanism_and_Spirit_Mediation.html
 ---
 
+
 # Shamanism and Spirit Mediation
 
-Shamanism is a religious practice involving a practitioner (shaman) who enters altered states of consciousness to interact with the spirit world for healing, divination, and community welfare. It is the most widespread and ancient form of religious specialization.
+Shamanism is a religious practice involving a practitioner (shaman) who enters altered states of consciousness to interact with the spirit world for healing, divination, and community welfare. It is the most widespread and ancient form of religious specialization. [1]
 
 ## Overview
 
@@ -22,13 +23,13 @@ Shamanism is not a unified religion but a set of techniques for accessing non-or
 ## Core Features
 
 ### The Shaman
-- **Call**: Illness, dream, inheritance, spirit encounter
+- **Call**: Illness, dream, inheritance, spirit encounter [2]
 - **Training**: Apprenticeship, isolation, ordeal
 - **Tools**: Drum, rattle, costume, mirrors, plants
 - **Role**: Healer, diviner, psychopomp, mediator
 
 ### Altered States of Consciousness
-- **Techniques**: Drumming, dancing, fasting, plant allies, sensory deprivation
+- **Techniques**: Drumming, dancing, fasting, plant allies, sensory deprivation [3]
 - **Journey**: Soul flight to upper/middle/lower worlds
 - **Spirits**: Allies, guardians, ancestors, animal powers
 - **Return**: Integration, interpretation, action
@@ -46,7 +47,7 @@ Shamanism is not a unified religion but a set of techniques for accessing non-or
 ## Cosmology
 
 ### Three Worlds
-- **Upper World**: Celestial, creator gods, ancestors
+- **Upper World**: Celestial, creator gods, ancestors [4]
 - **Middle World**: Ordinary reality, nature spirits
 - **Lower World**: Underworld, dead, animal masters
 
@@ -102,6 +103,7 @@ Shamanism is not a unified religion but a set of techniques for accessing non-or
 - [[SOCIAL_ORGANIZATION/Communal_Ritual_and_Monuments]] - Ritual context
 - [[SOCIAL_ORGANIZATION/State_Religion]] - Institutionalized shamanism
 - [[CLOTHING/Oceanic_Bark_Cloth]] - Ritual bark cloth
+
 
 ## Sources
 1. Eliade, M. (1951/1964). *Shamanism: Archaic Techniques of Ecstasy*. Princeton UP.

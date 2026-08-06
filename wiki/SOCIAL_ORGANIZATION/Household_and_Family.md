@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Household_and_Family.html
 ---
 
+
 # Household and Family
 
-The household is the fundamental residential, economic, and reproductive unit in human societies. Its form varies widely but universally serves as the nexus of production, consumption, reproduction, and socialization.
+The household is the fundamental residential, economic, and reproductive unit in human societies. Its form varies widely but universally serves as the nexus of production, consumption, reproduction, and socialization. [1]
 
 ## Overview
 
@@ -23,12 +24,12 @@ The household is not synonymous with family. It is a co-residential group sharin
 
 ### Nuclear Family
 - **Composition**: Parents + dependent children
-- **Prevalence**: Industrial societies, some foragers
+- **Prevalence**: Industrial societies, some foragers [2]
 - **Economy**: Independent production/consumption
 - **Residence**: Neolocal (new household at marriage)
 
 ### Extended Family
-- **Composition**: Nuclear + grandparents, aunts/uncles, cousins
+- **Composition**: Nuclear + grandparents, aunts/uncles, cousins [3]
 - **Prevalence**: Agricultural, pastoral societies
 - **Economy**: Corporate labor, shared resources
 - **Residence**: Patrilocal, matrilocal, or avunculocal
@@ -104,6 +105,7 @@ The household is not synonymous with family. It is a co-residential group sharin
 - [[SOCIAL_ORGANIZATION/Marriage_and_Alliance]] - Household formation
 - [[SOCIAL_ORGANIZATION/Labor_Organization]] - Household labor
 - [[HOUSING/Neolithic_Longhouses]] - Longhouse households
+
 
 ## Sources
 1. Wilk, R.R. & Netting, R.McC. (1984). *Households*. In *Households*.

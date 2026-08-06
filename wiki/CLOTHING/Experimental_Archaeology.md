@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/CLOTHING/Experimental_Archaeology.html
 ---
 
+
 # Experimental Archaeology of Textiles
 
-Experimental archaeology reconstructs ancient textile technologies through hands-on replication, providing quantitative data on labor, skill, and material properties that cannot be obtained from artifacts alone.
+Experimental archaeology reconstructs ancient textile technologies through hands-on replication, providing quantitative data on labor, skill, and material properties that cannot be obtained from artifacts alone. [1]
 
 ## Overview
 
@@ -22,19 +23,19 @@ Since textiles rarely preserve, experimental reconstruction of tools, techniques
 ## Major Experimental Projects
 
 ### Spinning Experiments
-- **Whorl weight vs. thread diameter**: Light whorls (5-10g) → fine thread; heavy (30-50g) → thick
+- **Whorl weight vs. thread diameter**: Light whorls (5-10g) → fine thread; heavy (30-50g) → thick [2]
 - **Production rates**: 
   - Novice: 5-10 m/hour
   - Experienced: 20-50 m/hour
   - Expert: 50-100 m/hour
-- **Fiber consumption**: 100g wool → ~100m singles (varies by twist)
+- **Fiber consumption**: 100g wool → ~100m singles (varies by twist) [3]
 
 ### Weaving Experiments
 - **Warp-weighted loom**:
   - Setup: 2-4 hours (warping, tensioning)
   - Weaving: 0.5-2 m²/hour (plain weave)
   - Complex patterns: 0.2-0.5 m²/hour
-- **Two-beam loom**: 2-3x faster than warp-weighted
+- **Two-beam loom**: 2-3x faster than warp-weighted [4]
 - **Backstrap loom**: Portable, limited width (~60 cm)
 
 ### Garment Reconstruction
@@ -121,6 +122,7 @@ Since textiles rarely preserve, experimental reconstruction of tools, techniques
 - [[CLOTHING/Textile_Tools_Archaeology]] - Tool validation
 - [[CLOTHING/Preserved_Textiles]] - Garment reconstruction
 - [[SOCIAL_ORGANIZATION/Apprenticeship_and_Knowledge_Transmission]] - Skill learning
+
 
 ## Sources
 1. Grömer, K. et al. (2013). *Experimental Textile Archaeology*. In *Textile Production*.

@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/Lithic_Technologies/Spearhead.html
 ---
 
+
 # Spearhead
 
-Spearheads are projectile points designed to be attached to spears, serving as one of the most enduring and widespread hunting technologies in human prehistory. They evolved from simple pointed stones to sophisticated lithic and later metal points, reflecting advances in cognitive ability, material knowledge, and hunting strategy across cultures and millennia.
+Spearheads are projectile points designed to be attached to spears, serving as one of the most enduring and widespread hunting technologies in human prehistory. They evolved from simple pointed stones to sophisticated lithic and later metal points, reflecting advances in cognitive ability, material knowledge, and hunting strategy across cultures and millennia. [1]
 
 
 ## Overview
@@ -24,7 +25,7 @@ Spearheads are projectile points designed to be attached to spears, serving as o
 Spearheads are projectile points designed to be attached to spears, serving as one of the most enduring and widespread hunting technologies in human prehistory. They evolved from simple pointed stones to sophisticated lithic and later metal points, reflecting advances in cognitive ability, material knowledge, and hunting strategy across cultures and millennia.
 ## History & Development
 
-- **Lower Paleolithic (~500 ka – 300 ka):** Earliest stone spear points appear at sites such as Kathu Pan (South Africa, ~500,000 BP), where pointed stone tools were likely mounted on wooden spears for hunting large game.
+- **Lower Paleolithic (~500 ka – 300 ka):** Earliest stone spear points appear at sites such as Kathu Pan (South Africa, ~500,000 BP), where pointed stone tools were likely mounted on wooden spears for hunting large game. [2]
 - **Middle Paleolithic (~300 ka – 50 ka):** Sophisticated prepared-core techniques produced standardized points including Levallois points and Mousterian points, associated with Neanderthals and early Homo sapiens. The Schöningen site (Germany, ~300,000 BP) yielded well-preserved wooden spears with fire-hardened tips.
 - **Upper Paleolithic (~50 ka – 10 ka):** Diversification of spearhead forms, including blade-based points and barbed elements that increased hunting efficiency.
 - **Neolithic (~10 ka – present):** Polished stone spearheads and barbed points became widespread, reflecting intensified hunting and the rise of sedentary societies. Hafting techniques improved with the use of sinew and plant fiber bindings.
@@ -32,7 +33,7 @@ Spearheads are projectile points designed to be attached to spears, serving as o
 
 ## Function & Use
 
-- **Primary Use:** Hunting large game by thrusting or throwing with a spear
+- **Primary Use:** Hunting large game by thrusting or throwing with a spear [3]
 - **Secondary Uses:** Defense against predators and rival groups, fishing (barbed points used as harpoons or fish spears)
 - **Cultural Significance:** Spearheads served as essential survival tools; their quality and craftsmanship could indicate skill, status, and group identity; some elaborately decorated points may have held ritual significance
 
@@ -40,7 +41,7 @@ Spearheads are projectile points designed to be attached to spears, serving as o
 
 Spearheads were produced from stone (flint, chert, obsidian, quartzite), bone, and later metal. The primary lithic technique was knapping — removing flakes from a core to shape a sharp point. Key attachment methods include:
 
-- **Socketing:** Carving a socket into a wooden shaft and inserting the spearhead, often secured with pitch or resin
+- **Socketing:** Carving a socket into a wooden shaft and inserting the spearhead, often secured with pitch or resin [4]
 - **Hafting:** Binding the spearhead to the shaft using sinew, rawhide, or plant fiber, sometimes reinforced with adhesive
 
 The choice of material and attachment method depended on available resources, intended prey, and regional tradition.
@@ -58,6 +59,7 @@ The choice of material and attachment method depended on available resources, in
 - [[Lithic_Technologies/Axe]]
 - [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Lithic_Technologies/Hammerstone]]
+
 ## Sources
 
 1. Thieme, H. (1997). "Lower Palaeolithic hunting spears from Germany." *Nature*, 385(6619), 807–810.

@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Bronze_Age_Longhouses.html
 ---
 
+
 # Bronze Age Longhouses
 
-Bronze Age longhouses evolved from Neolithic LBK ancestors into substantial byre-houses integrating human and animal habitation under one roof. They represent the dominant farmhouse form across temperate Europe for over a millennium.
+Bronze Age longhouses evolved from Neolithic LBK ancestors into substantial byre-houses integrating human and animal habitation under one roof. They represent the dominant farmhouse form across temperate Europe for over a millennium. [1]
 
 ## Overview
 
@@ -36,7 +37,7 @@ Bronze Age longhouses show remarkable continuity with Neolithic predecessors whi
 ## Regional Types
 
 ### Nordic Bronze Age (Denmark, S. Sweden, N. Germany)
-- **Two-aisled**: Central nave + one side aisle (byre)
+- **Two-aisled**: Central nave + one side aisle (byre) [2]
 - **Three-aisled**: Central + two side aisles (larger farms)
 - **Construction**: Massive oak posts in deep trenches
 - **Length**: 20-40 m
@@ -58,7 +59,7 @@ Bronze Age longhouses show remarkable continuity with Neolithic predecessors whi
 ## Internal Organization
 
 ### Typical Three-Aisled Plan (West to East)
-1. **Western byre**: Cattle stalls, drainage gully, fodder storage
+1. **Western byre**: Cattle stalls, drainage gully, fodder storage [3]
 2. **Central living**: Hearth, sleeping platforms, storage
 3. **Eastern byre/work**: Sheep/goats, grain storage, workshop
 
@@ -105,6 +106,7 @@ Bronze Age longhouses show remarkable continuity with Neolithic predecessors whi
 - [[HOUSING/Wattle_and_Daub]] - Wall construction
 - [[HOUSING/Thatch_Roofing]] - Roofing
 - [[SOCIAL_ORGANIZATION/Sedentary_Villages]] - Settlement context
+
 
 ## Sources
 1. Gerritsen, F. (2003). *Local Identities*. Amsterdam UP.

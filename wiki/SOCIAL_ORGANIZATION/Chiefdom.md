@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Chiefdom.html
 ---
 
+
 # Chiefdom
 
-A chiefdom is a form of sociopolitical organization intermediate between tribe and state, characterized by permanent centralized leadership (chief), ranked social hierarchy, redistribution economies, and institutionalized inequality—yet lacking the bureaucracy, monopoly on force, and territorial administration of true states.
+A chiefdom is a form of sociopolitical organization intermediate between tribe and state, characterized by permanent centralized leadership (chief), ranked social hierarchy, redistribution economies, and institutionalized inequality—yet lacking the bureaucracy, monopoly on force, and territorial administration of true states. [1]
 
 ## Overview
 
@@ -37,14 +38,14 @@ Chiefdoms emerge independently in multiple regions during the Late Neolithic thr
 | **Territory** | Polity with boundaries | Flexible, kinship-based | Fixed, administered |
 
 ### Social Ranking
-- **Two-tier hierarchy**: Elite (chief + kin) vs. Commoners
+- **Two-tier hierarchy**: Elite (chief + kin) vs. Commoners [2]
 - **Rank by birth**: Not achieved through merit
 - **Chief's kin**: Form noble lineage, control key resources
 - **Commoners**: Produce surplus, owe labor/tribute
 - **No class system**: No professional bureaucracy, no standing army
 
 ### Economy: Redistribution
-- **Staple finance**: Grain, livestock collected → stored → feasted/redistributed
+- **Staple finance**: Grain, livestock collected → stored → feasted/redistributed [3]
 - **Wealth finance**: Prestige goods (metals, shells, crafts) controlled by chief
 - **Tribute**: Regular flows from commoners to center
 - **Feasting**: Public events reinforcing hierarchy and solidarity
@@ -53,13 +54,13 @@ Chiefdoms emerge independently in multiple regions during the Late Neolithic thr
 ## Types of Chiefdoms
 
 ### Simple Chiefdom
-- **Single center**: One paramount chief, one main village
+- **Single center**: One paramount chief, one main village [4]
 - **Population**: 1,000-5,000
 - **Hierarchy**: 2 levels (center + villages/hamlets)
 - **Example**: Early European Bronze Age (Únětice, Wessex)
 
 ### Complex / Paramount Chiefdom
-- **Multiple tiers**: Paramount chief > district chiefs > village heads
+- **Multiple tiers**: Paramount chief > district chiefs > village heads [5]
 - **Population**: 5,000-50,000+
 - **Hierarchy**: 3+ levels (paramount center > secondary centers > villages)
 - **Example**: Hawaiian Islands (late), Mississippian (Cahokia), Muisca (Colombia)
@@ -70,23 +71,23 @@ Chiefdoms emerge independently in multiple regions during the Late Neolithic thr
 ```
 Paramount Center (10-50 ha)
     ↓
-Secondary Centers (5-10 ha) — craft production, local administration
+Secondary Centers (5-10 ha) — craft production, local administration [6]
     ↓
 Large Villages (2-5 ha) — specialized production
     ↓
 Hamlets/Farmsteads (<1 ha) — primary production
 ```
-- **Rank-size rule**: Stepped distribution, not continuous
+- **Rank-size rule**: Stepped distribution, not continuous [7]
 - **Central place**: Largest site disproportionately large (primate pattern)
 
 ### Prestige Goods & Burials
 - **Elite burials**: Gold, bronze weapons, exotic imports, sacrificial retainers
-- **Grave goods disparity**: 10-100x difference elite vs. commoner
+- **Grave goods disparity**: 10-100x difference elite vs. commoner [8]
 - **Materials**: Amber (Baltic), lapis lazuli (Afghanistan), obsidian, copper, gold, jade
 - **Workshops**: Attached specialists at centers producing elite goods
 
 ### Monumental Architecture
-- **Platform mounds**: Earthen pyramids for chiefly residences/temples (Mississippian, Peru)
+- **Platform mounds**: Earthen pyramids for chiefly residences/temples (Mississippian, Peru) [9]
 - **Megaliths**: Stone circles, alignments, tombs (European Neolithic/Bronze Age)
 - **Palisades/Ditches**: Defensive + symbolic boundary (European hillforts)
 - **Ceremonial centers**: Plazas, processional ways (Göbekli Tepe precursor)
@@ -212,6 +213,7 @@ Hamlets/Farmsteads (<1 ha) — primary production
 - Gender in chiefdoms: Male-dominated or complementary spheres?
 - Climate change as driver vs. trigger of chiefdom cycling
 - Definition of "chiefdom" across vastly different cultural contexts
+
 
 ## Sources
 

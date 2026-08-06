@@ -11,6 +11,19 @@ layout: null
 permalink: /wiki/OPEN-QUESTIONS.html
 ---
 
+---
+title: "Open Research Questions"
+category: "Open Questions"
+period: "Stone Age to Bronze Age"
+region: "Global"
+cultures: []
+time_range: "3.3 million years ago to 3,300 BCE"
+confidence: "Variable by topic"
+evidence_type: "Material, Ethnographic, Archaeological, Oral Tradition"
+layout: null
+permalink: /wiki/OPEN-QUESTIONS.html
+---
+
 # Open Research Questions
 
 ## General Technology Questions
@@ -52,3 +65,11 @@ permalink: /wiki/OPEN-QUESTIONS.html
 - [[Open Questions]/[Europe-Neolithic]]
 - [[Open Questions]/[Asia-Neolithic]]
 - [[Open Questions]/[Africa-Neolithic]]
+
+## Sources
+
+1. Shennan, S. (2018). *The First Farmers of Europe*. Routledge.
+2. Smith, B.D. (1998). *The Emergence of Agriculture*. Scientific American Library.
+3. Earle, T.K. (1997). *How Chiefs Come to Power*. Stanford UP.
+4. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.
+5. Aufderheide, A.C. & Rodríguez-Martín, C. (1998). *The Cambridge Encyclopedia of Human Paleopathology*. Cambridge UP.

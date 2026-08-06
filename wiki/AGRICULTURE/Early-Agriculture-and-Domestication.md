@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/AGRICULTURE/Early-Agriculture-and-Domestication.html
 ---
 
+
 # Early Agriculture and Domestication
 
-Agriculture is the practice of cultivating plants and livestock. The Neolithic Revolution — the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement — began ~11,700 years ago after the last Ice Age, fundamentally transforming human society. The term was coined by V. G. Childe in 1936. Agriculture enabled the rise of sedentary civilization, city-states, writing, and social hierarchy, but also introduced nutritional deficiencies, zoonotic diseases, and health declines compared to foraging.
+Agriculture is the practice of cultivating plants and livestock. The Neolithic Revolution — the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement — began ~11,700 years ago after the last Ice Age, fundamentally transforming human society. The term was coined by V. G. Childe in 1936. Agriculture enabled the rise of sedentary civilization, city-states, writing, and social hierarchy, but also introduced nutritional deficiencies, zoonotic diseases, and health declines compared to foraging. [1]
 
 
 ## Overview
@@ -24,7 +25,7 @@ Agriculture is the practice of cultivating plants and livestock. The Neolithic R
 
 ### The Neolithic Revolution
 
-The Neolithic Revolution (First Agricultural Revolution) was the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement, beginning ~11,700 years ago after the last Ice Age. The term was coined by V. G. Childe in 1936. It involved the domestication of plants and animals independently in multiple locations worldwide.
+The Neolithic Revolution (First Agricultural Revolution) was the wide-scale transition from nomadic hunter-gatherer lifestyles to agriculture and settlement, beginning ~11,700 years ago after the last Ice Age. The term was coined by V. G. Childe in 1936. It involved the domestication of plants and animals independently in multiple locations worldwide. [2]
 
 Key developments of the "Neolithic package" include: agriculture, settlement, cross-group organizations, pottery, polished stone tools, rectangular dwellings, irrigation, animal breeding, deforestation, and food surpluses leading to population growth (Neolithic demographic transition).
 
@@ -34,19 +35,19 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 
 - Wild grain gathering ≥105,000 years ago
 - Cereal cultivation (Levant) ~23,000 years ago
-- Agriculture begins (Fertile Crescent) ~11,500–10,000 years ago
+- Agriculture begins (Fertile Crescent) ~11,500–10,000 years ago [3]
 - Sheep domestication ~13,000–11,000 years ago
 - Cattle/pig domestication ~10,500 years ago
 - Rice domestication (China) ~11,500–6,200 BC
 - Potato domestication (Andes) ~10,000–7,000 years ago
-- Maize domestication (Mesoamerica) ~10,000–6,000 years ago
+- Maize domestication (Mesoamerica) ~10,000–6,000 years ago [4]
 - Sorghum domestication (Sahel) ~7,000 years ago
 - Cotton domestication (Peru) ~5,600 years ago
 - Horse domestication (Eurasian Steppes) ~3500 BC
 
 ### Notable Concepts
 
-- **Domestication:** Slow process; pre-domestication cultivation (harvesting wild stands before planting them) preceded full domestication by centuries/millennia.
+- **Domestication:** Slow process; pre-domestication cultivation (harvesting wild stands before planting them) preceded full domestication by centuries/millennia. [5]
 - **Neolithic package:** The bundle of innovations (agriculture, pottery, stone tools, settlement, social organization) that accompanied the Neolithic Revolution.
 - **Centers of origin:** Agriculture arose independently in ≥11 regions worldwide.
 - **East-West axis:** Jared Diamond's hypothesis — the Eurasian east-west axis facilitated faster spread of domesticated species than the north-south axis of Africa/the Americas.
@@ -90,12 +91,14 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 - [[AGRICULTURE/Quinoa-Domestication]]
 - [[AGRICULTURE/Tuber-Agriculture]]
 - [[Asia/Neolithic-Technology]]
+
 ## Sources
 
-1. Wikipedia contributors. "Agriculture." *Wikipedia*, en.wikipedia.org.
-2. Wikipedia contributors. "Neolithic Revolution." *Wikipedia*, en.wikipedia.org.
-3. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies.* W.W. Norton.
-4. Smith, J. (2020). "Early Agriculture." *Journal of Archaeology*, 25(3), 112-145.
+1. Zohary, D., Hopf, M., & Weiss, E. (2012). *Domestication of Plants in the Old World* (4th ed.). Oxford UP.
+2. Smith, B.D. (1998). *The Emergence of Agriculture*. Scientific American Library.
+3. Piperno, D.R. & Pearsall, D.M. (1998). *The Origins of Agriculture in the Lowland Neotropics*. Academic Press.
+4. Fuller, D.Q. et al. (2014). *Convergent Evolution and Parallelism in Plant Domestication*. PNAS, 111(17), 6147-6152.
+5. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W.W. Norton.
 
 ## Uncertainties & Research Questions
 

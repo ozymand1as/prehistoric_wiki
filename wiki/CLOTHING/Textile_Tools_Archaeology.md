@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/CLOTHING/Textile_Tools_Archaeology.html
 ---
 
+
 # Textile Tools Archaeology
 
-The archaeological identification of textile production relies almost entirely on tools—spindle whorls, loom weights, needles, and combs—since textiles themselves rarely preserve. These artifacts provide the primary evidence for ancient textile technologies.
+The archaeological identification of textile production relies almost entirely on tools—spindle whorls, loom weights, needles, and combs—since textiles themselves rarely preserve. These artifacts provide the primary evidence for ancient textile technologies. [1]
 
 ## Overview
 
@@ -22,21 +23,21 @@ Textile tools are among the most common artifacts at Neolithic and Bronze Age si
 ## Key Tool Types
 
 ### Spindle Whorls (Most Common)
-- **Function**: Weight for drop spindle, maintains rotation
+- **Function**: Weight for drop spindle, maintains rotation [2]
 - **Materials**: Clay (fired/unfired), stone, bone, wood, metal
 - **Shapes**: Discoid, spherical, biconical, truncated cone
 - **Weight range**: 5-50g (fine to coarse thread)
 - **Diagnostic**: Perforation diameter, weight, decoration
 
 ### Loom Weights
-- **Function**: Tension warp threads on warp-weighted loom
+- **Function**: Tension warp threads on warp-weighted loom [3]
 - **Materials**: Fired clay, stone, unbaked clay
 - **Shapes**: Discoid, pyramidal, truncated pyramid, spool
 - **Weight range**: 100-500g typical
 - **Groups**: Rows = loom position; clusters = storage
 
 ### Needles & Awls
-- **Needles**: Eyed, for sewing (bone, bronze, iron)
+- **Needles**: Eyed, for sewing (bone, bronze, iron) [4]
 - **Awls**: Un-eyed, for piercing (bone, antler, bronze)
 - **Context**: Domestic, burial, workshop
 
@@ -132,6 +133,7 @@ Textile tools are among the most common artifacts at Neolithic and Bronze Age si
 - [[CLOTHING/Bronze_Age_Textiles]] - Workshop tools
 - [[CLOTHING/Textile_Production]] - Production organization
 - [[Lithic_Technologies/Neolithic_Pottery]] - Clay tool parallels
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

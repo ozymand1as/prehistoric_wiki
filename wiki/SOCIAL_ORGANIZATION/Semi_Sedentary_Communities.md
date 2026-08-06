@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Semi_Sedentary_Communities.html
 ---
 
+
 # Semi-Sedentary Communities
 
-Semi-sedentary communities occupy the transitional space between mobile foragers and fully sedentary villagers. They maintain seasonal mobility but invest in substantial architecture, storage, and territorial claims at key locations.
+Semi-sedentary communities occupy the transitional space between mobile foragers and fully sedentary villagers. They maintain seasonal mobility but invest in substantial architecture, storage, and territorial claims at key locations. [1]
 
 ## Overview
 
@@ -33,19 +34,19 @@ Semi-sedentism emerges when resource richness allows extended occupation but env
 ## Types of Semi-Sedentism
 
 ### Logistical Mobility (Foragers)
-- **Base camp**: Semi-permanent, substantial housing
+- **Base camp**: Semi-permanent, substantial housing [2]
 - **Logistical camps**: Temporary, task-specific (hunting, fishing, gathering)
 - **Example**: Northwest Coast, California, Jōmon, Ertebølle
 
 ### Seasonal Transhumance (Pastoralists)
 - **Winter camp**: Permanent, substantial, storage
 - **Summer camp**: Mobile, lighter structures
-- **Example**: Central Asian steppe, Andean pastoralists
+- **Example**: Central Asian steppe, Andean pastoralists [3]
 
 ### Agricultural Pioneers
 - **Growing season**: Village occupied, fields tended
 - **Off-season**: Dispersal to foraging/hunting
-- **Example**: Early Neolithic Near East, Early Woodland North America
+- **Example**: Early Neolithic Near East, Early Woodland North America [4]
 
 ## Key Archaeological Cases
 
@@ -98,6 +99,7 @@ Semi-sedentism emerges when resource richness allows extended occupation but env
 - [[SOCIAL_ORGANIZATION/Nomadic_Pastoralism]] - Mobile pastoralists
 - [[HOUSING/Mesolithic_Post_Built_Huts]] - Architecture
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Exchange
+
 
 ## Sources
 1. Kent, S. (1991). *Semi-Sedentism*. In *Cultural Anthropology*.

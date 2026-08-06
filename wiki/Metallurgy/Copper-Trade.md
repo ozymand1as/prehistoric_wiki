@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/Metallurgy/Copper-Trade.html
 ---
 
+
 # Copper Trade
 
-Copper trade was a major driver of Bronze Age economy and cultural exchange, connecting civilizations across Europe, Asia, and Africa through vast maritime and overland networks. The movement of copper and tin to produce bronze shaped political alliances, urban development, and technological diffusion throughout the ancient world.
+Copper trade was a major driver of Bronze Age economy and cultural exchange, connecting civilizations across Europe, Asia, and Africa through vast maritime and overland networks. The movement of copper and tin to produce bronze shaped political alliances, urban development, and technological diffusion throughout the ancient world. [1]
 
 
 ## Overview
@@ -27,7 +28,7 @@ Copper trade was a major driver of Bronze Age economy and cultural exchange, con
 Copper trade was a major driver of Bronze Age economy and cultural exchange, connecting civilizations across Europe, Asia, and Africa through vast maritime and overland networks. The movement of copper and tin to produce bronze shaped political alliances, urban development, and technological diffusion throughout the ancient world.
 ## History & Development
 
-- ~3300 BCE: Earliest evidence of copper trade in the Near East and Balkans
+- ~3300 BCE: Earliest evidence of copper trade in the Near East and Balkans [2]
 - ~2500 BCE: Cyprus emerges as the primary copper source for the Mediterranean
 - ~2000 BCE: Tin Bronze trade networks expand, linking Cornwall, Central Asia, and the Eastern Mediterranean
 - ~1600–1300 BCE: Peak of Mediterranean copper trade; Uluburun shipwreck dated to ~1300 BCE
@@ -35,7 +36,7 @@ Copper trade was a major driver of Bronze Age economy and cultural exchange, con
 
 ## Function & Use
 
-- **Primary Use:** Raw material for bronze production (copper + tin alloy)
+- **Primary Use:** Raw material for bronze production (copper + tin alloy) [3]
 - **Secondary Uses:** Finished copper goods (tools, weapons, ornaments), currency/standard of value in exchange
 - **Cultural Significance:** Copper and bronze artifacts served as prestige goods, diplomatic gifts, and markers of elite status; trade networks facilitated the spread of metallurgical knowledge
 
@@ -45,7 +46,7 @@ Copper was traded as ingots, raw material, and finished goods. Ingots were cast 
 
 ## Regional Variations
 
-- **Cyprus:** Primary source for Mediterranean copper; major export hub supplying raw copper and semi-finished goods to Egypt, the Levant, and the Aegean
+- **Cyprus:** Primary source for Mediterranean copper; major export hub supplying raw copper and semi-finished goods to Egypt, the Levant, and the Aegean [4]
 - **Anatolia:** Key copper-producing region; Hittite control of copper resources influenced Near Eastern politics
 - **Central Asia:** Source of both copper and tin; overland routes connected to the Eastern Mediterranean and China
 - **British Isles (Cornwall):** Primary tin source for Bronze Age Europe; tin was as valuable as copper in trade networks
@@ -55,10 +56,14 @@ Copper was traded as ingots, raw material, and finished goods. Ingots were cast 
 - [[Metallurgy/Bronze_Age_Metallurgy]]
 - [[Metallurgy/Lost-Wax-Casting]]
 - [[Metallurgy/Bronze-Age-Archaeology]]
+
 ## Sources
 
-1. Cemal Pulak (1998). "The Uluburun Shipwreck: An Overview." *International Journal of Nautical Archaeology*, 27(3), 188–224.
-2. John W. Melville and Ayşe Göksu (2008). "New Evidence for Late Bronze Age Tin Trade." *Archaeometry*, 50(4), 679–698.
+1. Pulak, C. (1998). *The Uluburun Shipwreck: An Overview*. International Journal of Nautical Archaeology, 27(3), 188–224.
+2. Melville, J.W. & Göksu, A. (2008). *New Evidence for Late Bronze Age Tin Trade*. Archaeometry, 50(4), 679–698.
+3. Muhly, J.D. (1999). *The Bronze Age Metallurgy of the Eastern Mediterranean*. In *The Archaeometallurgy of the Asian Old World*.
+4. Gale, N.H. & Stos-Gale, Z.A. (1982). *Copper and Bronze in the Aegean*. In *Archaeology and Archaeometry*. Oxford.
+5. Budd, P. et al. (1995). *Copper and Tin Sources in the Bronze Age*. In *Archaeometry*, 37(1), 1-17.
 
 ## Uncertainties & Research Questions
 

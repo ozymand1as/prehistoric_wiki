@@ -18,9 +18,10 @@ layout: null
 permalink: /wiki/CLOTHING/European_Textiles.html
 ---
 
+
 # European Textiles
 
-European textile traditions developed from Neolithic flax cultivation through Bronze Age wool economies, with exceptional preservation in Alpine lake dwellings and Hallstatt salt mines providing detailed evidence.
+European textile traditions developed from Neolithic flax cultivation through Bronze Age wool economies, with exceptional preservation in Alpine lake dwellings and Hallstatt salt mines providing detailed evidence. [1]
 
 ## Overview
 
@@ -29,19 +30,19 @@ Europe's textile history is characterized by the early adoption of flax (linen) 
 ## Neolithic (5,500–2,500 BCE)
 
 ### Flax Dominance
-- **LBK** (5,500–4,500 BCE): Flax cultivation universal
+- **LBK** (5,500–4,500 BCE): Flax cultivation universal [2]
 - **Tools**: Spindle whorls (clay), loom weights (clay, unbaked)
 - **Weaves**: Plain tabby, basket weave
 - **Garments**: Tunics, cloaks, simple construction
 
 ### Regional Variation
-- **Central Europe (LBK)**: Standardized whorls/weights across 1,000 km
+- **Central Europe (LBK)**: Standardized whorls/weights across 1,000 km [3]
 - **Mediterranean**: Earlier wool, more diverse fibers
 - **Northern Europe**: Later Neolithic, nettle, lime bast
 
 ### Alpine Lake Dwellings (4,000–800 BCE)
 - **Preservation**: Waterlogged, anaerobic
-- **Finds**: Complete textiles, tools, production debris
+- **Finds**: Complete textiles, tools, production debris [4]
 - **Fibers**: Flax, wool, nettle, tree bast (lime, oak)
 - **Techniques**: Tabby, twill (late), tablet weaving borders
 
@@ -109,6 +110,7 @@ Europe's textile history is characterized by the early adoption of flax (linen) 
 - [[CLOTHING/Preserved_Textiles]] - Lake dwellings, Hallstatt
 - [[CLOTHING/Textile_Tools_Archaeology]] - Whorls, weights
 - [[HOUSING/Neolithic_Longhouses]] - Textile production space
+
 
 ## Sources
 1. Bender Jørgensen, L. (1992). *North European Textiles until AD 1000*. Aarhus UP.

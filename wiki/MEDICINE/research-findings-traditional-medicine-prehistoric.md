@@ -16,14 +16,15 @@ layout: null
 permalink: /wiki/MEDICINE/research-findings-traditional-medicine-prehistoric.html
 ---
 
+
 # Traditional Medicine / Research Findings (Pre historic)
 
-Prehistoric medicine covers the period from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Research findings reveal that prehistoric peoples practiced sophisticated healing including herbal medicine, trepanning, dentistry, bone setting, and spiritual healing. Evidence from artifacts, human remains, mummies, cave paintings, and ethnographic studies of uncontacted peoples demonstrates that prehistoric medicine was a blend of physical treatment and spiritual practice, with knowledge passed down orally through generations.
+Prehistoric medicine covers the period from the first use of stone tools (~3.3 million years ago) to the invention of writing (~5,000 years ago). Research findings reveal that prehistoric peoples practiced sophisticated healing including herbal medicine, trepanning, dentistry, bone setting, and spiritual healing. Evidence from artifacts, human remains, mummies, cave paintings, and ethnographic studies of uncontacted peoples demonstrates that prehistoric medicine was a blend of physical treatment and spiritual practice, with knowledge passed down orally through generations. [1]
 
 ## History & Development
 
 - **Period:** Prehistoric — from first use of stone tools (~3.3 million years ago) to invention of writing (~5,000 years ago)
-- **Life expectancy:** 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters
+- **Life expectancy:** 25–40 years; women died more often in childbirth; men lived longer due to better nutrition as hunters [2]
 - **Common ailments:** Osteoarthritis (from heavy lifting), rickets (vitamin D deficiency), osteomalacia, bone fractures, infections without antiseptics
 - **Evidence sources:** Artifacts, human remains, mummies (Siberian Ice Maiden, bog bodies), cave paintings, ethnographic studies
 - **Neanderthal evidence:** Remains show evidence of healing practices and care for the sick/injured
@@ -31,18 +32,18 @@ Prehistoric medicine covers the period from the first use of stone tools (~3.3 m
 
 ## Function & Use
 
-- **Primary Use:** Treatment of ailments, injuries, and diseases using plant materials, earths/clays, and surgical procedures
+- **Primary Use:** Treatment of ailments, injuries, and diseases using plant materials, earths/clays, and surgical procedures [3]
 - **Secondary Uses:** Spiritual healing through shamanic practices; dental care; wound treatment and bone setting; geophagy
 - **Cultural Significance:** Healing practices blended physical and spiritual; knowledge passed down orally by women and medicine men/shamans
 
 ## Construction & Technique
 
-- **Plant materials:** Herbs such as rosemary, birch polypore, and psychoactive plants (psilocybin mushrooms)
+- **Plant materials:** Herbs such as rosemary, birch polypore, and psychoactive plants (psilocybin mushrooms) [4]
 - **Earths and clays:** Used for wound treatment, bone setting, and geophagy
 - **Trepanning:** Oldest surgical procedure (7,000–10,000 years ago); over 1,500 trephined skulls found worldwide
 - **Bone setting:** Clay applied to broken bones
 - **Wound care:** Ant pincers used in the Americas to close wounds
-- **Dentistry:** Earliest drilled and filled tooth (13,000 years ago in Italy)
+- **Dentistry:** Earliest drilled and filled tooth (13,000 years ago in Italy) [5]
 - **Oral transmission:** Knowledge passed down through generations
 
 ## Regional Variations
@@ -62,12 +63,14 @@ Prehistoric medicine covers the period from the first use of stone tools (~3.3 m
 - [[MEDICINE/Archaeosurgery]]
 - [[MEDICINE/Herbal-Medicine]]
 
+
 ## Sources
 
-1. Wikipedia contributors. "Prehistoric medicine." *Wikipedia*, The Free Encyclopedia
-2. Wikipedia contributors. "Traditional medicine." *Wikipedia*, The Free Encyclopedia
-3. Kelly, Nigel; Rees, Bob; Shuter, Paul (2003). *Medicine Through Time*. Heinemann.
-4. Samorini, Giorgio (2019). "Psychoactive plants and prehistoric medicine." *Journal of Psychedelic Studies*
+1. Aufderheide, A.C. & Rodríguez-Martín, C. (1998). *The Cambridge Encyclopedia of Human Paleopathology*. Cambridge UP.
+2. Nutton, V. (2004). *Ancient Medicine*. Routledge.
+3. Majno, G. (1975). *The Healing Hand*. Harvard UP.
+4. Kelly, N., Rees, B., & Shuter, P. (2003). *Medicine Through Time*. Heinemann.
+5. Samorini, G. (2019). *The oldest archeological data evidencing the relationship of Homo sapiens with psychoactive plants: A worldwide overview*. Journal of Psychedelic Studies, 3(2), 63–80.
 
 ## Uncertainties & Research Questions
 

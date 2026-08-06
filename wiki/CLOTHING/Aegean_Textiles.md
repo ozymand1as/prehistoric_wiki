@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/CLOTHING/Aegean_Textiles.html
 ---
 
+
 # Aegean Textiles
 
-The Aegean Bronze Age (Minoan and Mycenaean) developed sophisticated textile industries documented by Linear B tablets, frescoes, and archaeological finds, with palatial workshops producing textiles for elite consumption, religious use, and international trade.
+The Aegean Bronze Age (Minoan and Mycenaean) developed sophisticated textile industries documented by Linear B tablets, frescoes, and archaeological finds, with palatial workshops producing textiles for elite consumption, religious use, and international trade. [1]
 
 ## Overview
 
@@ -25,20 +26,20 @@ Aegean textiles are among the best-documented prehistoric textiles due to the co
 ## Minoan Crete (2,000–1,450 BCE)
 
 ### Production
-- **Palatial workshops**: Knossos, Phaistos, Malia, Zakros
+- **Palatial workshops**: Knossos, Phaistos, Malia, Zakros [2]
 - **Workers**: Hundreds of women in textile workgroups
 - **Records**: Linear A (undeciphered), seals, nodules
 - **Raw materials**: Wool (local), flax (local), imported dyes
 
 ### Fresco Evidence
-- **Women's dress**: Flounced skirts, open bodices, aprons
+- **Women's dress**: Flounced skirts, open bodices, aprons [3]
 - **Men's dress**: Kilts, loincloths, codpieces
 - **Patterns**: Woven borders, embroidery, appliqué
 - **Colors**: Red, blue, yellow, white, black
 
 ### Trade
 - **Exports**: Textiles, dyed wool, saffron
-- **Imports**: Tin, copper, ivory, gold, lapis lazuli
+- **Imports**: Tin, copper, ivory, gold, lapis lazuli [4]
 
 ## Mycenaean Mainland (1,600–1,200 BCE)
 
@@ -132,6 +133,7 @@ Aegean textiles are among the best-documented prehistoric textiles due to the co
 - [[CLOTHING/Weaving]] - Loom technology
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools, trade
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Aegean trade
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

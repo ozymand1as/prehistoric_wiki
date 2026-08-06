@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Neolithic_Longhouses.html
 ---
 
+
 # Neolithic Longhouse (Linear Pottery Culture)
 
-The Neolithic longhouse is the signature architecture of Europe's first farmers. Built by the Linear Pottery Culture (LBK) and successors, these massive timber structures housed extended families, livestock, and grain stores under a single roof—representing a revolutionary integration of domestic and economic space.
+The Neolithic longhouse is the signature architecture of Europe's first farmers. Built by the Linear Pottery Culture (LBK) and successors, these massive timber structures housed extended families, livestock, and grain stores under a single roof—representing a revolutionary integration of domestic and economic space. [1]
 
 ## Overview
 
@@ -33,28 +34,28 @@ LBK longhouses appear suddenly around 5,500 BCE with the spread of agriculture f
 | **Floor area** | 75 - 350 m² | 120 - 200 m² |
 | **Orientation** | NW-SE (dominant) | Perpendicular to slope |
 
-**Standard module**: ~2 m bay spacing (post intervals), creating 10-25 bays per house.
+**Standard module**: ~2 m bay spacing (post intervals), creating 10-25 bays per house. [2]
 
 ## Construction
 
 ### Foundation & Posts
-- **Wall posts**: Oak or elm, 20-30 cm diameter, set in individual postholes 50-80 cm deep
+- **Wall posts**: Oak or elm, 20-30 cm diameter, set in individual postholes 50-80 cm deep [3]
 - **Ridge posts**: Larger timbers (30-40 cm), central row supporting ridge beam
 - **Posthole pattern**: Double row of wall posts + single ridge row = three-aisled plan
 - **No foundation trenches**: Posts set individually, not in continuous trenches
 
 ### Frame & Carpentry
-- **Joints**: Mortise-and-tenon, half-lap, scarf joints (inferred from wood preservation)
+- **Joints**: Mortise-and-tenon, half-lap, scarf joints (inferred from wood preservation) [4]
 - **Wall plates**: Horizontal timbers connecting wall post tops
 - **Ridge beam**: Central longitudinal beam on ridge posts
 - **Rafters**: Paired timbers from wall plates to ridge beam (~45° pitch)
 - **Purlins**: Horizontal roof timbers supporting thatch
-- **No nails**: Wooden pegs (oak), lashings (lime bast, hide)
+- **No nails**: Wooden pegs (oak), lashings (lime bast, hide) [5]
 
 ### Walls
 - **Wattle-and-daub**: Hazel/willow wattle between wall posts, daubed both sides
 - **Daub mix**: Clay + straw/dung + sand, 5-10 cm thick
-- **Plaster finish**: Fine clay slip, sometimes painted (red/white)
+- **Plaster finish**: Fine clay slip, sometimes painted (red/white) [6]
 - **Alternative**: Split plank walling (where oak abundant)
 
 ### Roof
@@ -173,6 +174,7 @@ LBK longhouses appear suddenly around 5,500 BCE with the spread of agriculture f
 - **Roof access**: Smoke holes vs. door-only ventilation
 - **Byre separation**: Physical barrier between animals/humans?
 - **Social hierarchy**: House size variation = status differences?
+
 
 ## Sources
 

@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/CLOTHING/Paleolithic_Clothing.html
 ---
 
+
 # Paleolithic Clothing
 
-Evidence for tailored clothing appears in the Upper Paleolithic (~40,000 BCE), coinciding with the expansion of modern humans into cold Eurasian environments. While earlier hominins likely used simple hide draping, the archaeological record shows sophisticated sewing technology by the Gravettian period.
+Evidence for tailored clothing appears in the Upper Paleolithic (~40,000 BCE), coinciding with the expansion of modern humans into cold Eurasian environments. While earlier hominins likely used simple hide draping, the archaeological record shows sophisticated sewing technology by the Gravettian period. [1]
 
 ## Overview
 
@@ -25,24 +26,24 @@ Upper Paleolithic clothing represents the first tailored, fitted garments in hum
 ## Materials
 
 ### Animal Hides & Furs
-- **Primary sources**: Reindeer, horse, bison, fox, wolf, bear, lion
+- **Primary sources**: Reindeer, horse, bison, fox, wolf, bear, lion [2]
 - **Selection criteria**: Season of kill (winter coats), animal size, fur quality
 - **Processing**: Fresh hides preferred for clothing; older for containers/structures
 
 ### Sinew & Thread
-- **Material**: Animal tendon (sinew), particularly from large herbivores
+- **Material**: Animal tendon (sinew), particularly from large herbivores [3]
 - **Preparation**: Dried, pounded, separated into fine fibers
 - **Properties**: High tensile strength, shrinks when wet (tightens seams)
 
 ### Decorative Elements
-- **Ivory beads**: Thousands found at Sungir (Russia), sewn onto garments
+- **Ivory beads**: Thousands found at Sungir (Russia), sewn onto garments [4]
 - **Shell beads**: Marine shells traded hundreds of kilometers inland
 - **Pigments**: Red ochre staining on clothing/hides
 
 ## Tools & Technology
 
 ### Bone & Ivory Needles
-- **Earliest**: ~40,000 BCE (Denisova Cave, Siberia)
+- **Earliest**: ~40,000 BCE (Denisova Cave, Siberia) [5]
 - **Materials**: Bird bone, mammoth ivory, antler
 - **Features**: Minute eyes (0.5-1mm), polished shafts, tapered points
 - **Distribution**: Europe, Siberia, China, North Africa
@@ -149,6 +150,7 @@ Modern reconstructions demonstrate:
 - Regional variation in garment styles (inferred from bead distributions)
 - Summer vs. winter wardrobes (limited evidence)
 - Role of plant fibers (nettle, grass) in Paleolithic textiles
+
 
 ## Sources
 

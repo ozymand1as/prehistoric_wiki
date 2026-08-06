@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/CLOTHING/Bone_Needles_and_Tools.html
 ---
 
+
 # Bone Needles and Tools
 
-Bone, ivory, and antler needles represent the earliest sewing technology. Their appearance in the Upper Paleolithic (~40,000 BCE) coincides with the development of tailored clothing essential for cold-climate survival.
+Bone, ivory, and antler needles represent the earliest sewing technology. Their appearance in the Upper Paleolithic (~40,000 BCE) coincides with the development of tailored clothing essential for cold-climate survival. [1]
 
 ## Overview
 
@@ -26,7 +27,7 @@ The eyed needle is a hallmark of behavioral modernity. Before needles, hides wer
 ## Needle Evolution
 
 ### Upper Paleolithic (~40,000–12,000 BCE)
-- **Materials**: Bird bone (hollow), mammoth ivory, antler
+- **Materials**: Bird bone (hollow), mammoth ivory, antler [2]
 - **Manufacture**: Grooved and snapped, eyes drilled/gouged
 - **Sites**: Denisova Cave (Siberia), Kostenki, Sungir, Dolní Věstonice
 - **Dimensions**: 40-80 mm long, 0.5-1 mm eye diameter
@@ -34,7 +35,7 @@ The eyed needle is a hallmark of behavioral modernity. Before needles, hides wer
 ### Gravettian (~33,000–22,000 BCE)
 - **Standardization**: Consistent form, fine eyes
 - **Ivory needles**: Polished, tapered, durable
-- **Associated**: Beaded garments (Sungir - thousands of ivory beads)
+- **Associated**: Beaded garments (Sungir - thousands of ivory beads) [3]
 
 ### Magdalenian (~17,000–12,000 BCE)
 - **Bone needles**: Dominant, mass-produced appearance
@@ -42,7 +43,7 @@ The eyed needle is a hallmark of behavioral modernity. Before needles, hides wer
 - **Decorative**: Incised patterns on shafts
 
 ### Neolithic (~10,000–3,000 BCE)
-- **Copper needles**: Appear late (Balkans, Near East)
+- **Copper needles**: Appear late (Balkans, Near East) [4]
 - **Bone continues**: Alongside metal
 - **Mass production**: Standardized forms in settlements
 
@@ -124,6 +125,7 @@ The eyed needle is a hallmark of behavioral modernity. Before needles, hides wer
 - [[CLOTHING/Tanning_and_Hide_Processing]] - Leather preparation
 - [[Lithic_Technologies/Stone-Tools]] - Microdrills, burins
 - [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Associated tools
+
 
 ## Sources
 1. Kuhn, S.L. et al. (2016). *Early Upper Paleolithic bone tools from Denisova Cave*. J. Human Evolution.

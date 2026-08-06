@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Aegean_Megaron_and_Tholos.html
 ---
 
+
 # Aegean Megaron and Tholos
 
-The megaron (rectangular hall with porch) and tholos (circular corbelled tomb) are the signature architectural forms of the Mycenaean Bronze Age. They represent the culmination of Aegean building technology before the Iron Age.
+The megaron (rectangular hall with porch) and tholos (circular corbelled tomb) are the signature architectural forms of the Mycenaean Bronze Age. They represent the culmination of Aegean building technology before the Iron Age. [1]
 
 ## Overview
 
@@ -25,14 +26,14 @@ The megaron serves as the core of Mycenaean palaces, while the tholos represents
 ## The Megaron
 
 ### Form & Plan
-- **Rectangular hall**: 2:1 to 3:1 length:width ratio
+- **Rectangular hall**: 2:1 to 3:1 length:width ratio [2]
 - **Porch (aithousa)**: Two columns in antis
 - **Vestibule (prodomos)**: Optional, between porch and hall
 - **Central hearth**: Four columns supporting roof opening
 - **Throne/altar**: Against back wall
 
 ### Construction
-- **Foundations**: Stone socle, timber superstructure
+- **Foundations**: Stone socle, timber superstructure [3]
 - **Walls**: Mudbrick on stone socle, plastered
 - **Columns**: Wood (cedar, cypress) on stone bases
 - **Roof**: Timber beams, clay, flat with drainage
@@ -89,6 +90,7 @@ The megaron serves as the core of Mycenaean palaces, while the tholos represents
 - [[HOUSING/Stone_and_Masonry]] - Mycenaean masonry
 - [[SOCIAL_ORGANIZATION/Early_State]] - Palace society
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools
+
 
 ## Sources
 1. French, E. (2002). *Mycenaean Architecture*. In *Mycenaean Greece*.

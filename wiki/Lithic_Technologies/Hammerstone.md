@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/Lithic_Technologies/Hammerstone.html
 ---
 
+
 # Hammerstone
 
-Hammerstones are among the oldest stone tools, used as percussive tools for knapping other stones to produce flakes. They are hard, rounded stones used to strike other rocks, and they were essential for producing all other stone tools throughout human prehistory.
+Hammerstones are among the oldest stone tools, used as percussive tools for knapping other stones to produce flakes. They are hard, rounded stones used to strike other rocks, and they were essential for producing all other stone tools throughout human prehistory. [1]
 
 
 ## Overview
@@ -24,7 +25,7 @@ Hammerstones are among the oldest stone tools, used as percussive tools for knap
 Hammerstones are among the oldest stone tools, used as percussive tools for knapping other stones to produce flakes. They are hard, rounded stones used to strike other rocks, and they were essential for producing all other stone tools throughout human prehistory.
 ## History & Development
 
-Hammerstones date back to the earliest Stone Age, with the oldest known examples associated with the Lomekwi industry (~3.3 Ma). They were used continuously through the Acheulean period and remained central to lithic production through the Neolithic. Their development paralleled the increasing complexity of knapping techniques, from simple hard-hammer percussion to more refined soft-hammer methods using bone or antler.
+Hammerstones date back to the earliest Stone Age, with the oldest known examples associated with the Lomekwi industry (~3.3 Ma). They were used continuously through the Acheulean period and remained central to lithic production through the Neolithic. Their development paralleled the increasing complexity of knapping techniques, from simple hard-hammer percussion to more refined soft-hammer methods using bone or antler. [2]
 
 ## Function & Use
 
@@ -47,6 +48,7 @@ Hammerstones are naturally hard, rounded stones selected for their density and d
 - [[Lithic_Technologies/Axe]]
 - [[Lithic_Technologies/Choppers]]
 - [[Lithic_Technologies/Spearhead]]
+
 ## Sources
 
 1. Harmand, S. et al. (2015). "3.3-million-year-old stone tools from Lomekwi 3, West Lake Turkana, Kenya." *Nature*, 521(7552), 310–315.

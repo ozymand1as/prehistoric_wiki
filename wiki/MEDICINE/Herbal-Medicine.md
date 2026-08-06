@@ -21,9 +21,10 @@ layout: null
 permalink: /wiki/MEDICINE/Herbal-Medicine.html
 ---
 
+
 # Herbal Medicine
 
-Herbal medicine is the use of plants for medicinal purposes and represents the oldest form of medicine, predating written history. Plants—including herbs, roots, bark, leaves, and flowers—have been used across all cultures to treat illness and maintain health. Many modern drugs derive from plant compounds originally identified through traditional herbal knowledge.
+Herbal medicine is the use of plants for medicinal purposes and represents the oldest form of medicine, predating written history. Plants—including herbs, roots, bark, leaves, and flowers—have been used across all cultures to treat illness and maintain health. Many modern drugs derive from plant compounds originally identified through traditional herbal knowledge. [1]
 
 
 ## Overview
@@ -31,12 +32,12 @@ Herbal medicine is the use of plants for medicinal purposes and represents the o
 Herbal medicine is the use of plants for medicinal purposes and represents the oldest form of medicine, predating written history. Plants—including herbs, roots, bark, leaves, and flowers—have been used across all cultures to treat illness and maintain health. Many modern drugs derive from plant compounds originally identified through traditional herbal knowledge.
 ## History & Development
 
-- **Sumerians (c. 3000 BCE):** First written records of herbal prescriptions on cuneiform tablets
+- **Sumerians (c. 3000 BCE):** First written records of herbal prescriptions on cuneiform tablets [2]
 - **Egyptians (c. 1600–1550 BCE):** Edwin Smith Papyrus (c. 1600 BCE) — earliest surgical text; Ebers Papyrus (c. 1550 BC) records 700+ compounds
 - **India (1st millennium BC):** Ayurveda — Charaka and Sushruta described herbs and minerals
 - **China (Han dynasty):** Shennong Bencaojing (Divine Farmer's Herb-Root Classic) — earliest Chinese materia medica
 - **Greece/Rome (c. 40–90 CE):** Dioscorides' De Materia Medica — 600+ plants
-- **Paleolithic (~60,000 years ago):** Earliest evidence of medicinal plant use confirmed by paleopharmacological studies
+- **Paleolithic (~60,000 years ago):** Earliest evidence of medicinal plant use confirmed by paleopharmacological studies [3]
 - **Traditional Systems:** Ayurveda, Traditional Chinese Medicine, and indigenous healing systems
 
 ## Function & Use
@@ -66,6 +67,7 @@ Herbal medicine is the use of plants for medicinal purposes and represents the o
 - [[MEDICINE/Traditional-Medicine-Prehistoric]]
 - [[MEDICINE/Archaeosurgery]]
 - [[AGRICULTURE/Crop-Domestication]]
+
 
 ## Sources
 

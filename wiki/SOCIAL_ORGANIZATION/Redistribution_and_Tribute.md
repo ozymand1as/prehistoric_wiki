@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Redistribution_and_Tribute.html
 ---
 
+
 # Redistribution and Tribute
 
-Redistribution and tribute are centralized resource flows that distinguish chiefdoms and states from egalitarian societies. They concentrate surplus at political centers for reallocation, elite consumption, and public works.
+Redistribution and tribute are centralized resource flows that distinguish chiefdoms and states from egalitarian societies. They concentrate surplus at political centers for reallocation, elite consumption, and public works. [1]
 
 ## Overview
 
@@ -23,13 +24,13 @@ Unlike reciprocity (dyadic, voluntary), redistribution is centralized (center �
 
 ### Staple Finance
 - **Resources**: Grain, livestock, labor
-- **Collection**: Tax in kind (grain, corvée labor)
+- **Collection**: Tax in kind (grain, corvée labor) [2]
 - **Storage**: Central granaries, silos, warehouses
 - **Reallocation**: Rations to workers, feasts, emergency relief
 - **Examples**: Ur III mesopotamia, Inka qollqa, Egyptian Old Kingdom
 
 ### Wealth Finance
-- **Resources**: Prestige goods, metals, luxury items
+- **Resources**: Prestige goods, metals, luxury items [3]
 - **Control**: Elite monopoly on sources, production
 - **Distribution**: Retainers, diplomats, ritual deposits
 - **Examples**: Bronze Age palace gifts, Mississippian copper, Mycenaean gold
@@ -74,7 +75,7 @@ Unlike reciprocity (dyadic, voluntary), redistribution is centralized (center �
 ## Political Economy
 
 ### Chiefdom Redistribution
-- **Mechanism**: Chief collects → feasts → redistributes
+- **Mechanism**: Chief collects → feasts → redistributes [4]
 - **Legitimacy**: Generosity validates rank
 - **Instability**: Depends on personal charisma
 
@@ -107,6 +108,7 @@ Unlike reciprocity (dyadic, voluntary), redistribution is centralized (center �
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Tribute in trade
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Attached specialists
 - [[CLOTHING/Textile_Production]] - Textile tribute
+
 
 ## Sources
 1. Earle, T.K. (1997). *How Chiefs Come to Power*. Stanford UP.

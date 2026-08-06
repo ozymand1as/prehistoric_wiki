@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/CLOTHING/Preserved_Textiles.html
 ---
 
+
 # Preserved Textiles
 
-Exceptional preservation conditions—waterlogged, arid, frozen, or mineralized—have yielded the rare surviving textiles that provide direct evidence for ancient fiber, weave, color, and construction.
+Exceptional preservation conditions—waterlogged, arid, frozen, or mineralized—have yielded the rare surviving textiles that provide direct evidence for ancient fiber, weave, color, and construction. [1]
 
 ## Overview
 
@@ -22,13 +23,13 @@ Textiles are among the most perishable archaeological materials. The few survivi
 ## Preservation Environments
 
 ### Waterlogged (Anaerobic)
-- **Alpine lake dwellings** (Switzerland, Germany, Italy): Neolithic–Bronze Age
+- **Alpine lake dwellings** (Switzerland, Germany, Italy): Neolithic–Bronze Age [2]
   - Thousands of fragments, complete garments
   - Flax, wool, nettle, tree bast
 - **Bogs** (Denmark, Germany, Netherlands): Bronze Age–Iron Age
   - Wool garments, skin capes, belts
   - Tannins preserve protein fibers
-- **Riverine/coastal**: Wetland sites (Must Farm, UK; Torcello, Italy)
+- **Riverine/coastal**: Wetland sites (Must Farm, UK; Torcello, Italy) [3]
 
 ### Arid (Desiccation)
 - **Egyptian tombs**: Predynastic–Roman
@@ -50,7 +51,7 @@ Textiles are among the most perishable archaeological materials. The few survivi
 - **Siberian kurgans**: Scythian, Xiongnu
 
 ### Mineralized (Pseudomorphs)
-- **Metal corrosion**: Textile impressions on bronze/iron
+- **Metal corrosion**: Textile impressions on bronze/iron [4]
   - Weapons, jewelry, tools
   - Reveals weave, thread count, twist
 - **Salt mines**: Hallstatt (Austria), Dürrnberg
@@ -94,7 +95,7 @@ Textiles are among the most perishable archaeological materials. The few survivi
 ## Scientific Analysis Methods
 
 ### Fiber Identification
-- **Light microscopy**: Cross-section, longitudinal
+- **Light microscopy**: Cross-section, longitudinal [5]
 - **SEM**: Surface morphology
 - **FTIR**: Chemical composition
 - **DNA**: Species identification (wool, silk)
@@ -130,6 +131,7 @@ Textiles are among the most perishable archaeological materials. The few survivi
 - [[CLOTHING/Textile_Tools_Archaeology]] - Tool correlates
 - [[CLOTHING/Dyeing_and_Decoration]] - Dye analysis
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Fiber/dye trade
+
 
 ## Sources
 1. Bender Jørgensen, L. (1992). *North European Textiles until AD 1000*. Aarhus UP.

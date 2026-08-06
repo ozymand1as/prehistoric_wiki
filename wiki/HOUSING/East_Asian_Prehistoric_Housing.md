@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/HOUSING/East_Asian_Prehistoric_Housing.html
 ---
 
+
 # East Asian Prehistoric Housing
 
-East Asian housing traditions developed distinctive solutions for continental climates: semi-subterranean pit houses in the Neolithic, stilt houses in the south, and the early development of rammed earth (pisé) that would later become the Great Wall technique.
+East Asian housing traditions developed distinctive solutions for continental climates: semi-subterranean pit houses in the Neolithic, stilt houses in the south, and the early development of rammed earth (pisé) that would later become the Great Wall technique. [1]
 
 ## Overview
 
@@ -28,7 +29,7 @@ East Asia's diverse environments—from Siberian taiga to subtropical coasts—p
 
 ### Zhoukoudian (China, ~500,000–200,000 BCE)
 - **Homo erectus**: "Peking Man"
-- **Cave occupation**: Hearths, ash layers, stone tools
+- **Cave occupation**: Hearths, ash layers, stone tools [2]
 - **Debate**: Controlled fire evidence
 
 ### Japanese Paleolithic (~30,000 BCE)
@@ -41,7 +42,7 @@ East Asia's diverse environments—from Siberian taiga to subtropical coasts—p
 - **Form**: Circular/oval, 3-10 m diameter
 - **Depth**: 0.5-1.5 m
 - **Posts**: 4-6 central + peripheral
-- **Roof**: Conical, thatch/bark, central smoke hole
+- **Roof**: Conical, thatch/bark, central smoke hole [3]
 - **Entrance**: Tunnel or ladder through roof
 - **Evolution**: Deeper over time, internal → peripheral hearths
 
@@ -52,7 +53,7 @@ East Asia's diverse environments—from Siberian taiga to subtropical coasts—p
 ## Neolithic China
 
 ### Yangshao (5,000–3,000 BCE)
-- **Semi-subterranean**: Round/square, 0.5-1 m deep
+- **Semi-subterranean**: Round/square, 0.5-1 m deep [4]
 - **Walls**: Plastered earth, wattle
 - **Roof**: Thatch on pole frame
 - **Hearth**: Central or wall
@@ -106,6 +107,7 @@ East Asia's diverse environments—from Siberian taiga to subtropical coasts—p
 - [[HOUSING/Rammed_Earth]] - Chinese pisé
 - [[HOUSING/Neolithic_Pile_Dwellings]] - Not in East Asia
 - [[HOUSING/Post_and_Lintel_Construction]] - Palace architecture
+
 
 ## Sources
 1. Liu, L. & Chen, X. (2012). *The Archaeology of China*. Cambridge UP.

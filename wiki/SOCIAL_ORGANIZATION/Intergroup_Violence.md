@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Intergroup_Violence.html
 ---
 
+
 # Intergroup Violence
 
-Intergroup violence encompasses the spectrum of violent conflict between human groups, from interpersonal homicide to organized warfare. Its archaeological visibility and social causes provide key insights into the evolution of human cooperation and conflict.
+Intergroup violence encompasses the spectrum of violent conflict between human groups, from interpersonal homicide to organized warfare. Its archaeological visibility and social causes provide key insights into the evolution of human cooperation and conflict. [1]
 
 ## Overview
 
@@ -44,19 +45,19 @@ Violence is not a single phenomenon but a spectrum. Its form, scale, and social 
 ### Demographic Patterns
 - **Male bias**: Young adult males overrepresented
 - **Age**: 15-35 peak
-- **Sex**: Males > females (warfare); females (raids, domestic)
+- **Sex**: Males > females (warfare); females (raids, domestic) [2]
 
 ## Archaeological Contexts
 
 ### Mass Graves
-- **Crow Creek** (SD, USA, 1325 CE): 500+ massacred
+- **Crow Creek** (SD, USA, 1325 CE): 500+ massacred [3]
 - **Schöningen** (Germany, 12,000 BCE): Spear victims
 - **Talheim** (Germany, 5,000 BCE): LBK massacre
 - **Jebel Sahaba** (Sudan, 13,000 BCE): Early warfare
 
 ### Fortifications
 - **Jericho** (9,500 BCE): Tower, wall
-- **Çatalhöyük**: No walls (dense housing as defense)
+- **Çatalhöyük**: No walls (dense housing as defense) [4]
 - **Mycenae**: Cyclopean walls, citadel
 - **Danebury**: Iron Age hillfort, multiple phases
 
@@ -87,6 +88,7 @@ Violence is not a single phenomenon but a spectrum. Its form, scale, and social 
 - [[SOCIAL_ORGANIZATION/Weapons_as_Status]] - Weapon symbolism
 - [[SOCIAL_ORGANIZATION/Fortified_Settlements]] - Defense
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Weapon technology
+
 
 ## Sources
 1. Keeley, L.H. (1996). *War Before Civilization*. Oxford UP.

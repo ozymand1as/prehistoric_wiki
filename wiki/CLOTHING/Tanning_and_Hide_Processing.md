@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/CLOTHING/Tanning_and_Hide_Processing.html
 ---
 
+
 # Tanning and Hide Processing
 
-Tanning is the process of converting raw animal hides into stable, durable leather through chemical treatment that prevents decomposition and imparts desirable physical properties.
+Tanning is the process of converting raw animal hides into stable, durable leather through chemical treatment that prevents decomposition and imparts desirable physical properties. [1]
 
 ## Overview
 
@@ -26,7 +27,7 @@ Hide processing represents one of humanity's oldest chemical technologies. From 
 - **Salting**: Dry salt or brine (commercial)
 - **Drying**: Air/sun drying (traditional)
 - **Freezing**: Modern industrial
-- **Purpose**: Prevent bacterial decay before tanning
+- **Purpose**: Prevent bacterial decay before tanning [2]
 
 ### 2. Beamhouse Operations
 - **Soaking**: Rehydrate, remove salt/dirt
@@ -36,7 +37,7 @@ Hide processing represents one of humanity's oldest chemical technologies. From 
 - **Pickling**: Salt + acid - prepare for tannage
 
 ### 3. Tannage (Core Process)
-- **Vegetable tanning**: Plant tannins (bark, leaves, fruits)
+- **Vegetable tanning**: Plant tannins (bark, leaves, fruits) [3]
 - **Mineral tanning**: Alum, chromium, zirconium
 - **Oil tanning**: Fish oil, cod liver oil (chamois)
 - **Brain/smoke tanning**: Traditional brain lipids + smoke
@@ -52,7 +53,7 @@ Hide processing represents one of humanity's oldest chemical technologies. From 
 ## Traditional Tanning Methods
 
 ### Brain Tanning (Paleolithic+)
-- **Agent**: Animal brain (lecithin, phospholipids)
+- **Agent**: Animal brain (lecithin, phospholipids) [4]
 - **Process**: Brain mash worked into hide, stretched dry
 - **Result**: Soft, washable, white buckskin
 - **Cultures**: Universal among hunter-gatherers
@@ -121,6 +122,7 @@ Hide processing represents one of humanity's oldest chemical technologies. From 
 - [[CLOTHING/Sewing_and_Construction]] - Leather working
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Hide tents
 - [[Lithic_Technologies/Stone-Tools]] - Scrapers, beamers
+
 
 ## Sources
 1. Haines, B. (2006). *Skin and Hide Processing*. In *Archaeological Leather*.

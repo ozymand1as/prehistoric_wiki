@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Age_and_Gender_Organization.html
 ---
 
+
 # Age and Gender Organization
 
-Age and gender are fundamental axes of social differentiation in all human societies. They structure labor, ritual, politics, and kinship across the lifespan.
+Age and gender are fundamental axes of social differentiation in all human societies. They structure labor, ritual, politics, and kinship across the lifespan. [1]
 
 ## Overview
 
@@ -22,7 +23,7 @@ Age and gender are not merely biological categories but culturally constructed s
 ## Age Organization
 
 ### Age Grades / Sets
-- **Age grade**: Status based on age range (e.g., "warrior," "elder")
+- **Age grade**: Status based on age range (e.g., "warrior," "elder") [2]
 - **Age set**: Cohort initiated together, progresses together
 - **Transitions**: Initiation ceremonies mark boundaries
 - **Functions**: Labor, defense, ritual, governance
@@ -38,7 +39,7 @@ Age and gender are not merely biological categories but culturally constructed s
 | **Elder** | 50+ | Authority, ritual, wisdom, care |
 
 ### Age Sets (East Africa, Plains N.A.)
-- **Formation**: Initiated cohort (circumcision, vision quest)
+- **Formation**: Initiated cohort (circumcision, vision quest) [3]
 - **Progression**: Junior warrior → Senior warrior → Junior elder → Senior elder
 - **Functions**: Warfare, labor, ritual, governance by cohort
 
@@ -61,7 +62,7 @@ Age and gender are not merely biological categories but culturally constructed s
 ### Gender Complementarity
 - **Not equality**: Different, valued domains
 - **Interdependence**: Neither self-sufficient
-- **Ideology**: Cosmic duality (yin/yang, male/female principles)
+- **Ideology**: Cosmic duality (yin/yang, male/female principles) [4]
 
 ### Third / Alternative Genders
 - **Two-Spirit** (Native North America): Male-bodied, female role
@@ -97,6 +98,7 @@ Age and gender are not merely biological categories but culturally constructed s
 - [[SOCIAL_ORGANIZATION/Labor_Organization]] - Gendered labor
 - [[SOCIAL_ORGANIZATION/Marriage_and_Alliance]] - Gender in marriage
 - [[SOCIAL_ORGANIZATION/Initiation]] - Puberty rituals
+
 
 ## Sources
 1. Sanday, P.R. (1981). *Female Power and Male Dominance*. Cambridge UP.

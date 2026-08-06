@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/AGRICULTURE/Tuber-Agriculture.html
 ---
 
+
 # Tuber Agriculture
 
-Tuber crops including potatoes, sweet potatoes, yams, and cassava were domesticated independently in multiple regions worldwide, becoming crucial food sources that enabled population growth in diverse environments. These crops provided reliable, calorie-dense nutrition and supported the development of complex societies across continents.
+Tuber crops including potatoes, sweet potatoes, yams, and cassava were domesticated independently in multiple regions worldwide, becoming crucial food sources that enabled population growth in diverse environments. These crops provided reliable, calorie-dense nutrition and supported the development of complex societies across continents. [1]
 
 
 ## Overview
@@ -25,7 +26,7 @@ Tuber crops including potatoes, sweet potatoes, yams, and cassava were domestica
 Tuber crops including potatoes, sweet potatoes, yams, and cassava were domesticated independently in multiple regions worldwide, becoming crucial food sources that enabled population growth in diverse environments. These crops provided reliable, calorie-dense nutrition and supported the development of complex societies across continents.
 ## History & Development
 
-- **Potato domestication:** Originated in the Andes approximately 10,000–7,000 years ago, with selective breeding by Andean peoples producing diverse varieties adapted to high-altitude conditions.
+- **Potato domestication:** Originated in the Andes approximately 10,000–7,000 years ago, with selective breeding by Andean peoples producing diverse varieties adapted to high-altitude conditions. [2]
 - **Cassava domestication:** Developed in South America around 10,000 years ago, becoming a staple crop for tropical populations due to its drought tolerance and high caloric yield.
 - **Yam domestication:** Domesticated in West Africa approximately 10,000 years ago, forming a foundational food source for West African civilizations.
 - **Sweet potato domestication:** Originated in Central and South America around 5,000 years ago, later spreading to Pacific Islands and other tropical regions.
@@ -53,6 +54,7 @@ Tuber cultivation involved land clearing, planting of tuber pieces or cuttings, 
 - [[AGRICULTURE/Early-Agriculture-and-Domestication]]
 - [[AGRICULTURE/Crop-Domestication]]
 - [[Asia/Neolithic-Technology]]
+
 ## Sources
 
 1. Researchers (2023). "Tuber crop domestication and dispersal." *Journal of Archaeological Science*, 148, 105–120.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Weapons_as_Status.html
 ---
 
+
 # Weapons as Status
 
-Weapons in prehistoric societies were not merely tools of violence but potent symbols of identity, authority, and social rank. The differential access to weapons and their symbolic display structured warrior identities and elite power.
+Weapons in prehistoric societies were not merely tools of violence but potent symbols of identity, authority, and social rank. The differential access to weapons and their symbolic display structured warrior identities and elite power. [1]
 
 ## Overview
 
@@ -53,17 +54,17 @@ From the first copper axes to Bronze Age swords, weapons encoded social meaning.
 - **Votive**: Ritual deposition (river, bog)
 - **Founder's hoard**: Smith's stock
 - **Personal hoard**: Hidden wealth
-- **Ritual destruction**: Bent, broken weapons (sacrifice)
+- **Ritual destruction**: Bent, broken weapons (sacrifice) [2]
 
 ### Ritual Contexts
 - **Foundation deposits**: Weapons under walls
 - **Temple deposits**: Dedications to war gods
-- **Watery places**: Rivers, lakes, bogs (Celtic, Nordic)
+- **Watery places**: Rivers, lakes, bogs (Celtic, Nordic) [3]
 
 ## Symbolic Dimensions
 
 ### Heroic Identity
-- **Epic tradition**: Named swords (Excalibur, Gram, Kusanagi)
+- **Epic tradition**: Named swords (Excalibur, Gram, Kusanagi) [4]
 - **Naming**: Weapons have biographies
 - **Inheritance**: Patrilineal weapon transmission
 
@@ -115,6 +116,7 @@ From the first copper axes to Bronze Age swords, weapons encoded social meaning.
 - [[SOCIAL_ORGANIZATION/Chiefly_Authority]] - Elite symbols
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal technology
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Weapon trade
+
 
 ## Sources
 1. Harding, A. (2007). *Warriors and Weapons in Bronze Age Europe*. Oxbow.

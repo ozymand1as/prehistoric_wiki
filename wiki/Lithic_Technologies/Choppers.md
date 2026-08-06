@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/Lithic_Technologies/Choppers.html
 ---
 
+
 # Choppers
 
-Choppers are the simplest and earliest stone tools, representing the first deliberate modification of natural objects by hominins. They are characterized by a rounded chopping edge created by striking one face of a cobble, and they mark the beginning of the lithic technology tradition.
+Choppers are the simplest and earliest stone tools, representing the first deliberate modification of natural objects by hominins. They are characterized by a rounded chopping edge created by striking one face of a cobble, and they mark the beginning of the lithic technology tradition. [1]
 
 
 ## Overview
@@ -22,7 +23,7 @@ Choppers are the simplest and earliest stone tools, representing the first delib
 Choppers are the simplest and earliest stone tools, representing the first deliberate modification of natural objects by hominins. They are characterized by a rounded chopping edge created by striking one face of a cobble, and they mark the beginning of the lithic technology tradition.
 ## History & Development
 
-Choppers emerged during the Lower Paleolithic as the earliest known stone tools, dating to approximately 2.6 million years ago. The Oldowan industry, named after Olduvai Gorge in Tanzania, is the earliest recognized stone tool industry. Choppers represent the first systematic modification of natural objects by hominins, evolving from simple cobble striking into more sophisticated tools such as hand axes and cleavers over time.
+Choppers emerged during the Lower Paleolithic as the earliest known stone tools, dating to approximately 2.6 million years ago. The Oldowan industry, named after Olduvai Gorge in Tanzania, is the earliest recognized stone tool industry. Choppers represent the first systematic modification of natural objects by hominins, evolving from simple cobble striking into more sophisticated tools such as hand axes and cleavers over time. [2]
 
 ## Function & Use
 
@@ -45,6 +46,7 @@ Choppers are made by striking one face of a cobble with a hammerstone to create 
 - [[Lithic_Technologies/Axe]]
 - [[Lithic_Technologies/Hammerstone]]
 - [[Lithic_Technologies/Choppers-Regional]]
+
 ## Sources
 
 1. Leakey, L.S.B. (1971). "Olduvai Gorge: Excavations in Beds I–II, 1960–1963." *Cambridge University Press*.

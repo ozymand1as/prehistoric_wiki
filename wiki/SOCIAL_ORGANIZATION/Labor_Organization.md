@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Labor_Organization.html
 ---
 
+
 # Labor Organization
 
-Labor organization refers to the social mechanisms by which work is coordinated, allocated, and compensated in prehistoric societies. It ranges from kinship-based cooperation to state-managed corvée and slavery.
+Labor organization refers to the social mechanisms by which work is coordinated, allocated, and compensated in prehistoric societies. It ranges from kinship-based cooperation to state-managed corvée and slavery. [1]
 
 ## Overview
 
@@ -25,7 +26,7 @@ Labor organization evolves with social complexity. Egalitarian bands use volunta
 - **Unit**: Household, extended family, clan
 - **Motivation**: Mutual obligation, survival
 - **Forms**: 
-  - **Work parties**: Reciprocal labor (harvest, construction)
+  - **Work parties**: Reciprocal labor (harvest, construction) [2]
   - **Childcare**: Alloparenting, communal
   - **Defense**: Collective, kin-based
 - **Compensation**: Reciprocal, delayed, social
@@ -33,14 +34,14 @@ Labor organization evolves with social complexity. Egalitarian bands use volunta
 ### 2. Big Man Mobilization (Tribal)
 - **Leader**: Big man (achieved status)
 - **Mechanism**: Persuasion, feast sponsorship
-- **Projects**: Gardens, men's houses, defense, ceremonies
+- **Projects**: Gardens, men's houses, defense, ceremonies [3]
 - **Compensation**: Feast, prestige, future reciprocity
 - **Voluntary**: No coercion, based on influence
 
 ### 3. Corvée Labor (Chiefdom/State)
 - **Obligation**: Mandated labor service
 - **Basis**: Territorial, household, or personal
-- **Duration**: Fixed periods (days/months per year)
+- **Duration**: Fixed periods (days/months per year) [4]
 - **Projects**: Irrigation, walls, temples, roads, palaces
 - **Compensation**: Rations, tax relief, protection
 - **Examples**: Egyptian pyramids, Inka mit'a, Mesopotamian ziggurats
@@ -118,6 +119,7 @@ Labor organization evolves with social complexity. Egalitarian bands use volunta
 - [[SOCIAL_ORGANIZATION/State_Bureaucracy]] - Administrative labor
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Military labor
 - [[CLOTHING/Textile_Production]] - Textile labor
+
 
 ## Sources
 1. D'Altroy, T.N. & Earle, T.K. (1985). *Staple Finance*. In *Political Economy*.

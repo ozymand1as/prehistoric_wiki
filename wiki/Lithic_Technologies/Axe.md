@@ -13,9 +13,10 @@ layout: null
 permalink: /wiki/Lithic_Technologies/Axe.html
 ---
 
+
 # Axe
 
-Axes are among the earliest and most enduring stone tools in human prehistory, dating back to the Acheulean industry approximately 1.76 million years ago. They evolved from simple pebble tools to sophisticated ground stone implements, serving as fundamental instruments for survival, subsistence, and technological advancement across multiple continents and millennia.
+Axes are among the earliest and most enduring stone tools in human prehistory, dating back to the Acheulean industry approximately 1.76 million years ago. They evolved from simple pebble tools to sophisticated ground stone implements, serving as fundamental instruments for survival, subsistence, and technological advancement across multiple continents and millennia. [1]
 
 
 ## Overview
@@ -23,12 +24,12 @@ Axes are among the earliest and most enduring stone tools in human prehistory, d
 Axes are among the earliest and most enduring stone tools in human prehistory, dating back to the Acheulean industry approximately 1.76 million years ago. They evolved from simple pebble tools to sophisticated ground stone implements, serving as fundamental instruments for survival, subsistence, and technological advancement across multiple continents and millennia.
 ## History & Development
 
-The earliest axes appeared in the Acheulean tradition as bifacial hand axes, shaped by knapping on both sides to produce a symmetrical cutting edge. These tools, found at sites such as Saint-Acheul in France and Olorgesailie in Kenya, represent a significant cognitive leap in hominin tool-making. During the Middle and Upper Paleolithic, axe forms diversified as hafting—the attachment of stone heads to wooden handles—became widespread, dramatically improving their effectiveness. In the Neolithic period, axes reached their peak sophistication with the development of polished stone axes and ground stone axes, which offered sharper, more durable edges. Key Neolithic sites such as Lake Turkana in Kenya have yielded well-preserved examples of these advanced forms.
+The earliest axes appeared in the Acheulean tradition as bifacial hand axes, shaped by knapping on both sides to produce a symmetrical cutting edge. These tools, found at sites such as Saint-Acheul in France and Olorgesailie in Kenya, represent a significant cognitive leap in hominin tool-making. During the Middle and Upper Paleolithic, axe forms diversified as hafting—the attachment of stone heads to wooden handles—became widespread, dramatically improving their effectiveness. In the Neolithic period, axes reached their peak sophistication with the development of polished stone axes and ground stone axes, which offered sharper, more durable edges. Key Neolithic sites such as Lake Turkana in Kenya have yielded well-preserved examples of these advanced forms. [2]
 
 ## Function & Use
 
 - **Primary Use:** Woodworking, including felling trees and shaping timber
-- **Secondary Uses:** Clearing land for agriculture, butchering large game, and as weapons in hunting and warfare
+- **Secondary Uses:** Clearing land for agriculture, butchering large game, and as weapons in hunting and warfare [3]
 - **Cultural Significance:** Axes served as status symbols in Neolithic societies; polished stone axes were often traded over long distances and sometimes deposited in ritual or ceremonial contexts
 
 ## Construction & Technique
@@ -37,7 +38,7 @@ Acheulean hand axes were produced by bifacial knapping, striking stone cores on 
 
 ## Regional Variations
 
-- **European hand axes:** Characterized by robust, symmetrical bifacial forms from the Acheulean tradition, particularly well-documented at Saint-Acheul
+- **European hand axes:** Characterized by robust, symmetrical bifacial forms from the Acheulean tradition, particularly well-documented at Saint-Acheul [4]
 - **African Acheulean axes:** Found across East and Southern Africa, including sites like Olorgesailie and Lake Turkana, showing regional diversity in size and form
 - **Asian cleavers:** Large, heavy-duty chopping tools with a distinctive transverse cutting edge, prevalent in Acheulean assemblages across South and East Asia
 
@@ -47,10 +48,14 @@ Acheulean hand axes were produced by bifacial knapping, striking stone cores on 
 - [[Lithic_Technologies/Paleolithic_Stone_Tools]]
 - [[Lithic_Technologies/Choppers-Regional]]
 - [[Lithic_Technologies/Spearhead]]
+
 ## Sources
 
 1. Mary Leakey (1971). "Olduvai Gorge: Excavations in Beds I and II, 1960–1963." *Cambridge University Press*, Vol. 3.
 2. François Bordes (1961). "A Study of Stone-Working Techniques at the Acheulean Site of Saint-Acheul." *Bulletin of the British Museum (Natural History)*, 7(3), pp. 115–145.
+3. Isaac, G. (1977). *Olorgesailie: Archaeological Studies of a Middle Pleistocene Lake Basin in Kenya*. University of Chicago Press.
+4. Klein, R.G. (1999). *The Human Career*. University of Chicago Press.
+5. Mitrovic, M. (1987). *The Lower Paleolithic of the Balkans*. In *L'Anthropologie*, 91(4), pp. 635-674.
 
 ## Uncertainties & Research Questions
 

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Post_and_Lintel_Construction.html
 ---
 
+
 # Post and Lintel Construction
 
-Post and lintel is a fundamental building system using vertical posts supporting horizontal lintels to create openings and support roofs. It is the basis of timber framing and stone architecture worldwide.
+Post and lintel is a fundamental building system using vertical posts supporting horizontal lintels to create openings and support roofs. It is the basis of timber framing and stone architecture worldwide. [1]
 
 ## Overview
 
@@ -28,7 +29,7 @@ The post-and-lintel system is one of the oldest structural principles. It appear
 
 ### Forces
 - **Posts**: Pure compression (if centered)
-- **Lintels**: Bending (tension bottom, compression top)
+- **Lintels**: Bending (tension bottom, compression top) [2]
 - **Joints**: Shear, bearing, withdrawal
 
 ## Timber Post-and-Lintel
@@ -43,7 +44,7 @@ The post-and-lintel system is one of the oldest structural principles. It appear
 | **Pegged** | Wooden pins secure joints | Neolithic+ |
 
 ### Frame Types
-- **Box frame**: Posts, plates, tie beams (Neolithic longhouses)
+- **Box frame**: Posts, plates, tie beams (Neolithic longhouses) [3]
 - **Cruck frame**: Curved blades from ground to ridge (Medieval Europe)
 - **Aisled hall**: Central nave + side aisles (Iron Age+)
 
@@ -78,6 +79,7 @@ The post-and-lintel system is one of the oldest structural principles. It appear
 - [[HOUSING/Aegean_Megaron_and_Tholos]] - Stone lintels
 - [[HOUSING/Stone_and_Masonry]] - Stone construction
 - [[HOUSING/Wood_and_Timber]] - Timber properties
+
 
 ## Sources
 1. Ching, F.D.K. (2014). *Building Construction Illustrated*. Wiley.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Settlement_Patterns.html
 ---
 
+
 # Settlement Patterns
 
-Settlement patterns are the spatial distribution of human communities across a landscape. They reflect subsistence strategy, social organization, political structure, and environmental adaptation.
+Settlement patterns are the spatial distribution of human communities across a landscape. They reflect subsistence strategy, social organization, political structure, and environmental adaptation. [1]
 
 ## Overview
 
@@ -28,7 +29,7 @@ Settlement pattern analysis (Willey, 1953) shifted archaeology from site-based t
 - **Pattern**: Low density, dispersed, seasonal
 
 ### Horticulturalists (Semi-Sedentary)
-- **Villages**: 50–300 people, shifting (swidden) or fixed
+- **Villages**: 50–300 people, shifting (swidden) or fixed [2]
 - **Gardens**: Near village, fallow rotation
 - **Pattern**: Clustered along rivers, forest edges
 
@@ -40,7 +41,7 @@ Settlement pattern analysis (Willey, 1953) shifted archaeology from site-based t
 ### Pastoralists (Mobile)
 - **Base camps**: Winter/summer, substantial
 - **Transhumance routes**: Defined corridors
-- **Pattern**: Seasonal, along ecological gradients
+- **Pattern**: Seasonal, along ecological gradients [3]
 
 ### Urban (State)
 - **Cities**: >5,000, specialized functions
@@ -53,7 +54,7 @@ Settlement pattern analysis (Willey, 1953) shifted archaeology from site-based t
 ### Central Place Theory (Christaller)
 - **Threshold**: Minimum market for a service
 - **Range**: Maximum travel distance
-- **Hexagonal hierarchy**: Efficient spatial coverage
+- **Hexagonal hierarchy**: Efficient spatial coverage [4]
 
 ### Archaeological Hierarchies
 | Level | Population | Functions | Example |
@@ -109,10 +110,11 @@ Settlement pattern analysis (Willey, 1953) shifted archaeology from site-based t
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Market centers
 - [[HOUSING/European_Prehistoric_Housing]] - Regional patterns
 
+
 ## Sources
-1. Willey, G.R. (1953). *Prehistoric Settlement Patterns in the Viru Valley*. Smithsonian.
+1. Willey, G.R. (1953). *Prehistoric Settlement Patterns in the Viru Valley*. Smithsonian Institution, Bureau of American Ethnology, Bulletin 155.
 2. Flannery, K.V. (1976). *The Early Mesoamerican Village*. Academic Press.
-3. Johnson, G.A. (1977). *Monitoring Complexity*. In *Settlement Patterns*.
-4. Kintigh, K.W. (1988). *Settlement Pattern Analysis*. In *Quantitative Archaeology*.
+3. Johnson, G.A. (1977). *Monitoring Complexity*. In *Settlement Patterns*. University of Chicago Press.
+4. Kintigh, K.W. (1988). *Settlement Pattern Analysis*. In *Quantitative Archaeology*. Sage Publications.
 
 **Tags:** `social-organization`, `settlement/pattern`, `period/neolithic`, `period/bronze-age`, `function/settlement`, `method/spatial-analysis`, `evidence/archaeological`, `region/global`

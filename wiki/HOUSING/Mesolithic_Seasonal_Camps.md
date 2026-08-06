@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Mesolithic_Seasonal_Camps.html
 ---
 
+
 # Mesolithic Seasonal Camps
 
-Mesolithic seasonal camps represent the logistical mobility of hunter-gatherers tracking resources across the landscape. Unlike base camps with substantial huts, these camps feature light, rapidly erected shelters for short-term specialized activities.
+Mesolithic seasonal camps represent the logistical mobility of hunter-gatherers tracking resources across the landscape. Unlike base camps with substantial huts, these camps feature light, rapidly erected shelters for short-term specialized activities. [1]
 
 ## Overview
 
@@ -29,7 +30,7 @@ Seasonal camps were occupied for days to weeks during resource peaks: fish runs,
 - **Location**: River mouths, lake shores, coasts
 - **Shelter**: Lean-tos, bark shelters, dugouts
 - **Duration**: Weeks (seasonal runs)
-- **Features**: Fish processing areas, drying racks
+- **Features**: Fish processing areas, drying racks [2]
 
 ### Hunting Camps
 - **Location**: Game trails, water sources, high ground
@@ -38,7 +39,7 @@ Seasonal camps were occupied for days to weeks during resource peaks: fish runs,
 - **Features**: Butchery areas, tool maintenance
 
 ### Gathering Camps
-- **Location**: Nut groves, berry patches, tuber fields
+- **Location**: Nut groves, berry patches, tuber fields [3]
 - **Shelter**: Windbreaks, lean-tos
 - **Duration**: Days to weeks
 - **Features**: Processing pits, storage pits
@@ -94,6 +95,7 @@ Seasonal camps were occupied for days to weeks during resource peaks: fish runs,
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Ancestral technology
 - [[SOCIAL_ORGANIZATION/Band_Society]] - Mobility patterns
 - [[HOUSING/Paleolithic_Open_Air_Shelters]] - Light shelter technology
+
 
 ## Sources
 1. Bailey, G. & Spikins, P. (2008). *Mesolithic Europe*. Cambridge UP.

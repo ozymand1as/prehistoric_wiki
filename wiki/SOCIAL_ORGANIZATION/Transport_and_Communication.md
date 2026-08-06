@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Transport_and_Communication.html
 ---
 
+
 # Transport and Communication
 
-Transport and communication technologies—boats, wheels, roads, pack animals, messengers—are the circulatory systems of complex societies. They enable trade, administration, warfare, and cultural exchange across distances.
+Transport and communication technologies—boats, wheels, roads, pack animals, messengers—are the circulatory systems of complex societies. They enable trade, administration, warfare, and cultural exchange across distances. [1]
 
 ## Overview
 
@@ -64,7 +65,7 @@ Transport and communication co-evolve with social complexity. As societies grow,
 | **Sail ship** | Egypt, Phoenicia, Aegean, Pacific | Plank, mortise-tenon | Cargo + crew |
 
 ### Maritime Networks
-- **Mediterranean**: Minoan, Phoenician, Greek, Roman
+- **Mediterranean**: Minoan, Phoenician, Greek, Roman [2]
 - **Indian Ocean**: Indus, Dilmun, East Africa, SE Asia
 - **Pacific**: Lapita, Polynesian voyaging canoes
 - **Red Sea**: Egyptian, Aksumite, Roman
@@ -72,7 +73,7 @@ Transport and communication co-evolve with social complexity. As societies grow,
 ## Communication Systems
 
 ### Messengers
-- **Foot runners**: Inca chasqui (relay, 240 km/day), Persian angarium
+- **Foot runners**: Inca chasqui (relay, 240 km/day), Persian angarium [3]
 - **Mounted**: Persian, Mongol, Inca (chasqui on foot)
 - **Signal**: Fire, smoke, drums, mirrors, flags
 - **Writing**: Tablets, letters, quipu carried by messengers
@@ -107,11 +108,12 @@ Transport and communication co-evolve with social complexity. As societies grow,
 | **Ship (sail)** | 50–150 km/day | Coastal/ocean |
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Trade_Networks]] - Trade routes
+- [[SOCIAL_ORGANIZATION/Trade_Networks]] - Trade routes [4]
 - [[SOCIAL_ORGANIZATION/State_Bureaucracy]] - Admin communication
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Military comms
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Trade routes
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal trade
+
 
 ## Sources
 1. Laet, S.J. de (1994). *History of Humanity: Scientific and Cultural Development*. UNESCO.

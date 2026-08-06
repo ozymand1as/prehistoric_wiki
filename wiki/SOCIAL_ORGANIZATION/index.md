@@ -109,3 +109,11 @@ Social organization is a technology—systems for coordinating labor, distributi
 
 ## Tags
 `social-organization`, `anthropology`, `archaeology`, `political-economy`, `period/paleolithic`, `period/neolithic`, `period/bronze-age`, `theory/social-evolution`, `theory/state-formation`, `evidence/archaeological`, `function/governance`, `function/ritual`, `function/economy`
+
+## Sources
+
+1. Service, E.R. (1962). *Primitive Social Organization*. Random House.
+2. Fried, M.H. (1967). *The Evolution of Political Society*. Random House.
+3. Earle, T.K. (1997). *How Chiefs Come to Power*. Stanford UP.
+4. Trigger, B.G. (2003). *Understanding Early Civilizations*. Cambridge UP.
+5. Yoffee, N. (2005). *Myths of the Archaic State*. Cambridge UP.

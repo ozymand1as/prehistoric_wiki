@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/HOUSING/Neolithic_Pile_Dwellings.html
 ---
 
+
 # Neolithic Pile Dwellings (Alpine Lake Dwellings)
 
-The Alpine pile dwellings (Pfahlbauten) are a unique prehistoric settlement type built on wooden piles over lake margins and wetlands. Their waterlogged preservation provides unparalleled insight into Neolithic and Bronze Age architecture, economy, and daily life.
+The Alpine pile dwellings (Pfahlbauten) are a unique prehistoric settlement type built on wooden piles over lake margins and wetlands. Their waterlogged preservation provides unparalleled insight into Neolithic and Bronze Age architecture, economy, and daily life. [1]
 
 ## Overview
 
@@ -60,21 +61,21 @@ Over 1,000 pile dwelling sites are known around the Alps. UNESCO World Heritage 
 ## Preservation & Finds
 
 ### Organic Materials
-- **Textiles**: Flax, wool, nettle, bast (thousands of fragments)
+- **Textiles**: Flax, wool, nettle, bast (thousands of fragments) [2]
 - **Food**: Carbonized grain, nuts, fruit, fish bones
 - **Tools**: Wooden handles, bows, digging sticks
 - **Containers**: Wooden vessels, bark boxes
 - **Cordage**: Bast, lime, nettle fiber
 
 ### Dendrochronology
-- **Exact dating**: Tree-ring sequences to single year
+- **Exact dating**: Tree-ring sequences to single year [3]
 - **Building phases**: Multiple rebuilds per site
 - **Lifespan**: 15-30 years per structure (pile rot)
 
 ## Daily Life Evidence
 
 ### Economy
-- **Agriculture**: Naked wheat, barley, flax, poppy
+- **Agriculture**: Naked wheat, barley, flax, poppy [4]
 - **Animal husbandry**: Cattle, sheep, goat, pig
 - **Hunting/fishing**: Red deer, fish, waterfowl
 - **Gathering**: Hazelnuts, berries, wild apples
@@ -98,6 +99,7 @@ Over 1,000 pile dwelling sites are known around the Alps. UNESCO World Heritage 
 - [[CLOTHING/Preserved_Textiles]] - Textile finds
 - [[CLOTHING/European_Textiles]] - Alpine textiles
 - [[SOCIAL_ORGANIZATION/Sedentary_Villages]] - Lake shore settlement
+
 
 ## Sources
 1. Menotti, F. (2012). *The Pile Dwellings of the Alps*. In *Lake Dwellings*.

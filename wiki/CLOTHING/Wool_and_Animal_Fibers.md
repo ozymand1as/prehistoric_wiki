@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/CLOTHING/Wool_and_Animal_Fibers.html
 ---
 
+
 # Wool and Animal Fibers
 
-Animal fibers—primarily sheep wool but also goat hair, camelid fiber, and others—became the dominant textile material in temperate Eurasia after the Neolithic. The transformation of wild hairy sheep into woolly breeds represents a major achievement in animal husbandry.
+Animal fibers—primarily sheep wool but also goat hair, camelid fiber, and others—became the dominant textile material in temperate Eurasia after the Neolithic. The transformation of wild hairy sheep into woolly breeds represents a major achievement in animal husbandry. [1]
 
 ## Overview
 
@@ -25,19 +26,19 @@ The domestication of sheep (~9,000 BCE) initially provided meat, milk, and hides
 ## Major Animal Fibers
 
 ### Sheep Wool (Ovis aries)
-- **Wild ancestor**: Mouflon (Ovis orientalis) - hairy, seasonal molt
+- **Wild ancestor**: Mouflon (Ovis orientalis) - hairy, seasonal molt [2]
 - **Domestication**: Near East ~9,000 BCE (meat/milk)
 - **Woolly mutation**: Selection for continuous growth, no molt
 - **Breed development**: Regional specialization by Bronze Age
 
 ### Goat Hair & Cashmere
 - **Guard hair**: Coarse, protective outer coat
-- **Cashmere/pashmina**: Fine undercoat (Kashmir, Mongolia, Iran)
+- **Cashmere/pashmina**: Fine undercoat (Kashmir, Mongolia, Iran) [3]
 - **Mohair**: Angora goat, long lustrous curls
 - **Uses**: Ropes, tents, fine cloth, carpets
 
 ### Camelid Fibers (Andes)
-- **Llama**: Coarse, double-coated, guard hair + undercoat
+- **Llama**: Coarse, double-coated, guard hair + undercoat [4]
 - **Alpaca**: Single-coated, fine, uniform (selected)
 - **Vicuña**: Finest natural fiber (wild, protected)
 - **Guanaco**: Intermediate
@@ -140,6 +141,7 @@ The domestication of sheep (~9,000 BCE) initially provided meat, milk, and hides
 - [[CLOTHING/Bronze_Age_Textiles]] - Palace production
 - [[AGRICULTURE/Crop-Domestication]] - Sheep domestication
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Attached weavers
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

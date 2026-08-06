@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/CLOTHING/Textile_Production.html
 ---
 
+
 # Textile Production
 
-Textile production in the Bronze Age represents the first industrial-scale manufacturing in human history. Palace and temple workshops employed hundreds of workers in standardized, rationed production systems documented by extensive written records.
+Textile production in the Bronze Age represents the first industrial-scale manufacturing in human history. Palace and temple workshops employed hundreds of workers in standardized, rationed production systems documented by extensive written records. [1]
 
 ## Overview
 
@@ -39,13 +40,13 @@ The shift from household to institutional textile production marks a critical tr
 - **Ur III** (2112–2004 BCE): Best documented
   - **Workers**: 500–1,000+ women per major center
   - **Rations**: Grain, wool, oil allocated monthly
-  - **Standards**: Thread count, weight, dimensions fixed
+  - **Standards**: Thread count, weight, dimensions fixed [2]
   - **Output**: Thousands of garments/year per center
 - **Products**: Standardized cloth units (gú), garments, sailcloth
 
 ### Egypt (Old–New Kingdom)
 - **Temple workshops**: Amun, Ptah, Hathor
-- **State monopoly**: Linen for temples, royal court, trade
+- **State monopoly**: Linen for temples, royal court, trade [3]
 - **Workers**: Corvée labor, specialized weavers
 - **Products**: Fine linen, mummy wrappings, sailcloth
 
@@ -53,7 +54,7 @@ The shift from household to institutional textile production marks a critical tr
 - **Linear B** (Pylos, Knossos): Detailed records
 - **Workgroups**: 10–50 women per supervisor
 - **Rations**: Grain, figs, wool per woman/month
-- **Specialization**: Carders, spinners, weavers, finishers
+- **Specialization**: Carders, spinners, weavers, finishers [4]
 - **Trade**: Textiles for metals, ivory, ostrich eggs
 
 ### Anatolia (Hittite)
@@ -136,6 +137,7 @@ The shift from household to institutional textile production marks a critical tr
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Labor organization
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Textile trade
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools, trade goods
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/CLOTHING/Dyeing_and_Decoration.html
 ---
 
+
 # Dyeing and Decoration
 
-Textile coloration and decoration transformed functional cloth into expressions of identity, status, and artistry. From Paleolithic ochre to Bronze Age Tyrian purple, dye technologies reflect trade networks, chemical knowledge, and social complexity.
+Textile coloration and decoration transformed functional cloth into expressions of identity, status, and artistry. From Paleolithic ochre to Bronze Age Tyrian purple, dye technologies reflect trade networks, chemical knowledge, and social complexity. [1]
 
 ## Overview
 
@@ -67,13 +68,13 @@ Dyeing is the process of imparting color to fibers, yarns, or fabrics using dyes
 ## Dyeing Techniques
 
 ### Vat Dyeing (Indigo/Woad)
-1. **Reduction**: Anaerobic fermentation removes oxygen
+1. **Reduction**: Anaerobic fermentation removes oxygen [2]
 2. **Leuco form**: Dye soluble, colorless/yellow
 3. **Immersion**: Fiber absorbs leuco dye
 4. **Oxidation**: Air exposure → blue precipitate
 
 ### Direct Dyeing
-- Substantive dyes (no mordant): Turmeric, safflower, some barks
+- Substantive dyes (no mordant): Turmeric, safflower, some barks [3]
 - Hot water extraction, fiber simmered
 
 ### Mordant Dyeing
@@ -94,12 +95,12 @@ Dyeing is the process of imparting color to fibers, yarns, or fabrics using dyes
 - **Remove**: Boiling water/ironing
 
 ### Ikat (Warp/Weft Resist)
-- **Warp ikat**: Threads resist-dyed before weaving
+- **Warp ikat**: Threads resist-dyed before weaving [4]
 - **Weft ikat**: More difficult, precise
 - **Double ikat**: Both warp and weft (Patola, Bali)
 
 ### Printing
-- **Block printing**: Carved wood stamps (India, China, Egypt)
+- **Block printing**: Carved wood stamps (India, China, Egypt) [5]
 - **Screen printing**: Silk mesh (modern)
 - **Stencil**: Cut patterns (Japan katazome)
 
@@ -161,6 +162,7 @@ Dyeing is the process of imparting color to fibers, yarns, or fabrics using dyes
 - [[CLOTHING/Plant_Fibers]] - Mordant requirements (cellulose vs protein)
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal mordants
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Dye trade (madder, indigo, purple)
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

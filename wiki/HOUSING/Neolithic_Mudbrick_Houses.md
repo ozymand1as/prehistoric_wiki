@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/HOUSING/Neolithic_Mudbrick_Houses.html
 ---
 
+
 # Neolithic Mudbrick Houses
 
-Neolithic mudbrick houses of the Near East represent the world's earliest substantial rectangular architecture. From the round houses of PPNA Jericho to the dense, roof-accessed complexes of Çatalhöyük, these structures document the transition to sedentary agricultural life.
+Neolithic mudbrick houses of the Near East represent the world's earliest substantial rectangular architecture. From the round houses of PPNA Jericho to the dense, roof-accessed complexes of Çatalhöyük, these structures document the transition to sedentary agricultural life. [1]
 
 ## Overview
 
@@ -27,7 +28,7 @@ The invention of sun-dried mudbrick (~9,500 BCE) enabled the construction of dur
 ## Key Sites
 
 ### Jericho (PPNA, ~9,500 BCE)
-- **Architecture**: Round/oval semi-subterranean houses
+- **Architecture**: Round/oval semi-subterranean houses [2]
 - **Walls**: Mudbrick, stone foundations
 - **Tower**: 8.5 m stone tower (communal defense/ritual)
 - **Wall**: 3 m thick perimeter wall
@@ -47,7 +48,7 @@ The invention of sun-dried mudbrick (~9,500 BCE) enabled the construction of dur
 
 ### Brick Production
 - **Mix**: Clay, silt, sand, straw/chaff
-- **Molds**: Wooden, rectangular (40×20×10 cm typical)
+- **Molds**: Wooden, rectangular (40×20×10 cm typical) [3]
 - **Drying**: Sun, 7-14 days
 - **Production**: Household or communal
 
@@ -66,7 +67,7 @@ The invention of sun-dried mudbrick (~9,500 BCE) enabled the construction of dur
 
 ### Standard Rooms
 - **Main room**: Hearth, platforms, storage bins
-- **Side rooms**: Storage, specialized (obsidian, beads)
+- **Side rooms**: Storage, specialized (obsidian, beads) [4]
 - **Platforms**: Sleeping, working, burial beneath
 
 ### Features
@@ -93,6 +94,7 @@ The invention of sun-dried mudbrick (~9,500 BCE) enabled the construction of dur
 - [[HOUSING/Thatch_Roofing]] - Roof covering
 - [[SOCIAL_ORGANIZATION/Sedentary_Villages]] - Social context
 - [[AGRICULTURE/Crop-Domestication]] - Agricultural basis
+
 
 ## Sources
 1. Hodder, I. (2006). *The Leopard's Tale*. Thames & Hudson.

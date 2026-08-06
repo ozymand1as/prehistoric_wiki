@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/CLOTHING/Sewing_and_Construction.html
 ---
 
+
 # Sewing and Construction
 
-Sewing—the joining of flexible materials using thread and needle—enabled the creation of fitted, tailored garments essential for cold-climate survival and complex clothing design.
+Sewing—the joining of flexible materials using thread and needle—enabled the creation of fitted, tailored garments essential for cold-climate survival and complex clothing design. [1]
 
 ## Overview
 
@@ -31,14 +32,14 @@ The invention of the eyed needle (~40,000 BCE) marks the beginning of true sewin
 | **Iron Age** | Iron | Punched/drilled | Global |
 
 ### Needle Types
-- **Fine needles**: Sewing, embroidery (1-2 mm eye)
+- **Fine needles**: Sewing, embroidery (1-2 mm eye) [2]
 - **Heavy needles**: Leather, sailcloth (3-5 mm)
 - **Curved needles**: Upholstery, leather
 - **Double-eyed**: Tapestry, shuttle needles
 - **Awls**: Pre-punch holes (leather, thick fabric)
 
 ### Thread
-- **Sinew**: Animal tendon, strong, shrinks wet (Paleolithic)
+- **Sinew**: Animal tendon, strong, shrinks wet (Paleolithic) [3]
 - **Plant fiber**: Flax, hemp, nettle (Neolithic+)
 - **Wool**: Spun yarn (Bronze Age+)
 - **Silk**: Filament (China, later)
@@ -85,7 +86,7 @@ The invention of the eyed needle (~40,000 BCE) marks the beginning of true sewin
 ## Garment Construction Methods
 
 ### Drape & Cut (Traditional)
-- **Rectangular construction**: Tunics, shirts (minimal waste)
+- **Rectangular construction**: Tunics, shirts (minimal waste) [4]
 - **Zero-waste**: Geometric pieces (kimono, chiton)
 
 ### Pattern & Tailoring (Advanced)
@@ -141,6 +142,7 @@ The invention of the eyed needle (~40,000 BCE) marks the beginning of true sewin
 - [[CLOTHING/Neolithic_Textiles]] - Woven garment construction
 - [[CLOTHING/Bronze_Age_Textiles]] - Tailored wool garments
 - [[Lithic_Technologies/Stone-Tools]] - Awls, scrapers
+
 
 ## Sources
 1. Soffer, O., Adovasio, J.M., Hyland, D.C. (2000). *Paleolithic Perishables Made Permanent*. Antiquity.

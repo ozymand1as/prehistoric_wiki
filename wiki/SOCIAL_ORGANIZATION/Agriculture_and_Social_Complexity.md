@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Agriculture_and_Social_Complexity.html
 ---
 
+
 # Agriculture and Social Complexity
 
-The adoption of agriculture is the most consequential technological shift in human history. It triggered a cascade of demographic, economic, and social changes that culminated in the emergence of cities, states, and civilization.
+The adoption of agriculture is the most consequential technological shift in human history. It triggered a cascade of demographic, economic, and social changes that culminated in the emergence of cities, states, and civilization. [1]
 
 ## Overview
 
@@ -39,19 +40,19 @@ Agriculture did not cause complexity directly but created the conditions for it:
 
 ### 4. Population → Social Complexity
 - **Scalar stress**: Face-to-face insufficient
-- **Specialization**: Craft, trade, ritual, administration
+- **Specialization**: Craft, trade, ritual, administration [2]
 - **Hierarchy**: Coordination, conflict resolution
 - **Institutions**: Formal roles, rules, enforcement
 
 ## Feedback Loops
 
 ### Intensification
-- **Population pressure** → **Intensification** (irrigation, terracing, multi-cropping)
+- **Population pressure** → **Intensification** (irrigation, terracing, multi-cropping) [3]
 - **Intensification** → **Surplus** → **Population growth**
 
 ### Elite Control
 - **Surplus** → **Elite appropriation** (tax, tribute)
-- **Elite** → **Public works** (irrigation, defense)
+- **Elite** → **Public works** (irrigation, defense) [4]
 - **Public works** → **More surplus**
 
 ### Warfare
@@ -94,6 +95,7 @@ Agriculture did not cause complexity directly but created the conditions for it:
 - [[SOCIAL_ORGANIZATION/Early_State]] - State formation
 - [[AGRICULTURE/Crop-Domestication]] - Founder crops
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Surplus trade
+
 
 ## Sources
 1. Childe, V.G. (1936). *Man Makes Himself*. Watts.

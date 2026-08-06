@@ -13,9 +13,10 @@ layout: null
 permalink: /wiki/CLOTHING/Plant_Fibers.html
 ---
 
+
 # Plant Fibers
 
-Plant fibers (bast, leaf, seed, and grass fibers) were the primary textile raw materials before and alongside animal fibers. Their cultivation and processing represent a major technological achievement of the Neolithic Revolution.
+Plant fibers (bast, leaf, seed, and grass fibers) were the primary textile raw materials before and alongside animal fibers. Their cultivation and processing represent a major technological achievement of the Neolithic Revolution. [1]
 
 ## Overview
 
@@ -24,19 +25,19 @@ The domestication of fiber plants—flax, hemp, cotton, ramie, and others—coin
 ## Major Fiber Plants
 
 ### Flax (Linum usitatissimum) — Primary Old World Fiber
-- **Domestication**: Near East ~8,000 BCE (founder crop)
+- **Domestication**: Near East ~8,000 BCE (founder crop) [2]
 - **Plant**: Annual, 30-100 cm, blue flowers
 - **Fiber**: Bast (phloem), 20-40 cm long
 - **Properties**: Strong, smooth, lustrous, absorbent
 - **Uses**: Linen cloth, ropes, nets, sailcloth
-- **Processing**: Retting → breaking → scutching → hackling
+- **Processing**: Retting → breaking → scutching → hackling [3]
 - **Regions**: Near East, Europe, Egypt, Central Asia
 
 ### Hemp (Cannabis sativa) — Coarse Fiber
 - **Domestication**: East Asia ~6,000 BCE
 - **Plant**: Annual, 1-4 m, dioecious
 - **Fiber**: Bast, 50-200 cm, coarse
-- **Properties**: Very strong, durable, rot-resistant
+- **Properties**: Very strong, durable, rot-resistant [4]
 - **Uses**: Rope, sailcloth, sacks, coarse cloth
 - **Regions**: China, Central Asia, Europe (later)
 
@@ -132,6 +133,7 @@ The domestication of fiber plants—flax, hemp, cotton, ramie, and others—coin
 - [[CLOTHING/Weaving]] - Thread to cloth
 - [[AGRICULTURE/Crop-Domestication]] - Domestication context
 - [[CLOTHING/Neolithic_Textiles]] - Early textiles
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton UP.

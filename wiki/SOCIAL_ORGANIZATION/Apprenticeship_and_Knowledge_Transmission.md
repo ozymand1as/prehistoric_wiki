@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Apprenticeship_and_Knowledge_Transmission.html
 ---
 
+
 # Apprenticeship and Knowledge Transmission
 
-Apprenticeship is the primary mechanism for transmitting craft skills, technical knowledge, and cultural values across generations in pre-literate and literate societies alike.
+Apprenticeship is the primary mechanism for transmitting craft skills, technical knowledge, and cultural values across generations in pre-literate and literate societies alike. [1]
 
 ## Overview
 
@@ -24,7 +25,7 @@ Before writing, all technical knowledge was transmitted orally and through pract
 ### Kin-Based (Household)
 - **Context**: Independent household production
 - **Trainee**: Child/relative (often son/daughter)
-- **Duration**: Childhood to adulthood (10-15 years)
+- **Duration**: Childhood to adulthood (10-15 years) [2]
 - **Method**: Observation → participation → independence
 - **Knowledge**: Practical, tacit, family-specific
 
@@ -32,7 +33,7 @@ Before writing, all technical knowledge was transmitted orally and through pract
 - **Context**: Palace/temple workshops
 - **Trainee**: Recruited or hereditary
 - **Duration**: 5-10 years (formal stages)
-- **Method**: Graded tasks, supervision, assessment
+- **Method**: Graded tasks, supervision, assessment [3]
 - **Knowledge**: Standardized, institutional, sometimes literate
 
 ### Guild (Later Periods)
@@ -98,6 +99,7 @@ Before writing, all technical knowledge was transmitted orally and through pract
 - [[SOCIAL_ORGANIZATION/Attached_Specialists]] - Institutional training
 - [[SOCIAL_ORGANIZATION/Independent_Craftspeople]] - Kin-based learning
 - [[CLOTHING/Experimental_Archaeology]] - Modern experimental learning
+
 
 ## Sources
 1. Lave, J. & Wenger, E. (1991). *Situated Learning*. Cambridge UP.

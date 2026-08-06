@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Thatch_Roofing.html
 ---
 
+
 # Thatch Roofing
 
-Thatch roofing uses dry vegetation—water reed, straw, heather, grasses—to create waterproof, insulating roof coverings. It is one of humanity's oldest and most widespread roofing technologies.
+Thatch roofing uses dry vegetation—water reed, straw, heather, grasses—to create waterproof, insulating roof coverings. It is one of humanity's oldest and most widespread roofing technologies. [1]
 
 ## Overview
 
@@ -36,7 +37,7 @@ Thatch has been used from Paleolithic shelters to medieval great halls and conti
 
 ### Long Straw (Europe)
 - **Material**: Wheat/rye straw, uncombed
-- **Method**: Bundles laid, pinned with hazel spars
+- **Method**: Bundles laid, pinned with hazel spars [2]
 - **Pitch**: 45-50°
 - **Ridge**: Clay saddle or straw roll
 
@@ -47,7 +48,7 @@ Thatch has been used from Paleolithic shelters to medieval great halls and conti
 
 ### Water Reed (Norfolk, Netherlands, Danube)
 - **Material**: Phragmites australis
-- **Method**: Bundles tied to battens, dressed flush
+- **Method**: Bundles tied to battens, dressed flush [3]
 - **Lifespan**: 40-60 years (best)
 - **Ridge**: Sedge grass or clay
 
@@ -102,6 +103,7 @@ Thatch has been used from Paleolithic shelters to medieval great halls and conti
 - [[HOUSING/Bronze_Age_Roundhouses]] - Thatch roofs
 - [[HOUSING/Post_and_Lintel_Construction]] - Roof structure
 - [[CLOTHING/Plant_Fibers]] - Straw, reed sources
+
 
 ## Sources
 1. Reynolds, P.J. (1979). *Iron Age Farm: The Butser Experiment*. British Museum.

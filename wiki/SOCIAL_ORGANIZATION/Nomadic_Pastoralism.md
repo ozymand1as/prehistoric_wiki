@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Nomadic_Pastoralism.html
 ---
 
+
 # Nomadic Pastoralism
 
-Nomadic pastoralism is a mobile subsistence strategy based on herding domesticated animals across seasonal pastures. It emerged with animal domestication and became a major economic and political force across the Eurasian steppe and beyond.
+Nomadic pastoralism is a mobile subsistence strategy based on herding domesticated animals across seasonal pastures. It emerged with animal domestication and became a major economic and political force across the Eurasian steppe and beyond. [1]
 
 ## Overview
 
@@ -43,7 +44,7 @@ Pastoral nomadism is not aimless wandering but a highly structured adaptation to
 
 ### Segmentary Lineage
 - **Patrilineal clans**: Core social unit
-- **Segmentary opposition**: Unite against outsiders
+- **Segmentary opposition**: Unite against outsiders [2]
 - **Collective responsibility**: Blood feud, defense
 
 ### Leadership
@@ -52,7 +53,7 @@ Pastoral nomadism is not aimless wandering but a highly structured adaptation to
 - **Military**: Age-sets, warrior societies
 
 ### Gender Roles
-- **Men**: Herding, raiding, defense, trade, politics
+- **Men**: Herding, raiding, defense, trade, politics [3]
 - **Women**: Dairy processing, textiles, camp management, childcare
 - **Complementary**: Both essential, distinct domains
 
@@ -60,7 +61,7 @@ Pastoral nomadism is not aimless wandering but a highly structured adaptation to
 
 ### Pastoral Products
 - **Subsistence**: Meat, milk, blood, dairy
-- **Textiles**: Wool, felt, hair (yurts, clothing, trade)
+- **Textiles**: Wool, felt, hair (yurts, clothing, trade) [4]
 - **Transport**: Pack animals, riding, carts
 
 ### Exchange with Sedentary Societies
@@ -107,6 +108,7 @@ Pastoral nomadism is not aimless wandering but a highly structured adaptation to
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Nomad warfare
 - [[CLOTHING/Wool_and_Animal_Fibers]] - Animal fibers
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Steppe metallurgy
+
 
 ## Sources
 1. Khazanov, A.M. (1984). *Nomads and the Outside World*. Cambridge UP.

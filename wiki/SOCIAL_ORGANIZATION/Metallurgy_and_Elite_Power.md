@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Metallurgy_and_Elite_Power.html
 ---
 
+
 # Metallurgy and Elite Power
 
-The control of metallurgy—from ore procurement to finished objects—was a primary engine of elite power in the Chalcolithic and Bronze Age. Metal's rarity, transformative technology, and utility for weapons and prestige goods made it a strategic resource.
+The control of metallurgy—from ore procurement to finished objects—was a primary engine of elite power in the Chalcolithic and Bronze Age. Metal's rarity, transformative technology, and utility for weapons and prestige goods made it a strategic resource. [1]
 
 ## Overview
 
@@ -34,18 +35,18 @@ Metallurgy is not merely a craft but a political technology. Control over the ch
 ## Elite Control Mechanisms
 
 ### Source Control
-- **Direct**: Royal mines (Sinai turquoise, Laurion silver, Nubian gold)
+- **Direct**: Royal mines (Sinai turquoise, Laurion silver, Nubian gold) [2]
 - **Tribute**: Ore/metal from subject regions
 - **Trade monopoly**: State merchants (Assyrian karum, Minoan fleet)
 
 ### Production Control
-- **Attached specialists**: Palace smiths (Mycenaean, Ur III, Shang)
+- **Attached specialists**: Palace smiths (Mycenaean, Ur III, Shang) [3]
 - **Workshop location**: Within palace/citadel
 - **Standardization**: Weights, forms, quality marks
 
 ### Distribution Control
 - **Weapons**: Elite retinue, state army
-- **Prestige goods**: Diplomatic gifts, elite burials
+- **Prestige goods**: Diplomatic gifts, elite burials [4]
 - **Ritual objects**: Temple deposits, royal regalia
 
 ## Case Studies
@@ -117,6 +118,7 @@ Metallurgy is not merely a craft but a political technology. Control over the ch
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Metal prestige goods
 - [[SOCIAL_ORGANIZATION/Organized_Warfare]] - Metal weapons
 - [[SOCIAL_ORGANIZATION/Attached_Specialists]] - Palace smiths
+
 
 ## Sources
 1. Childe, V.G. (1930). *The Bronze Age*. Cambridge UP.

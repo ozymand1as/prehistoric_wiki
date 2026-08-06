@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Neolithic_Pit_Houses.html
 ---
 
+
 # Neolithic Pit Houses
 
-Neolithic pit houses (semi-subterranean dwellings) were a widespread architectural form in East Asia and parts of Europe. By sinking the floor below ground level, these structures achieved superior thermal stability in continental climates.
+Neolithic pit houses (semi-subterranean dwellings) were a widespread architectural form in East Asia and parts of Europe. By sinking the floor below ground level, these structures achieved superior thermal stability in continental climates. [1]
 
 ## Overview
 
@@ -28,7 +29,7 @@ Pit houses combine excavated floors with post-supported superstructures. They ap
 - **Form**: Circular/oval, 3-8 m diameter
 - **Depth**: 0.5-1.5 m below surface
 - **Posts**: 4-6 central, peripheral wall posts
-- **Roof**: Conical, thatch/bark, central smoke hole
+- **Roof**: Conical, thatch/bark, central smoke hole [2]
 - **Entrance**: Tunnel or ladder through smoke hole
 - **Evolution**: Deeper over time, internal hearths → peripheral
 
@@ -42,7 +43,7 @@ Pit houses combine excavated floors with post-supported superstructures. They ap
 
 ### Korea (Chulmun, ~4,000–1,500 BCE)
 - **Similar to Japan/China**
-- **Ondol precursor**: Subfloor flue heating (later)
+- **Ondol precursor**: Subfloor flue heating (later) [3]
 
 ### Europe (LBK variants)
 - **Rare**: Some LBK sites show shallow pits
@@ -82,6 +83,7 @@ Pit houses combine excavated floors with post-supported superstructures. They ap
 - [[HOUSING/Neolithic_Mudbrick_Houses]] - Contemporary alternative
 - [[HOUSING/Post_and_Lintel_Construction]] - Roof structure
 - [[HOUSING/Thatch_Roofing]] - Roof covering
+
 
 ## Sources
 1. Habu, J. (2004). *Ancient Jomon of Japan*. Cambridge UP.

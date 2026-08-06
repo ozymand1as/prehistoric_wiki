@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Ancestor_Veneration.html
 ---
 
+
 # Ancestor Veneration
 
-Ancestor veneration is the ritualized honoring of deceased kin, based on the belief that ancestors remain active members of the social group, influencing the living and requiring reciprocal care.
+Ancestor veneration is the ritualized honoring of deceased kin, based on the belief that ancestors remain active members of the social group, influencing the living and requiring reciprocal care. [1]
 
 ## Overview
 
@@ -29,20 +30,20 @@ Ancestor veneration transforms death from a rupture into a continuity. It transf
 
 ### Lineage/Clan Ancestors
 - **Focus**: Founding ancestors, apical ancestors
-- **Location**: Lineage shrine, ancestral hall, clan cemetery
+- **Location**: Lineage shrine, ancestral hall, clan cemetery [2]
 - **Offerings**: Periodic feasts, sacrifices
 - **Function**: Group identity, land claims, political legitimacy
 
 ### Royal/State Ancestors
 - **Focus**: Dynastic founders, deified rulers
 - **Location**: Royal temples, imperial tombs
-- **Rituals**: State ceremonies, calendar festivals
+- **Rituals**: State ceremonies, calendar festivals [3]
 - **Function**: Political legitimacy, cosmic order
 
 ## Practices
 
 ### Burial & Post-Burial
-- **Intramural burial**: Under house floor (Neolithic Near East, Çatalhöyük)
+- **Intramural burial**: Under house floor (Neolithic Near East, Çatalhöyük) [4]
 - **Secondary burial**: Exhumation, reburial, ossuaries
 - **Skull cults**: Plastered skulls (Jericho, Ain Ghazal, Çatalhöyük)
 - **Mummification**: Natural (Andes, desert) or artificial (Egypt, Chinchorro)
@@ -87,6 +88,7 @@ Ancestor veneration transforms death from a rupture into a continuity. It transf
 - [[SOCIAL_ORGANIZATION/Shamanism_and_Spirit_Mediation]] - Spirit mediation
 - [[SOCIAL_ORGANIZATION/Communal_Ritual_and_Monuments]] - Collective ritual
 - [[SOCIAL_ORGANIZATION/State_Religion]] - State ancestor cult
+
 
 ## Sources
 1. Fortes, M. (1976). *Religion, Morality, and the Person*. In *Religion and Morality*.

@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Craft_Specialization.html
 ---
 
+
 # Craft Specialization
 
-Craft specialization is the dedication of individuals or groups to specific productive activities beyond subsistence. It is a hallmark of social complexity, creating interdependence, generating surplus, and often serving elite interests.
+Craft specialization is the dedication of individuals or groups to specific productive activities beyond subsistence. It is a hallmark of social complexity, creating interdependence, generating surplus, and often serving elite interests. [1]
 
 ## Overview
 
@@ -22,14 +23,14 @@ Specialization ranges from part-time household production to full-time attached 
 ## Types of Specialization
 
 ### Independent (Household) Specialization
-- **Context**: Household produces for market/exchange
+- **Context**: Household produces for market/exchange [2]
 - **Control**: Producer controls process, schedule, distribution
 - **Scale**: Small, flexible
 - **Examples**: Pottery, flintknapping, weaving in villages
 - **Archaeology**: Workshops in residential areas, diverse tools
 
 ### Attached Specialization
-- **Context**: Producer works for elite/state institution
+- **Context**: Producer works for elite/state institution [3]
 - **Control**: Patron controls materials, schedule, output
 - **Scale**: Large, standardized
 - **Examples**: Palace workshops (Mycenaean, Ur III, Shang), temple crafts
@@ -50,7 +51,7 @@ Specialization ranges from part-time household production to full-time attached 
 
 ### Pottery
 - **Neolithic**: Household, coiled, pit-fired
-- **Chalcolithic**: Wheel-thrown, kiln-fired, specialized
+- **Chalcolithic**: Wheel-thrown, kiln-fired, specialized [4]
 - **Bronze Age**: Mass production, standardization, factory-like (Uruk, Mycenaean)
 
 ### Metallurgy
@@ -114,10 +115,11 @@ Specialization ranges from part-time household production to full-time attached 
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metalworkers
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Elite craft control
 
+
 ## Sources
-1. Costin, C.L. (1991). *Craft Specialization*. Archaeological Method and Theory.
+1. Costin, C.L. (1991). *Craft Specialization*. Archaeological Method and Theory, 3, 1-56.
 2. Brumfiel, E.M. & Earle, T.K. (1987). *Specialization, Exchange, and Complex Societies*. Cambridge UP.
-3. Costin, C.L. (2005). *Craft Production Systems*. In *Handbook of Archaeological Theories*.
+3. Costin, C.L. (2005). *Craft Production Systems*. In *Handbook of Archaeological Theories*. Rowman & Littlefield.
 4. Rice, P.M. (1987). *Pottery Analysis*. Chicago UP.
 
 **Tags:** `social-organization`, `economy/craft`, `period/neolithic`, `period/bronze-age`, `function/economy`, `function/technology`, `evidence/archaeological`, `region/global`

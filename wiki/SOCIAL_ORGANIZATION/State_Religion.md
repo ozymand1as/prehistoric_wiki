@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/State_Religion.html
 ---
 
+
 # State Religion
 
-State religion is the institutionalized, official cult of early states, characterized by professional priesthoods, standardized rituals, monumental temples, and the fusion of political and religious authority in the person of the ruler.
+State religion is the institutionalized, official cult of early states, characterized by professional priesthoods, standardized rituals, monumental temples, and the fusion of political and religious authority in the person of the ruler. [1]
 
 ## Overview
 
@@ -39,19 +40,19 @@ State religion transforms local, kin-based cults into a unified system that legi
 ## Key Institutions
 
 ### Priesthood
-- **Hierarchy**: High priest → priests → attendants
+- **Hierarchy**: High priest → priests → attendants [2]
 - **Training**: Scribal, ritual, astronomical
 - **Privileges**: Tax-exempt, land, rations
 - **Roles**: Ritual, divination, administration, education
 
 ### Temples
-- **Economic**: Landholders, employers, redistributors
+- **Economic**: Landholders, employers, redistributors [3]
 - **Architectural**: Monumental, symbolic, axial
 - **Functions**: Ritual, storage, administration, education
 - **Endowments**: Land, labor, tribute, trade
 
 ### Calendar & Festivals
-- **Standardized**: Agricultural, royal, cosmic cycles
+- **Standardized**: Agricultural, royal, cosmic cycles [4]
 - **Public**: Processions, sacrifices, feasts, games
 - **Political**: Coronation, victory, renewal, legitimacy
 
@@ -108,6 +109,7 @@ State religion transforms local, kin-based cults into a unified system that legi
 - [[SOCIAL_ORGANIZATION/Communal_Ritual_and_Monuments]] - Temple monuments
 - [[SOCIAL_ORGANIZATION/Ancestor_Veneration]] - Royal ancestors
 - [[SOCIAL_ORGANIZATION/Shamanism_and_Spirit_Mediation]] - Roots in shamanism
+
 
 ## Sources
 1. Frankfort, H. (1948). *Kingship and the Gods*. Chicago UP.

@@ -25,9 +25,10 @@ layout: null
 permalink: /wiki/CLOTHING/Fursuits.html
 ---
 
+
 # Fur Clothing (Fursuits)
 
-Fur clothing (fursuits) represents one of the earliest forms of human attire, providing essential insulation in cold climates. Made from animal hides and fur, these garments were critical for survival in northern environments and also served as trade goods and status symbols. While modern fursuits differ significantly from prehistoric fur clothing, the fundamental techniques of hide processing and garment construction have deep archaeological roots.
+Fur clothing (fursuits) represents one of the earliest forms of human attire, providing essential insulation in cold climates. Made from animal hides and fur, these garments were critical for survival in northern environments and also served as trade goods and status symbols. While modern fursuits differ significantly from prehistoric fur clothing, the fundamental techniques of hide processing and garment construction have deep archaeological roots. [1]
 
 
 ## Overview
@@ -35,7 +36,7 @@ Fur clothing (fursuits) represents one of the earliest forms of human attire, pr
 Fur clothing (fursuits) represents one of the earliest forms of human attire, providing essential insulation in cold climates. Made from animal hides and fur, these garments were critical for survival in northern environments and also served as trade goods and status symbols. While modern fursuits differ significantly from prehistoric fur clothing, the fundamental techniques of hide processing and garment construction have deep archaeological roots.
 ## History & Development
 
-- ~170,000 BP: Earliest inferred use of animal hides for body covering by archaic humans, based on cold-climate habitation patterns
+- ~170,000 BP: Earliest inferred use of animal hides for body covering by archaic humans, based on cold-climate habitation patterns [2]
 - ~50,000 BP: Bone needles discovered at Denisova Cave provide earliest direct evidence of sewn fur garments
 - Mesolithic (~10,000–5,000 BP): Diversification of fur processing techniques across northern Eurasia and Europe
 - Neolithic (~5,000–3,000 BP): Expansion of fur clothing production with domestication of animals such as reindeer
@@ -43,13 +44,13 @@ Fur clothing (fursuits) represents one of the earliest forms of human attire, pr
 
 ## Function & Use
 
-- **Primary Use:** Thermal insulation and protection from cold and wind in northern climates
+- **Primary Use:** Thermal insulation and protection from cold and wind in northern climates [3]
 - **Secondary Uses:** Trade goods, status symbols, ceremonial adornment, bedding, and shelter lining
 - **Cultural Significance:** Fur garments signified social status and wealth; specific furs reserved for elites or ritual use; fur played role in intergroup trade networks
 
 ## Construction & Technique
 
-- **Material sourcing:** Animal hides and fur obtained from hunting (reindeer, seal, fox, bear, rabbit, and other species)
+- **Material sourcing:** Animal hides and fur obtained from hunting (reindeer, seal, fox, bear, rabbit, and other species) [4]
 - **Hide processing:** Scraping and tanning to remove hair and soften hide; methods varied by culture
 - **Sewing:** Bone needles and sinew thread used; needle technology critical to garment construction
 - **Garment types:** Cloaks, robes, tunics, and trousers
@@ -68,6 +69,7 @@ Fur clothing (fursuits) represents one of the earliest forms of human attire, pr
 - [[CLOTHING/Woven-Textiles]]
 - [[Lithic_Technologies/Stone-Tools]]
 - [[MEDICINE/Traditional-Medicine]]
+
 ## Sources
 
 1. Higham, T. et al. (2016). "The earliest evidence for anatomically modern humans in northwestern Europe." *Nature*, 526(7575), 226–230.

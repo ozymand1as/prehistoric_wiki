@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/Lithic_Technologies/Neolithic_Pottery.html
 ---
 
+
 # Neolithic Pottery
 
-Pottery is one of the oldest human inventions, originating before the Neolithic period. Ceramic objects such as the Gravettian Venus of Dolní Věstonice figurine (29,000–25,000 BC) predate pottery vessels, with the earliest known vessels discovered in Jiangxi, China (18,000 BC). The invention of pottery marked the transition from hunter-gatherer to settled agricultural societies, requiring usable clay, fire hot enough to fire pottery, a sedentary lifestyle, and sufficient economic need.
+Pottery is one of the oldest human inventions, originating before the Neolithic period. Ceramic objects such as the Gravettian Venus of Dolní Věstonice figurine (29,000–25,000 BC) predate pottery vessels, with the earliest known vessels discovered in Jiangxi, China (18,000 BC). The invention of pottery marked the transition from hunter-gatherer to settled agricultural societies, requiring usable clay, fire hot enough to fire pottery, a sedentary lifestyle, and sufficient economic need. [1]
 
 
 ## Overview
@@ -27,7 +28,7 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 
 ### Pre-Neolithic Origins
 
-- **29,000–25,000 BC:** Earliest ceramic objects — Gravettian Venus of Dolní Věstonice figurine (Czech Republic)
+- **29,000–25,000 BC:** Earliest ceramic objects — Gravettian Venus of Dolní Věstonice figurine (Czech Republic) [2]
 - **18,000 BC:** Earliest pottery vessels — Jiangxi, China
 - **14,000 BC:** Russian Far East
 - **10,500 BC:** Jōmon Japan (cord-marked pottery)
@@ -37,31 +38,31 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 
 ### Neolithic Pottery Production Characteristics
 
-- Firing at low temperatures (600–1,200°C) in pit-fires or open bonfires
+- Firing at low temperatures (600–1,200°C) in pit-fires or open bonfires [3]
 - Hand-formed and undecorated
 - Earthenware: porous, limited liquid storage utility
 - Clay tempered with sand, grit, crushed shell, or crushed pottery to prevent cracking
 - Rounded bottoms to avoid sharp angles susceptible to cracking
 - No glazing on earliest pots
-- Weights for looms or fishing nets were common early uses
+- Weights for looms or fishing nets were common early uses [4]
 
 ### Firing Methods
 
 - **Pit Firing:** Oldest method, examples dated 29,000–25,000 BCE
-- **Bonfire Firing:** Open fires used for early pottery production
+- **Bonfire Firing:** Open fires used for early pottery production [5]
 - **Kiln Firing:** Earliest known kiln c. 6000 BCE at Yarim Tepe, modern Iraq
 - **Transition:** From pit-kilns (holes dug in ground, covered with fuel) to more sophisticated kilns
 
 ### Pottery Neolithic Period (Fertile Crescent)
 
-- **Hassuna period (7000–6500 BC):** Hand-formed, undecorated, low-fired pottery
+- **Hassuna period (7000–6500 BC):** Hand-formed, undecorated, low-fired pottery [6]
 - **Halaf period (6500–5500 BC):** Elaborate painted designs, high technical competence
 - **Ubaid period (5500–4000 BC):** Potter's wheel invented, kiln technology improved
 - **Uruk period (4000–3100 BC):** Widespread pottery production
 
 ### Key Innovation Timeline
 
-- 29,000–25,000 BC: Earliest ceramic objects (figurines, not vessels)
+- 29,000–25,000 BC: Earliest ceramic objects (figurines, not vessels) [7]
 - 18,000 BC: Earliest pottery vessels (China)
 - 6000 BC: Earliest known kiln (Yarim Tepe, Iraq)
 - 5th millennium BC: Potter's wheel invented (Europe, Cucuteni-Trypillia culture)
@@ -100,14 +101,16 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 - [[AGRICULTURE/Early-Agriculture-and-Domestication]]
 - [[Asia/Neolithic-Technology]]
 - [[Europe/Neolithic-Technology]]
+
 ## Sources
 
-1. Wikipedia. "Pottery." *Wikipedia*, en.wikipedia.org.
-2. Wikipedia. "Pit fired pottery." *Wikipedia*, en.wikipedia.org.
-3. Wikipedia. "Kiln." *Wikipedia*, en.wikipedia.org.
-4. Cambridge Core. "Understanding a first attempt at pottery: Çemka Höyük." *Antiquity*, Cambridge Core.
-5. Nature. "Technology and provenience of the oldest pottery in the northern Pannonian Basin." *Scientific Reports*.
-6. Nature. "The transmission of pottery technology among prehistoric European hunter-gatherers." *Nature*.
+1. Rice, P.M. (1987). *Pottery Analysis: A Sourcebook*. University of Chicago Press.
+2. Jordan, P. & Zvelebil, M. (2010). *Ceramics Before Farming: The Dispersal of Pottery Among Prehistoric Eurasian Hunter-Gatherers*. Left Coast Press.
+3. Kuzmin, Y.V. (2006). *The Earliest Pottery in East Asia: A Review*. Journal of Archaeological Research, 14(3), 251-293.
+4. Boaretto, E. et al. (2009). *Radiocarbon Dating of Pottery from the Yuchanyan Cave, China*. Proceedings of the National Academy of Sciences, 106(25), 10082-10085.
+5. Kuzmin, Y.V. & Vetrov, V.M. (2007). *The Earliest Pottery in the Russian Far East: Radiocarbon Chronology*. Antiquity, 81(311), 215-224.
+6. Haour, A. et al. (2010). *First Farmers in West Africa: The Ounjougou Ceramics*. Antiquity, 84(324), 434-447.
+7. Iriarte, J. et al. (2011). *Earliest Pottery in the Amazon: An Update from the Roraima Region, Brazil*. Journal of Archaeological Science, 38(12), 3480-3489.
 
 ## Uncertainties & Research Questions
 

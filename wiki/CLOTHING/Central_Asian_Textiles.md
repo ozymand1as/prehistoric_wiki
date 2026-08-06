@@ -16,9 +16,10 @@ layout: null
 permalink: /wiki/CLOTHING/Central_Asian_Textiles.html
 ---
 
+
 # Central Asian Textiles
 
-Central Asian textile traditions developed at the crossroads of steppe nomadism and oasis agriculture, producing distinctive felt, pile carpet, and woven traditions that influenced both East and West.
+Central Asian textile traditions developed at the crossroads of steppe nomadism and oasis agriculture, producing distinctive felt, pile carpet, and woven traditions that influenced both East and West. [1]
 
 ## Overview
 
@@ -27,13 +28,13 @@ The vast Central Asian region—from the Pontic-Caspian steppe to the Tarim Basi
 ## Steppe Traditions (Pontic-Caspian, 4,000–500 BCE)
 
 ### Felt Making (Primary Technology)
-- **Process**: Wool fibers matted by moisture, heat, pressure
+- **Process**: Wool fibers matted by moisture, heat, pressure [2]
 - **No loom needed**: Portable, ideal for nomads
 - **Products**: Yurt covers, clothing, saddle blankets, armor
 - **Botai** (3,500 BCE): Early horse domestication, likely felt
 
 ### Pile Carpet Weaving
-- **Pazyryk carpet** (4th c. BCE): Oldest known pile carpet
+- **Pazyryk carpet** (4th c. BCE): Oldest known pile carpet [3]
 - **Technique**: Symmetrical knots on warp threads
 - **Designs**: Animal style, geometric, rider scenes
 - **Spread**: Steppe → Near East → Europe
@@ -47,7 +48,7 @@ The vast Central Asian region—from the Pontic-Caspian steppe to the Tarim Basi
 ## Oxus Civilization / BMAC (2,300–1,700 BCE)
 
 ### Oasis Agriculture
-- **Cotton**: Early cultivation (Gossypium herbaceum)
+- **Cotton**: Early cultivation (Gossypium herbaceum) [4]
 - **Flax/Linen**: Local production
 - **Wool**: Sheep, goat
 
@@ -114,6 +115,7 @@ The vast Central Asian region—from the Pontic-Caspian steppe to the Tarim Basi
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Silk Road precursors
 - [[CLOTHING/Preserved_Textiles]] - Tarim, Pazyryk
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Chariots, bronze tools
+
 
 ## Sources
 1. Barber, E.J.W. (1999). *The Mummies of Ürümchi*. Norton.

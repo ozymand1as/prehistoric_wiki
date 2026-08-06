@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Marriage_and_Alliance.html
 ---
 
+
 # Marriage and Alliance
 
-Marriage is the primary mechanism for creating and maintaining social alliances between kin groups. It transforms strangers into kin, regulates reproduction, and structures economic and political relations.
+Marriage is the primary mechanism for creating and maintaining social alliances between kin groups. It transforms strangers into kin, regulates reproduction, and structures economic and political relations. [1]
 
 ## Overview
 
@@ -23,14 +24,14 @@ Marriage is not merely a reproductive union but a social contract between groups
 
 ### Bridewealth (Brideprice)
 - **Direction**: Groom's kin → Bride's kin
-- **Function**: Compensates loss of labor/reproductive capacity
+- **Function**: Compensates loss of labor/reproductive capacity [2]
 - **Valuables**: Livestock, metal, cloth, shells, cash
 - **Prevalence**: ~60% of societies (Africa, Oceania, parts of Asia)
 - **Effect**: Creates affinal debt, stabilizes marriage
 
 ### Dowry
 - **Direction**: Bride's kin → Groom/Brides kin
-- **Function**: Daughter's inheritance portion, pre-mortem inheritance
+- **Function**: Daughter's inheritance portion, pre-mortem inheritance [3]
 - **Valuables**: Land, jewelry, cash, household goods
 - **Prevalence**: Europe, India, China, Near East (historical)
 - **Effect**: Status competition, hypergamy
@@ -38,7 +39,7 @@ Marriage is not merely a reproductive union but a social contract between groups
 ### Bride Service
 - **Direction**: Groom → Bride's kin (labor)
 - **Duration**: Months to years
-- **Function**: Proves worth, compensates without wealth
+- **Function**: Proves worth, compensates without wealth [4]
 - **Prevalence**: Foragers, horticulturalists
 
 ### Gift Exchange
@@ -103,6 +104,7 @@ Marriage is not merely a reproductive union but a social contract between groups
 - [[SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity]] - Alliance transactions
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Marriage valuables
 - [[SOCIAL_ORGANIZATION/Household_and_Family]] - Domestic unit
+
 
 ## Sources
 1. Lévi-Strauss, C. (1949/1969). *The Elementary Structures of Kinship*. Beacon.

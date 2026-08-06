@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Tribal_Organization.html
 ---
 
+
 # Tribal Organization
 
-Tribal organization represents an intermediate stage between band society and chiefdom, characterized by larger populations, segmentary lineage systems, and achieved leadership (big men) rather than hereditary rank.
+Tribal organization represents an intermediate stage between band society and chiefdom, characterized by larger populations, segmentary lineage systems, and achieved leadership (big men) rather than hereditary rank. [1]
 
 ## Overview
 
@@ -38,13 +39,13 @@ Tribes emerge with the transition to food production (horticulture, pastoralism)
 - **Major segments**: Clans/phratries
 - **Minor segments**: Lineages
 - **Minimal segments**: Extended families
-- **Principle**: Complementary opposition (unite against outsiders)
+- **Principle**: Complementary opposition (unite against outsiders) [2]
 
 ### Age & Gender Organization
 - **Age sets/grades**: Cohorts with shared responsibilities
 - **Men's houses**: Ritual, political, social center
 - **Women's groups**: Economic, ritual, mutual aid
-- **Initiation**: Rites of passage, knowledge transmission
+- **Initiation**: Rites of passage, knowledge transmission [3]
 
 ### Sodalities (Cross-cutting Groups)
 - **Age grades**: Warrior, elder, ritual roles
@@ -113,6 +114,7 @@ Tribes emerge with the transition to food production (horticulture, pastoralism)
 - [[SOCIAL_ORGANIZATION/Big_Man_System]] - Leadership
 - [[SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity]] - Economy
 - [[SOCIAL_ORGANIZATION/Settlement_Patterns]] - Villages
+
 
 ## Sources
 1. Sahlins, M. (1968). *Tribesmen*. Prentice-Hall.

@@ -14,9 +14,10 @@ layout: null
 permalink: /wiki/HOUSING/Paleolithic_Open_Air_Shelters.html
 ---
 
+
 # Paleolithic Open Air Shelters
 
-Upper Paleolithic open-air shelters represent the mobile architectural response of modern humans to diverse environments. Unlike cave dwellings, these structures were built from scratch using local materials and could be transported or rapidly reconstructed.
+Upper Paleolithic open-air shelters represent the mobile architectural response of modern humans to diverse environments. Unlike cave dwellings, these structures were built from scratch using local materials and could be transported or rapidly reconstructed. [1]
 
 ## Overview
 
@@ -25,20 +26,20 @@ Open-air shelters include tents, lean-tos, windbreaks, and semi-subterranean hut
 ## Shelter Types
 
 ### Lean-To / Windbreak
-- **Structure**: Single sloping roof against ridge/log
+- **Structure**: Single sloping roof against ridge/log [2]
 - **Materials**: Poles, hides, brush, branches
 - **Orientation**: Back to prevailing wind
 - **Use**: Temporary, hunting camps
 
 ### Conical Tent (Tipi-like)
 - **Structure**: 3-4 poles, hide cover
-- **Materials**: Poles, reindeer/bison hides, sinew lashings
+- **Materials**: Poles, reindeer/bison hides, sinew lashings [3]
 - **Ventilation**: Smoke hole at apex
 - **Mobility**: High - poles and hides portable
 
 ### Dome Hut
 - **Structure**: Bent saplings, hide/bark cover
-- **Materials**: Flexible poles, hides, bark sheets
+- **Materials**: Flexible poles, hides, bark sheets [4]
 - **Shape**: Hemispherical, shed snow/wind
 - **Use**: Longer-term base camps
 
@@ -110,6 +111,7 @@ Open-air shelters include tents, lean-tos, windbreaks, and semi-subterranean hut
 - [[CLOTHING/Animal_Skins_and_Hides]] - Hide covers
 - [[CLOTHING/Paleolithic_Clothing]] - Complementary technology
 - [[SOCIAL_ORGANIZATION/Band_Society]] - Social unit
+
 
 ## Sources
 1. Soffer, O. (1985). *The Upper Paleolithic of the Central Russian Plain*. Academic Press.

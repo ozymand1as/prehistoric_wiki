@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/HOUSING/Rammed_Earth.html
 ---
 
+
 # Rammed Earth (Pisé)
 
-Rammed earth (pisé de terre) is a construction technique where damp soil is compacted in layers within removable formwork to create solid, monolithic walls. It is one of the most durable and widespread earth construction methods.
+Rammed earth (pisé de terre) is a construction technique where damp soil is compacted in layers within removable formwork to create solid, monolithic walls. It is one of the most durable and widespread earth construction methods. [1]
 
 ## Overview
 
@@ -52,12 +53,12 @@ Rammed earth has been used from Neolithic China to the Great Wall, North African
 
 ### China (5,000 BCE – Present)
 - **Neolithic**: Yangshao, Longshan foundations
-- **Great Wall**: Ming sections (rammed earth core)
+- **Great Wall**: Ming sections (rammed earth core) [2]
 - **Tulou** (Fujian): 3-5 story circular forts
 - **Modern**: Stabilized, seismic reinforcement
 
 ### North Africa
-- **Kasbahs** (Morocco, Algeria): Multi-story, decorative
+- **Kasbahs** (Morocco, Algeria): Multi-story, decorative [3]
 - **Ksour**: Fortified villages
 - **Decorative**: Geometric patterns in surface
 
@@ -67,7 +68,7 @@ Rammed earth has been used from Neolithic China to the Great Wall, North African
 - **Germany**: Lehmbau, 19th c. revival
 
 ### Americas
-- **Ancestral Pueblo**: Chaco Canyon core-and-veneer
+- **Ancestral Pueblo**: Chaco Canyon core-and-veneer [4]
 - **Spanish Colonial**: Southwest US missions
 - **Modern**: Southwest US, sustainable building
 
@@ -96,6 +97,7 @@ Rammed earth has been used from Neolithic China to the Great Wall, North African
 - [[HOUSING/Earth_Construction]] - Earth building family
 - [[HOUSING/Neolithic_Mudbrick_Houses]] - Related technique
 - [[HOUSING/Earth_Construction]] - Adobe, cob alternatives
+
 
 ## Sources
 1. Houben, H. & Guillaud, H. (1994). *Earth Construction*. CRATerre.

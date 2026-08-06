@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Big_Man_System.html
 ---
 
+
 # Big Man System
 
-The big man system is a form of leadership based on achieved status rather than heredity. Big men compete for influence through competitive generosity, creating a dynamic, unstable political landscape characteristic of many tribal societies.
+The big man system is a form of leadership based on achieved status rather than heredity. Big men compete for influence through competitive generosity, creating a dynamic, unstable political landscape characteristic of many tribal societies. [1]
 
 ## Overview
 
@@ -32,14 +33,14 @@ The big man is not a chief. He has no coercive authority, no office to inherit, 
 ## The Moka Cycle (Highlands PNG)
 
 ### Competitive Generosity
-1. **Receive**: Pigs, shells, labor from supporters
+1. **Receive**: Pigs, shells, labor from supporters [2]
 2. **Invest**: In pigs, gardens, trade
 3. **Host feast**: Distribute massively to rivals/allies
 4. **Obligate**: Recipients must reciprocate larger
 5. **Escalate**: Each moka larger than last
 
 ### Functions
-- **Redistribution**: Surplus → supporters → allies
+- **Redistribution**: Surplus → supporters → allies [3]
 - **Alliance**: Creates cross-group ties
 - **Status**: Validates big man's rank
 - **Integration**: Binds segments together
@@ -69,7 +70,7 @@ The big man is not a chief. He has no coercive authority, no office to inherit, 
 ### Polynesia
 - **Big men**: Pre-state precursors
 - **Chiefs**: Hereditary, sacred rank
-- **Transition**: Big man → chief with population growth
+- **Transition**: Big man → chief with population growth [4]
 
 ### Africa (East African pastoralists)
 - **Age-sets**: Complement big men
@@ -95,6 +96,7 @@ The big man is not a chief. He has no coercive authority, no office to inherit, 
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Contrast
 - [[SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity]] - Moka cycle
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Prestige goods
+
 
 ## Sources
 1. Sahlins, M. (1963). *Poor Man, Rich Man, Big Man, Chief*. Comparative Studies in Society and History.

@@ -12,9 +12,10 @@ layout: null
 permalink: /wiki/MEDICINE/Archaeosurgery.html
 ---
 
+
 # Archaeosurgery
 
-Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide.
+Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide. [1]
 
 
 ## Overview
@@ -22,7 +23,7 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 Archaeosurgery is the study of surgical practices in archaeological contexts, providing insight into prehistoric medical knowledge and beliefs. Trepanning (trepanation) is the oldest known surgical procedure, with evidence dating to 7,000–10,000 years ago and over 1,500 trephined skulls found worldwide.
 ## History & Development
 
-- Earliest evidence of trepanning dates to 7,000–10,000 years ago during the Neolithic period
+- Earliest evidence of trepanning dates to 7,000–10,000 years ago during the Neolithic period [2]
 - Over 1,500 trephined skulls have been recovered from sites across Europe, Asia, Africa, and the Americas
 - The practice persisted through the Bronze Age, Iron Age, and into historical periods in some regions
 - Surgical techniques evolved over time, with improved tools and methods increasing survival rates in later eras
@@ -53,6 +54,7 @@ Archaeosurgery is the study of surgical practices in archaeological contexts, pr
 - [[MEDICINE/Traditional-Medicine]]
 - [[Lithic_Technologies/Stone-Tools]]
 - [[Metallurgy/Bronze_Age_Metallurgy]]
+
 ## Sources
 
 1. [Author(s)] ([Year]). "[Title]." *[Journal/Publisher]*, *Volume*(Issue), pages.

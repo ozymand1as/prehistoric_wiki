@@ -17,9 +17,10 @@ layout: null
 permalink: /wiki/AGRICULTURE/Rice-Agriculture.html
 ---
 
+
 # Rice Agriculture
 
-Rice (Oryza sativa) is one of the world's most important staple crops, domesticated independently in China (O. sativa japonica) and India (O. sativa indica). Its cultivation shaped the demography, economy, and culture of monsoon Asia for millennia.
+Rice (Oryza sativa) is one of the world's most important staple crops, domesticated independently in China (O. sativa japonica) and India (O. sativa indica). Its cultivation shaped the demography, economy, and culture of monsoon Asia for millennia. [1]
 
 ## Overview
 
@@ -31,18 +32,18 @@ Rice agriculture represents one of humanity's most sophisticated agricultural ac
 
 #### China (Yangtze Valley) — Oryza sativa japonica
 - **Wild ancestor**: Oryza rufipogon
-- **Earliest evidence**: Shangshan culture (~9,000 BCE) — wild rice management
+- **Earliest evidence**: Shangshan culture (~9,000 BCE) — wild rice management [2]
 - **Domesticated rice**: Hemudu culture (~7,000–5,500 BCE) — morphological changes (non-shattering, larger grains)
 - **Key sites**: Shangshan, Hemudu, Tianluoshan, Liangzhu
 
 #### India (Ganges Valley) — Oryza sativa indica
-- **Wild ancestor**: Oryza rufipogon / Oryza nivara
+- **Wild ancestor**: Oryza rufipogon / Oryza nivara [3]
 - **Earliest evidence**: Lahuradewa (~7,000 BCE) — early cultivation
 - **Domesticated rice**: Mahagara, Koldihwa (~5,000–4,000 BCE)
 - **Key sites**: Lahuradewa, Mahagara, Koldihwa, Senuwar
 
 #### Southeast Asia — Possible third center
-- **Possibility**: Independent domestication or early introgression
+- **Possibility**: Independent domestication or early introgression [4]
 - **Sites**: Khok Phanom Di (Thailand), An Son (Vietnam) — ~4,000–3,000 BCE
 
 ### Domestication Syndrome (Morphological Changes)
@@ -163,6 +164,7 @@ Rice agriculture represents one of humanity's most sophisticated agricultural ac
 - [[SOCIAL_ORGANIZATION/Agriculture_and_Social_Complexity]] - Social impact
 - [[SOCIAL_ORGANIZATION/Sedentary_Villages]] - Village formation
 - [[HOUSING/East_Asian_Prehistoric_Housing]] - Paddy village architecture
+
 
 ## Sources
 1. Fuller, D.Q. et al. (2010). *Rice Domestication*. In *Archaeology of Asia*.

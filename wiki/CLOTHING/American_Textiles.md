@@ -18,9 +18,10 @@ layout: null
 permalink: /wiki/CLOTHING/American_Textiles.html
 ---
 
+
 # American Textiles
 
-The Americas developed independent textile traditions based on cotton, camelid fibers, and plant fibers, with no sheep, wool, flax, or silk before European contact. Andean and Mesoamerican traditions achieved exceptional technical and artistic sophistication.
+The Americas developed independent textile traditions based on cotton, camelid fibers, and plant fibers, with no sheep, wool, flax, or silk before European contact. Andean and Mesoamerican traditions achieved exceptional technical and artistic sophistication. [1]
 
 ## Overview
 
@@ -29,7 +30,7 @@ American textiles represent completely independent invention of spinning, weavin
 ## Mesoamerica (Maya, Aztec, etc.)
 
 ### Fibers
-- **Cotton** (Gossypium hirsutum): Primary fiber, domesticated ~4,000 BCE
+- **Cotton** (Gossypium hirsutum): Primary fiber, domesticated ~4,000 BCE [2]
 - **Agave fibers** (henequen, sisal): Coarse, ropes, nets
 - **Rabbit hair**: Woven with cotton for warmth
 - **Feathers**: Quetzal, macaw - elite garments
@@ -37,13 +38,13 @@ American textiles represent completely independent invention of spinning, weavin
 ### Technology
 - **Backstrap loom**: Universal, body-tensioned
 - **Spindle whorl**: Clay, stone (malacate)
-- **Natural dyes**: Cochineal (red), indigo (blue), purpura (purple), annatto (yellow)
+- **Natural dyes**: Cochineal (red), indigo (blue), purpura (purple), annatto (yellow) [3]
 
 ### Garments
 - **Huipil**: Women's blouse (woven, embroidered)
 - **Tilma**: Men's cloak (cotton, painted)
 - **Loincloth (maxtlatl)**: Men's basic garment
-- **Quechquemitl**: Women's poncho-like overgarment
+- **Quechquemitl**: Women's poncho-like overgarment [4]
 
 ### Aztec (Postclassic, 1325–1521 CE)
 - **Tribute textiles**: Standardized cloaks, warrior uniforms
@@ -126,6 +127,7 @@ American textiles represent completely independent invention of spinning, weavin
 - [[CLOTHING/Dyeing_and_Decoration]] - Cochineal, indigo
 - [[CLOTHING/Weaving]] - Double cloth, four-selvaged
 - [[SOCIAL_ORGANIZATION/Trade_Networks]] - Textile trade
+
 
 ## Sources
 1. Stone-Miller, R. (1994). *To Weave for the Sun*. Thames & Hudson.

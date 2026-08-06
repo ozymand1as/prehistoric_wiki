@@ -15,9 +15,10 @@ layout: null
 permalink: /wiki/AGRICULTURE/Maize-Agriculture.html
 ---
 
+
 # Maize Agriculture
 
-Maize (corn) is one of the most important domesticated crops in human history, originating from the wild grass teosinte in Mesoamerica approximately 10,000 years ago. It became a staple food across the Americas and, after 1492 CE, spread to Europe, Africa, and Asia, transforming global agriculture and diets.
+Maize (corn) is one of the most important domesticated crops in human history, originating from the wild grass teosinte in Mesoamerica approximately 10,000 years ago. It became a staple food across the Americas and, after 1492 CE, spread to Europe, Africa, and Asia, transforming global agriculture and diets. [1]
 
 
 ## Overview
@@ -25,7 +26,7 @@ Maize (corn) is one of the most important domesticated crops in human history, o
 Maize (corn) is one of the most important domesticated crops in human history, originating from the wild grass teosinte in Mesoamerica approximately 10,000 years ago. It became a staple food across the Americas and, after 1492 CE, spread to Europe, Africa, and Asia, transforming global agriculture and diets.
 ## History & Development
 
-- Maize domestication from teosinte began in Mesoamerica ~10,000 years ago
+- Maize domestication from teosinte began in Mesoamerica ~10,000 years ago [2]
 - Earliest archaeological evidence comes from Guilá Naquitz cave, Oaxca, Mexico (~4300 BCE)
 - Maize cultivation expanded across diverse climates in the Americas, with numerous varieties developed
 - It became a key factor in the development of complex societies, including the Olmec, Maya, and Aztec civilizations
@@ -56,6 +57,7 @@ Maize (corn) is one of the most important domesticated crops in human history, o
 - [[AGRICULTURE/Early-Agriculture-and-Domestication]]
 - [[AGRICULTURE/Crop-Domestication]]
 - [[Americas/Mesoamerican-Tech]]
+
 ## Sources
 
 1. Matsuoka, Y. et al. (2002). "A single domestication for maize shown by multilocus microsatellite genotyping." *Proceedings of the National Academy of Sciences*, 99(9), 6080–6084.

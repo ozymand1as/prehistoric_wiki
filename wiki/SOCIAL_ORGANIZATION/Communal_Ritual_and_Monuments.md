@@ -11,9 +11,10 @@ layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Communal_Ritual_and_Monuments.html
 ---
 
+
 # Communal Ritual and Monuments
 
-Communal ritual and monument building are among the most visible archaeological signatures of social integration. They mobilize labor, express shared identity, and materialize collective beliefs.
+Communal ritual and monument building are among the most visible archaeological signatures of social integration. They mobilize labor, express shared identity, and materialize collective beliefs. [1]
 
 ## Overview
 
@@ -65,13 +66,13 @@ Monument construction requires labor mobilization beyond the household, implying
 
 ### Feasting
 - **Scale**: Hundreds to thousands
-- **Evidence**: Massive faunal assemblages, oversized vessels
+- **Evidence**: Massive faunal assemblages, oversized vessels [2]
 - **Function**: Labor payment, alliance, status display
 
 ### Processions
 - **Routes**: Causeways, avenues, riverine
 - **Participants**: Elite, priests, populace
-- **Function**: Territorial claim, cosmic reenactment
+- **Function**: Territorial claim, cosmic reenactment [3]
 
 ### Sacrifice
 - **Animal**: Cattle, pigs, llamas
@@ -105,11 +106,12 @@ Monument construction requires labor mobilization beyond the household, implying
 | **Astronomy** | Alignment measurement |
 
 ## Cross-References
-- [[SOCIAL_ORGANIZATION/Ancestor_Veneration]] - Mortuary monuments
+- [[SOCIAL_ORGANIZATION/Ancestor_Veneration]] - Mortuary monuments [4]
 - [[SOCIAL_ORGANIZATION/State_Religion]] - State monuments
 - [[SOCIAL_ORGANIZATION/Labor_Organization]] - Labor mobilization
 - [[SOCIAL_ORGANIZATION/Chiefdom]] - Chiefdom monuments
 - [[HOUSING/Experimental_House_Reconstruction]] - Experimental labor data
+
 
 ## Sources
 1. Renfrew, C. (1973). *Monuments, Mobilisation and Social Organisation*. In *The Explanation of Culture Change*.

@@ -15,15 +15,16 @@ layout: null
 permalink: /wiki/MEDICINE/Traditional-Medicine.html
 ---
 
+
 # Traditional Medicine
 
-Traditional medicine encompasses the knowledge, skills, and practices based on indigenous theories and beliefs. It predates written history and was the primary form of medicine for most of human history, forming the foundation of healthcare across all cultures.
+Traditional medicine encompasses the knowledge, skills, and practices based on indigenous theories and beliefs. It predates written history and was the primary form of medicine for most of human history, forming the foundation of healthcare across all cultures. [1]
 
 ## Overview
 
 ## History & Development
 
-- Predates written history and represents the earliest form of medical practice
+- Predates written history and represents the earliest form of medical practice [2]
 - Knowledge was passed down orally through generations
 - Practiced by medicine men, shamans, and healers within communities
 - Often blended physical treatments with spiritual practices
@@ -56,6 +57,7 @@ Traditional medicine encompasses the knowledge, skills, and practices based on i
 - [[MEDICINE/Archaeosurgery]]
 - [[MEDICINE/Herbal-Medicine]]
 - [[MEDICINE/Traditional-Medicine-Prehistoric]]
+
 
 ## Sources
 

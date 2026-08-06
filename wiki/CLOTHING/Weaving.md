@@ -13,9 +13,10 @@ layout: null
 permalink: /wiki/CLOTHING/Weaving.html
 ---
 
+
 # Weaving
 
-Weaving is the interlacing of two sets of threads (warp and weft) at right angles to create fabric. It represents one of humanity's most transformative technologies, enabling the production of textiles for clothing, shelter, storage, and trade.
+Weaving is the interlacing of two sets of threads (warp and weft) at right angles to create fabric. It represents one of humanity's most transformative technologies, enabling the production of textiles for clothing, shelter, storage, and trade. [1]
 
 ## Overview
 
@@ -24,19 +25,19 @@ The invention of weaving transformed human societies by enabling the production 
 ## Loom Types
 
 ### Ground Loom (Earliest)
-- **Structure**: Warp threads staked horizontally to ground
+- **Structure**: Warp threads staked horizontally to ground [2]
 - **Region**: Near East, Egypt, North Africa
 - **Period**: Neolithic (~7,000 BCE)
 - **Limitations**: Fixed tension, limited width
 
 ### Warp-Weighted Loom (Neolithic Europe/Near East)
-- **Structure**: Vertical frame, warp weighted by clay/stone weights
+- **Structure**: Vertical frame, warp weighted by clay/stone weights [3]
 - **Advantages**: Portable, adjustable tension, unlimited length
 - **Archaeology**: Loom weights = primary evidence
 - **Period**: ~6,000 BCE – Medieval
 
 ### Vertical Two-Beam Loom (Near East/Egypt)
-- **Structure**: Two horizontal beams, tensioned warp
+- **Structure**: Two horizontal beams, tensioned warp [4]
 - **Advantages**: Faster weaving, consistent tension
 - **Period**: Bronze Age onward
 
@@ -113,6 +114,7 @@ The invention of weaving transformed human societies by enabling the production 
 - [[CLOTHING/Bronze_Age_Textiles]] - Palace production
 - [[SOCIAL_ORGANIZATION/Craft_Specialization]] - Workshop organization
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze tools for textile work
+
 
 ## Sources
 1. Barber, E.J.W. (1991). *Prehistoric Textiles*. Princeton University Press.
