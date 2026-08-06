@@ -62,6 +62,10 @@ Bronze was produced by smelting copper ore and alloying it with tin. Archaeologi
 4. Pigott, V.C. (1999). *The Archaeometallurgy of the Asian Old World*.
 5. Craddock, P.T. (1995). *Early Metal Mining and Production*. Edinburgh UP.
 
+### Wikipedia (for general reference)
+1. [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact routes and mechanisms of tin trade across the Bronze Age world remain debated

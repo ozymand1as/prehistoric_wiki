@@ -67,6 +67,10 @@ The Aztec civilization built the largest Mesoamerican city at Tenochtitlan and d
 5. Smith, M.E. (2005). *Aztec City-State Capitals*. University Press of Florida.
 6. Nichols, D.L. & Pool, C. (2006). *The Oxford Handbook of Mesoamerican Archaeology*. Oxford UP.
 
+### Wikipedia (for general reference)
+1. [Aztec](https://en.wikipedia.org/wiki/Aztec) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Degree to which Aztec metallurgy was independently developed vs. inherited

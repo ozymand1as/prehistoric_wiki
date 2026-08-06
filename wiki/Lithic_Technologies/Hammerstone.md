@@ -54,6 +54,10 @@ Hammerstones are naturally hard, rounded stones selected for their density and d
 1. Harmand, S. et al. (2015). "3.3-million-year-old stone tools from Lomekwi 3, West Lake Turkana, Kenya." *Nature*, 521(7552), 310–315.
 2. McBrearty, S. & Brooks, A.S. (2000). "The revolution that wasn't: a new interpretation of the origin of modern human behavior." *Journal of Human Evolution*, 39(5), 453–563.
 
+### Wikipedia (for general reference)
+1. [Hammerstone](https://en.wikipedia.org/wiki/Hammerstone) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - How early did soft-hammer percussion (using bone/antler) develop relative to hard-hammer techniques?

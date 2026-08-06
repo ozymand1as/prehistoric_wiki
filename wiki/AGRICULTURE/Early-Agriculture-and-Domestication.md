@@ -100,6 +100,11 @@ Göbekli Tepe (northern Mesopotamia, ~9,500–8,000 BP) is among the oldest know
 4. Fuller, D.Q. et al. (2014). *Convergent Evolution and Parallelism in Plant Domestication*. PNAS, 111(17), 6147-6152.
 5. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W.W. Norton.
 
+### Wikipedia (for general reference)
+1. [Agriculture](https://en.wikipedia.org/wiki/Agriculture) — Wikipedia
+2. [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact nature of many prehistoric agricultural techniques remains unknown due to lack of preservation

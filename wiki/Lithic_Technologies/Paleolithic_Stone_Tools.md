@@ -82,6 +82,11 @@ Paleolithic stone tools represent the earliest technological innovations in huma
 5. McPherron, S.P. et al. (2010). *Evidence for Stone-Tool-Assisted Consumption of Animal Tissues Before 3.39 Million Years Ago at Dikika, Ethiopia*. Nature, 466(7308), 857-860.
 6. Roche, H. et al. (1999). *The Oldowan Industry at Kada Gona, Ethiopia*. Journal of Human Evolution, 36(2), 133-154.
 
+### Wikipedia (for general reference)
+1. [Paleolithic](https://en.wikipedia.org/wiki/Paleolithic) — Wikipedia
+2. [Lithic technology](https://en.wikipedia.org/wiki/Lithic_technology) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - [[Open Questions]/[Stone-Tools]]

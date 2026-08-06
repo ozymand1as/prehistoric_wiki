@@ -84,6 +84,11 @@ Mesoamerican technological traditions encompass the innovations of the major civ
 8. Hosler, D. et al. (1995). *The Origins of Metallurgy in Mesoamerica*. Journal of Archaeological Science, 21(3), 319-336.
 8. Sheets, P. & Muto, G. (2000). *Obsidian Source and Trade Data*. In *The Oxford Handbook of Mesoamerican Archaeology*. Oxford UP.
 
+### Wikipedia (for general reference)
+1. [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica) — Wikipedia
+2. [Mesoamerican chronology](https://en.wikipedia.org/wiki/Mesoamerican_chronology) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Exact diffusion route of metallurgy into West Mexico (maritime vs. overland)

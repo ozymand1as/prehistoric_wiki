@@ -52,6 +52,11 @@ Choppers are made by striking one face of a cobble with a hammerstone to create 
 1. Leakey, L.S.B. (1971). "Olduvai Gorge: Excavations in Beds I–II, 1960–1963." *Cambridge University Press*.
 2. Semaw, S. (2000). "The World's Oldest Stone Artefacts from Gona, Ethiopia." *Nature*, 404(6777), 475–478.
 
+### Wikipedia (for general reference)
+1. [Chopper (tool)](https://en.wikipedia.org/wiki/Chopper_(tool)) — Wikipedia
+2. [Oldowan](https://en.wikipedia.org/wiki/Oldowan) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Whether choppers represent a single technological tradition or multiple independent innovations

@@ -57,6 +57,11 @@ Acheulean hand axes were produced by bifacial knapping, striking stone cores on 
 4. Klein, R.G. (1999). *The Human Career*. University of Chicago Press.
 5. Mitrovic, M. (1987). *The Lower Paleolithic of the Balkans*. In *L'Anthropologie*, 91(4), pp. 635-674.
 
+### Wikipedia (for general reference)
+1. [Hand axe](https://en.wikipedia.org/wiki/Hand_axe) — Wikipedia
+2. [Acheulean](https://en.wikipedia.org/wiki/Acheulean) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - How exactly did hafting techniques develop independently across different regions?

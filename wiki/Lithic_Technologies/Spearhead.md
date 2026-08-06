@@ -67,6 +67,11 @@ The choice of material and attachment method depended on available resources, in
 3. Marean, C.W. et al. (2007). "Early human use of marine resources and pigment in South Africa during the Middle Pleistocene." *Nature*, 449(7164), 905–908.
 4. Milks, A. et al. (2019). "External ballistics of spear-throwing and the origin of hunting technology." *Scientific Reports*, 9(1), 1–10.
 
+### Wikipedia (for general reference)
+1. [Projectile point](https://en.wikipedia.org/wiki/Projectile_point) — Wikipedia
+2. [Spear](https://en.wikipedia.org/wiki/Spear) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - How were the earliest stone points at Kathu Pan attached to spears, and what were the specific hunting strategies employed?

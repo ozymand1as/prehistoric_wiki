@@ -62,6 +62,10 @@ The Olmec civilization was the earliest complex society in Mesoamerica, pioneeri
 4. Ortíz, A. & Rodríguez, M. (1994). *Olmec Art at Dumbarton Oaks*. Dumbarton Oaks.
 5. Pool, C. (2007). *Olmec Archaeology and Early Mesoamerica*. Cambridge UP.
 
+### Wikipedia (for general reference)
+1. [Olmec](https://en.wikipedia.org/wiki/Olmec) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Exact mechanisms of Olmec influence on subsequent Mesoamerican civilizations

@@ -141,6 +141,11 @@ Large-scale ceremonial architecture, writing, cities, and states developed: [3]
 4. Henderson, J.S. (2009). *The World of the Ancient Maya* (2nd ed.). Cornell UP.
 5. Clark, J.E. & Cheetham, D. (2002). *Mesoamerica's Tribal Foundations*. In *Archaeology of Tribal Societies*. Eisenbrauns.
 
+### Wikipedia (for general reference)
+1. [Mesoamerica](https://en.wikipedia.org/wiki/Mesoamerica) — Wikipedia
+2. [Mesoamerican chronology](https://en.wikipedia.org/wiki/Mesoamerican_chronology) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Exact transition point between Lithic and Archaic periods uncertain

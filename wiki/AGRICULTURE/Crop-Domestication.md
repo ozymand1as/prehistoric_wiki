@@ -122,6 +122,12 @@ Domestication was a slow process preceded by centuries/millennia of pre-domestic
 4. Fuller, D.Q. et al. (2014). *Convergent Evolution and Parallelism in Plant Domestication*. PNAS, 111(17), 6147-6152.
 5. Diamond, J. (1997). *Guns, Germs, and Steel: The Fates of Human Societies*. W.W. Norton.
 
+### Wikipedia (for general reference)
+1. [Agriculture](https://en.wikipedia.org/wiki/Agriculture) — Wikipedia
+2. [Neolithic Revolution](https://en.wikipedia.org/wiki/Neolithic_Revolution) — Wikipedia
+3. [Domestication](https://en.wikipedia.org/wiki/Domestication) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Reasons why human populations adopted agriculture roughly 12,000 years ago remain "imperfectly understood"

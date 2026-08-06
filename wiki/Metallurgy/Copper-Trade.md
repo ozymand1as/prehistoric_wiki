@@ -65,6 +65,11 @@ Copper was traded as ingots, raw material, and finished goods. Ingots were cast 
 4. Gale, N.H. & Stos-Gale, Z.A. (1982). *Copper and Bronze in the Aegean*. In *Archaeology and Archaeometry*. Oxford.
 5. Budd, P. et al. (1995). *Copper and Tin Sources in the Bronze Age*. In *Archaeometry*, 37(1), 1-17.
 
+### Wikipedia (for general reference)
+1. [Tin](https://en.wikipedia.org/wiki/Tin) — Wikipedia
+2. [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Exact scale and volume of tin trade from Cornwall to the Mediterranean remain debated

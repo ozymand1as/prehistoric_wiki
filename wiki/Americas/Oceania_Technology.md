@@ -81,6 +81,12 @@ Oceania technologies represent the technological development of indigenous peopl
 4. Irwin, G. (1992). *The Prehistoric Exploration and Colonisation of the Pacific*. Cambridge UP.
 5. Anderson, A. (2010). *The Rat and the Octopus: Initial Human Colonisation and the Distribution of the Pacific Rat (Rattus exulans) in the Pacific*. In *Pacific Archaeology*.
 
+### Wikipedia (for general reference)
+1. [Melanesians](https://en.wikipedia.org/wiki/Melanesians) — Wikipedia
+2. [Austronesian peoples](https://en.wikipedia.org/wiki/Austronesian_peoples) — Wikipedia
+3. [Polynesian navigation](https://en.wikipedia.org/wiki/Polynesian_navigation) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - [[Open Questions]/[Oceania-Technology]]

@@ -73,6 +73,10 @@ The Maya developed the most sophisticated writing system and astronomical knowle
 5. Lucero, L.J. (2006). *Water and Ritual: The Rise and Fall of Classic Maya Rulers*. University of Texas Press.
 6. Inomata, T. & Triadan, D. (2014). *Emergence of Lowland Maya Civilization*. In *The Oxford Handbook of Mesoamerican Archaeology*. Oxford UP.
 
+### Wikipedia (for general reference)
+1. [Maya civilization](https://en.wikipedia.org/wiki/Maya_civilization) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Exact mechanisms of Maya astronomical knowledge development and transmission

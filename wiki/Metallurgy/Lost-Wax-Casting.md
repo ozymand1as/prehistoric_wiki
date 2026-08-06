@@ -74,6 +74,10 @@ The technique begins with a wax model shaped to the desired form. The wax model 
 5. Bagley, R. (1987). *Shang Ritual Bronzes*. In *The Cambridge History of Ancient China*. Cambridge UP.
 6. Hosler, D. (1994). *The Sounds and Colors of Power*. MIT Press.
 
+### Wikipedia (for general reference)
+1. [Lost-wax casting](https://en.wikipedia.org/wiki/Lost-wax_casting) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact chronological sequence of lost-wax development across independent civilizations remains debated

@@ -76,6 +76,11 @@ The smelting process proceeds through several stages: Concentration → Roasting
 6. Pernicka, E. et al. (1993). *Prehistoric Copper Production in the Inn Valley (Austria)*. In *Archaeometry*, 35(2), 225-252.
 7. Rehren, T. et al. (2012). *Late Bronze Age Glass Production at Qantir-Piramesses, Egypt*. In *Journal of Archaeological Science*, 39(11), 3431-3441.
 
+### Wikipedia (for general reference)
+1. [Smelting](https://en.wikipedia.org/wiki/Smelting) — Wikipedia
+2. [Copper](https://en.wikipedia.org/wiki/Copper) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact nature of many prehistoric smelting techniques remains unknown due to lack of preservation

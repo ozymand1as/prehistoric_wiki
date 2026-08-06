@@ -74,6 +74,11 @@ The choice of material and technique depends on the desired tool form, the raw m
 8. McBrearty, S. & Brooks, A.S. (2000). *The revolution that wasn't: a new interpretation of the origin of modern human behavior*. Journal of Human Evolution, 39(5), 453–563.
 9. Henshilwood, C.S. et al. (2002). *Emergence of modern human behavior: Middle Stone Age engravings from South Africa*. Science, 295(5558), 1278–1280.
 
+### Wikipedia (for general reference)
+1. [Stone tool](https://en.wikipedia.org/wiki/Stone_tool) — Wikipedia
+2. [Lithic technology](https://en.wikipedia.org/wiki/Lithic_technology) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - When and where did the earliest stone tool production originate, and was it a single innovation or multiple independent inventions?

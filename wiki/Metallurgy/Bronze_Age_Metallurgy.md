@@ -87,6 +87,11 @@ Bronze Age metallurgy represents a fundamental technological revolution in human
 6. Pernicka, E. (2014). *Tin in the Ancient Near East*. In *Archaeometallurgy in Global Perspective*. Springer.
 7. McKerrell, H. & Tylecote, R.F. (1972). *The Working of Copper Alloys in Prehistoric Times*. In *Proceedings of the Prehistoric Society*, 38, 209-218.
 
+### Wikipedia (for general reference)
+1. [Bronze Age](https://en.wikipedia.org/wiki/Bronze_Age) — Wikipedia
+2. [Bronze](https://en.wikipedia.org/wiki/Bronze) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - [[Open Questions]/[Bronze-Metallurgy]]

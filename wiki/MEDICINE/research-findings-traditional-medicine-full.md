@@ -81,6 +81,11 @@ Traditional medicine encompasses the knowledge, practices, and treatments develo
 5. Samorini, G. (2019). *The oldest archeological data evidencing the relationship of Homo sapiens with psychoactive plants: A worldwide overview*. Journal of Psychedelic Studies, 3(2), 63–80.
 6. Pormann, P.E. & Savage-Smith, E. (2007). *Medieval Islamic Medicine*. Georgetown University Press.
 
+### Wikipedia (for general reference)
+1. [Traditional medicine](https://en.wikipedia.org/wiki/Traditional_medicine) — Wikipedia
+2. [Prehistoric medicine](https://en.wikipedia.org/wiki/Prehistoric_medicine) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact nature of many prehistoric medicines remains unknown due to lack of preservation

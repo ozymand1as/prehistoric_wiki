@@ -63,6 +63,11 @@ Choppers are produced by striking one face of a river cobble or large core with 
 5. Wenban-Smith, F. & Pope, M. (2005). "Early Palaeolithic Settlement in Britain." In: *The Ancient Human Occupation of Britain*, Springer, pp. 111–144.
 6. Sangiran Committee & Jacob, T. (1973). "Geological and Archaeological Investigations in Sangiran, Central Java, Indonesia." *Nature*, 242(5395), 226–229.
 
+### Wikipedia (for general reference)
+1. [Oldowan](https://en.wikipedia.org/wiki/Oldowan) — Wikipedia
+2. [Acheulean](https://en.wikipedia.org/wiki/Acheulean) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Whether regional chopper traditions represent independent innovations or diffusion from a single origin

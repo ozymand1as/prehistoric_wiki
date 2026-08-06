@@ -69,6 +69,11 @@ The study of prehistoric medicine relies heavily on artifacts, human remains, mu
 4. Kelly, N., Rees, B., & Shuter, P. (2003). *Medicine Through Time*. Heinemann.
 5. Samorini, G. (2019). *The oldest archeological data evidencing the relationship of Homo sapiens with psychoactive plants: A worldwide overview*. Journal of Psychedelic Studies, 3(2), 63–80.
 
+### Wikipedia (for general reference)
+1. [Prehistoric medicine](https://en.wikipedia.org/wiki/Prehistoric_medicine) — Wikipedia
+2. [Traditional medicine](https://en.wikipedia.org/wiki/Traditional_medicine) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - The exact nature of many prehistoric medicines remains unknown due to lack of preservation

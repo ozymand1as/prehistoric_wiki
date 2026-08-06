@@ -112,6 +112,12 @@ Pottery is one of the oldest human inventions, originating before the Neolithic 
 6. Haour, A. et al. (2010). *First Farmers in West Africa: The Ounjougou Ceramics*. Antiquity, 84(324), 434-447.
 7. Iriarte, J. et al. (2011). *Earliest Pottery in the Amazon: An Update from the Roraima Region, Brazil*. Journal of Archaeological Science, 38(12), 3480-3489.
 
+### Wikipedia (for general reference)
+1. [Pottery](https://en.wikipedia.org/wiki/Pottery) — Wikipedia
+2. [Pit fired pottery](https://en.wikipedia.org/wiki/Pit_fired_pottery) — Wikipedia
+3. [Kiln](https://en.wikipedia.org/wiki/Kiln) — Wikipedia
+
+
 ## Uncertainties & Research Questions
 
 - Firing procedures for certain cultures, specifically the Late Neolithic Vinča, remain largely unknown and are currently being reconstructed through experimental archaeology
