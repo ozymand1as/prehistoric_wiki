@@ -24,9 +24,9 @@ This navigation guide provides structured pathways through the wiki, helping use
 
 - **Lithic Technologies**
   - [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic_Technologies/Paleolithic_Stone_Tools.html)
-  - [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Stone_Age_Choppers.html)
+  - [Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Choppers.html)
   - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
-  - [Pottery Techniques](/prehistoric_wiki/wiki/Lithic_Technologies/Pottery-Techniques.html)
+  - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
 
 **Related Technologies:**
 - [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html) - Neolithic context
@@ -52,7 +52,7 @@ This navigation guide provides structured pathways through the wiki, helping use
   - [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
 
 **Related Technologies:**
-- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Stone_Age_Choppers.html) - Pre-metal tools
+- [Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Choppers.html) - Pre-metal tools
 - [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html) - Maritime trade
 - [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html) - Metalworking traditions
 
@@ -65,7 +65,7 @@ This navigation guide provides structured pathways through the wiki, helping use
   - [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
 
 **Related Technologies:**
-- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic_Technologies/Pottery-Techniques.html) - Lapita pottery
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html) - Lapita pottery
 - [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html) - Maritime trade networks
 
 ---
@@ -90,7 +90,7 @@ This navigation guide provides structured pathways through the wiki, helping use
   - **Lower Paleolithic (3.3m - 300k BCE)**
     - [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic_Technologies/Paleolithic_Stone_Tools.html)
   - **Middle/Late Paleolithic (300k - 12k BCE)**
-    - [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Stone_Age_Choppers.html)
+    - [Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Choppers.html)
   - **Epipalaeolithic (12k - 10k BCE)**
     - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
 
@@ -106,7 +106,7 @@ This navigation guide provides structured pathways through the wiki, helping use
     - [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
   - **Pottery**
     - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
-    - [Pottery Techniques](/prehistoric_wiki/wiki/Lithic_Technologies/Pottery-Techniques.html)
+    - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
   - **Settled Societies**
     - [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
 
@@ -177,9 +177,9 @@ This navigation guide provides structured pathways through the wiki, helping use
 
 ### Stone Tools
 - [Paleolithic Stone Tools](/prehistoric_wiki/wiki/Lithic_Technologies/Paleolithic_Stone_Tools.html)
-- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Stone_Age_Choppers.html)
+- [Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Choppers.html)
 - [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
-- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic_Technologies/Pottery-Techniques.html)
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
 
 ### Agriculture
 - [Crop Domestication](/prehistoric_wiki/wiki/AGRICULTURE/Crop-Domestication.html)
@@ -189,7 +189,7 @@ This navigation guide provides structured pathways through the wiki, helping use
 ### Oceania
 - [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
 - [Oceania Technology](/prehistoric_wiki/wiki/Americas/Oceania_Technology.html)
-- [Pottery Techniques](/prehistoric_wiki/wiki/Lithic_Technologies/Pottery-Techniques.html)
+- [Neolithic Pottery](/prehistoric_wiki/wiki/Lithic_Technologies/Neolithic_Pottery.html)
 
 ### Americas
 - [Mesoamerican Tech](/prehistoric_wiki/wiki/Americas/Mesoamerican-Tech.html)
@@ -198,7 +198,7 @@ This navigation guide provides structured pathways through the wiki, helping use
 
 ### Metallurgy
 - [Bronze Age Metallurgy](/prehistoric_wiki/wiki/Metallurgy/Bronze_Age_Metallurgy.html)
-- [Stone Age Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Stone_Age_Choppers.html)
+- [Choppers](/prehistoric_wiki/wiki/Lithic_Technologies/Choppers.html)
 - [Polynesian Navigation](/prehistoric_wiki/wiki/Oceania/Polynesian-Navigation.html)
 
 ---
