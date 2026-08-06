@@ -1,27 +1,28 @@
 ---
-title: "Fur Clothing (Fursuits)"
-category: "Clothing"
+title: Fur Clothing (Fursuits)
+category: Clothing
 period:
-  - "Paleolithic"
-  - "Mesolithic"
-  - "Neolithic"
+- Paleolithic
+- Mesolithic
+- Neolithic
 region:
-  - "Arctic"
-  - "Northern Europe"
-  - "Siberia"
+- Arctic
+- Northern Europe
+- Siberia
 cultures:
-  - "Denisovan"
-  - "Inuit"
-  - "Yupik"
-  - "Northern European hunter-gatherers"
-  - "Siberian peoples"
-time_range: "~170,000 BP – present (prehistoric use from ~50,000 BP)"
-confidence: "high"
+- Denisovan
+- Inuit
+- Yupik
+- Northern European hunter-gatherers
+- Siberian peoples
+time_range: "~170,000 BP \u2013 present (prehistoric use from ~50,000 BP)"
+confidence: high
 evidence_type:
-  - "Material"
-  - "Ethnographic"
-  - "Inferred"
+- Material
+- Ethnographic
+- Inferred
 layout: null
+permalink: /wiki/CLOTHING/Fursuits.html
 ---
 
 # Fur Clothing (Fursuits)

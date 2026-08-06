@@ -1,14 +1,15 @@
 ---
-title: "Archaeosurgery"
-category: "Medicine"
-period: "Prehistoric"
-region: "Worldwide"
+title: Archaeosurgery
+category: Medicine
+period: Prehistoric
+region: Worldwide
 cultures:
-  - "Various prehistoric cultures"
-time_range: "~7,000–10,000 years ago (earliest evidence)"
-confidence: "high"
-evidence_type: "Material"
+- Various prehistoric cultures
+time_range: "~7,000\u201310,000 years ago (earliest evidence)"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/MEDICINE/Archaeosurgery.html
 ---
 
 # Archaeosurgery

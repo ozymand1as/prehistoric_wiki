@@ -1,23 +1,24 @@
 ---
-title: "Traditional Medicine / Research Findings (Full)"
-category: "Medicine"
-period: "Prehistoric to Historic"
-region: "Global"
+title: Traditional Medicine / Research Findings (Full)
+category: Medicine
+period: Prehistoric to Historic
+region: Global
 cultures:
-  - "Sumerian"
-  - "Egyptian"
-  - "Indian"
-  - "Chinese"
-  - "Greek"
-  - "Roman"
-  - "Indigenous"
-time_range: "60,000 BCE - 1,000 CE"
-confidence: "medium-high"
+- Sumerian
+- Egyptian
+- Indian
+- Chinese
+- Greek
+- Roman
+- Indigenous
+time_range: 60,000 BCE - 1,000 CE
+confidence: medium-high
 evidence_type:
-  - "Material"
-  - "Written"
-  - "Ethnographic"
+- Material
+- Written
+- Ethnographic
 layout: null
+permalink: /wiki/MEDICINE/research-findings-traditional-medicine-full.html
 ---
 
 # Traditional Medicine / Research Findings (Full)
@@ -65,9 +66,9 @@ Traditional medicine encompasses the knowledge, practices, and treatments develo
 
 ## Related Technologies
 
-- [[Medicine/Traditional-Medicine]]
-- [[Medicine/Archaeosurgery]]
-- [[Medicine/Herbal-Medicine]]
+- [[MEDICINE/Traditional-Medicine]]
+- [[MEDICINE/Archaeosurgery]]
+- [[MEDICINE/Herbal-Medicine]]
 
 ## Sources
 

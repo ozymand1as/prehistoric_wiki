@@ -1,14 +1,15 @@
 ---
-title: "Aztec Technology"
-category: "Regional-Mesoamerican"
-period: "Mesoamerican (Postclassic)"
-region: "Central Mexico (Valley of Mexico)"
+title: Aztec Technology
+category: Regional-Mesoamerican
+period: Mesoamerican (Postclassic)
+region: Central Mexico (Valley of Mexico)
 cultures:
-  - "Aztec (Mexica)"
-time_range: "1325–1521 AD"
-confidence: "high"
-evidence_type: "Material"
+- Aztec (Mexica)
+time_range: "1325\u20131521 AD"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/REGIONAL-MESOAMERICAN/Aztec-Technology.html
 ---
 
 # Aztec Technology

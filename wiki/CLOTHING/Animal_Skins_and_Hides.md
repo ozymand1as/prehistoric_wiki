@@ -1,12 +1,12 @@
 ---
-title: "Animal Skins and Hides"
-category: "Clothing Technologies"
-period: "Paleolithic to Present"
-region: "Global"
+title: Animal Skins and Hides
+category: Clothing Technologies
+period: Paleolithic to Present
+region: Global
 cultures: []
-time_range: "~120,000 years ago to present"
-confidence: "high"
-evidence_type: "archaeological, ethnographic, experimental"
+time_range: ~120,000 years ago to present
+confidence: high
+evidence_type: archaeological, ethnographic, experimental
 layout: null
 permalink: /wiki/CLOTHING/Animal_Skins_and_Hides.html
 ---

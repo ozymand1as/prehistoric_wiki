@@ -1,4 +1,12 @@
 ---
+title: "Regional - Mesoamerican"
+category: "Regional - Mesoamerican"
+period: "Preclassic to Postclassic"
+region: "Mesoamerica"
+cultures: []
+time_range: "~2000 BCE – 1521 CE"
+confidence: "high"
+evidence_type: "archaeological, ethnographic, historical, epigraphic"
 layout: null
 permalink: /wiki/REGIONAL-MESOAMERICAN/index.html
 ---

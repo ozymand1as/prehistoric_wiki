@@ -1,17 +1,18 @@
 ---
-title: "Paleolithic Stone Tools"
-category: "Lithic Technologies"
-period: "Paleolithic"
-region: "Global"
+title: Paleolithic Stone Tools
+category: Lithic Technologies
+period: Paleolithic
+region: Global
 cultures:
-  - "Oldowan"
-  - "Acheulean"
-  - "Mousterian"
-  - "Magdalenian"
-time_range: "3.3 million years ago – 12,000 BCE"
-confidence: "high"
-evidence_type: "material"
+- Oldowan
+- Acheulean
+- Mousterian
+- Magdalenian
+time_range: "3.3 million years ago \u2013 12,000 BCE"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Paleolithic_Stone_Tools.html
 ---
 
 # Paleolithic Stone Tools

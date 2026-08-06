@@ -1,17 +1,18 @@
 ---
-title: "Tuber Agriculture"
-category: "Agriculture"
-period: "Neolithic"
-region: "South America, West Africa, Central America"
+title: Tuber Agriculture
+category: Agriculture
+period: Neolithic
+region: South America, West Africa, Central America
 cultures:
-  - "Inca"
-  - "Andean peoples"
-  - "West African peoples"
-  - "Mesoamerican peoples"
-time_range: "10,000–5,000 years ago"
-confidence: "high"
-evidence_type: "material"
+- Inca
+- Andean peoples
+- West African peoples
+- Mesoamerican peoples
+time_range: "10,000\u20135,000 years ago"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/AGRICULTURE/Tuber-Agriculture.html
 ---
 
 # Tuber Agriculture
@@ -51,7 +52,7 @@ Tuber cultivation involved land clearing, planting of tuber pieces or cuttings, 
 - [[Lithic_Technologies/Stone-Tools]]
 - [[AGRICULTURE/Early-Agriculture-and-Domestication]]
 - [[AGRICULTURE/Crop-Domestication]]
-- [[ASIA/Neolithic-Technology]]
+- [[Asia/Neolithic-Technology]]
 ## Sources
 
 1. Researchers (2023). "Tuber crop domestication and dispersal." *Journal of Archaeological Science*, 148, 105–120.

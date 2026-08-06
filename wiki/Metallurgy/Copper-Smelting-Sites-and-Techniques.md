@@ -1,14 +1,15 @@
 ---
-title: "Copper Smelting Sites and Techniques"
-category: "Metallurgy"
-period: "Copper Age - Bronze Age"
-region: "Global"
+title: Copper Smelting Sites and Techniques
+category: Metallurgy
+period: Copper Age - Bronze Age
+region: Global
 cultures:
-  - "Various ancient cultures"
-time_range: "8700 BC – Present"
-confidence: "high"
-evidence_type: "material"
+- Various ancient cultures
+time_range: "8700 BC \u2013 Present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Metallurgy/Copper-Smelting-Sites-and-Techniques.html
 ---
 
 # Copper Smelting Sites and Techniques

@@ -1,21 +1,22 @@
 ---
-title: "Oceania Technologies"
-category: "Americas"
+title: Oceania Technologies
+category: Americas
 period:
-  - "Stone Age"
-  - "Bronze Age"
+- Stone Age
+- Bronze Age
 region:
-  - "Melanesia"
-  - "Polynesia"
-  - "Australasia"
+- Melanesia
+- Polynesia
+- Australasia
 cultures:
-  - "Melanesians"
-  - "Austronesian peoples"
-  - "Polynesian navigators"
-time_range: "50,000 years ago to contact (varies by region)"
-confidence: "medium"
-evidence_type: "Ethnographic"
+- Melanesians
+- Austronesian peoples
+- Polynesian navigators
+time_range: 50,000 years ago to contact (varies by region)
+confidence: medium
+evidence_type: Ethnographic
 layout: null
+permalink: /wiki/Americas/Oceania_Technology.html
 ---
 
 # Oceania Technologies
@@ -69,7 +70,7 @@ Oceania technologies represent the technological development of indigenous peopl
 ## Related Technologies
 - [[Lithic_Technologies/Paleolithic_Stone_Tools]]
 - [[Oceania/Polynesian-Navigation]]
-- [[CLOTHING/Bark-Cloth]]
+- [[CLOTHING/Bark_Cloth]]
 ## Sources
 
 1. Melanesians - Wikipedia

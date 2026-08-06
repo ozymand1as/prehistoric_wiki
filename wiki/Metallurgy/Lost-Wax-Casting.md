@@ -1,20 +1,22 @@
 ---
-title: "Lost-Wax Casting"
-category: "Metallurgy"
-period: "Ancient - Modern"
-region: "Middle East, Indus Valley, Mesopotamia, Egypt, Greece, Rome, India, China, Mesoamerica"
+title: Lost-Wax Casting
+category: Metallurgy
+period: Ancient - Modern
+region: Middle East, Indus Valley, Mesopotamia, Egypt, Greece, Rome, India, China,
+  Mesoamerica
 cultures:
-  - "Mesopotamian"
-  - "Egyptian"
-  - "Greek"
-  - "Roman"
-  - "Indus Valley"
-  - "Chinese"
-  - "Mesoamerican"
-time_range: "4500 BCE – present"
-confidence: "high"
-evidence_type: "material"
+- Mesopotamian
+- Egyptian
+- Greek
+- Roman
+- Indus Valley
+- Chinese
+- Mesoamerican
+time_range: "4500 BCE \u2013 present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Metallurgy/Lost-Wax-Casting.html
 ---
 
 # Lost-Wax Casting

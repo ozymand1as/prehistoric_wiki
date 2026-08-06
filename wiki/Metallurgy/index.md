@@ -1,4 +1,12 @@
 ---
+title: "Metallurgy"
+category: "Metallurgy"
+period: "Chalcolithic to Bronze Age"
+region: "Eurasia, Africa, Americas"
+cultures: []
+time_range: "~5,000 BCE – 1,200 BCE"
+confidence: "high"
+evidence_type: "archaeological, experimental, textual"
 layout: null
 permalink: /wiki/Metallurgy/index.html
 ---

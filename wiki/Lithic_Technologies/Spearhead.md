@@ -1,16 +1,17 @@
 ---
-title: "Spearhead"
-category: "Lithic Technologies"
-period: "Paleolithic - Neolithic"
-region: "Global"
+title: Spearhead
+category: Lithic Technologies
+period: Paleolithic - Neolithic
+region: Global
 cultures:
-  - "Homo sapiens"
-  - "Neanderthals"
-  - "Homo erectus"
-time_range: "500,000 BP – present"
-confidence: "high"
-evidence_type: "material"
+- Homo sapiens
+- Neanderthals
+- Homo erectus
+time_range: "500,000 BP \u2013 present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Spearhead.html
 ---
 
 # Spearhead

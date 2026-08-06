@@ -1,16 +1,17 @@
 ---
-title: "Hammerstone"
-category: "Lithic Technologies"
-period: "Stone Age"
-region: "Global"
+title: Hammerstone
+category: Lithic Technologies
+period: Stone Age
+region: Global
 cultures:
-  - "Early hominins"
-  - "Acheulean"
-  - "Lomekwian"
-time_range: "3.3 million years ago – present"
-confidence: "high"
-evidence_type: "material"
+- Early hominins
+- Acheulean
+- Lomekwian
+time_range: "3.3 million years ago \u2013 present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Hammerstone.html
 ---
 
 # Hammerstone

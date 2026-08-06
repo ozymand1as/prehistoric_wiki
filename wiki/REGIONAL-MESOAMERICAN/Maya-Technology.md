@@ -1,21 +1,22 @@
 ---
-title: "Maya Technology"
-category: "Regional-Mesoamerican"
+title: Maya Technology
+category: Regional-Mesoamerican
 period:
-  - "Mesoamerican (Classic)"
-  - "Mesoamerican (Postclassic)"
+- Mesoamerican (Classic)
+- Mesoamerican (Postclassic)
 region:
-  - "Yucatán Peninsula"
-  - "Guatemala"
-  - "Belize"
-  - "Honduras"
-  - "El Salvador"
+- "Yucat\xE1n Peninsula"
+- Guatemala
+- Belize
+- Honduras
+- El Salvador
 cultures:
-  - "Maya"
-time_range: "2600 BCE–1697 AD"
-confidence: "high"
-evidence_type: "Material"
+- Maya
+time_range: "2600 BCE\u20131697 AD"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/REGIONAL-MESOAMERICAN/Maya-Technology.html
 ---
 
 # Maya Technology

@@ -1,18 +1,19 @@
 ---
-title: "Stone Tools"
-category: "Lithic Technologies"
-period: "Stone Age"
-region: "Global"
+title: Stone Tools
+category: Lithic Technologies
+period: Stone Age
+region: Global
 cultures:
-  - "Homo habilis"
-  - "Homo erectus" 
-  - "Homo sapiens"
-  - "Neanderthals"
-  - "Denisovans"
-time_range: "3.3 million years ago – present"
-confidence: "high"
-evidence_type: "material"
+- Homo habilis
+- Homo erectus
+- Homo sapiens
+- Neanderthals
+- Denisovans
+time_range: "3.3 million years ago \u2013 present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Stone-Tools.html
 ---
 
 # Stone Tools

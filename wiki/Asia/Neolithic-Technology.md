@@ -1,24 +1,25 @@
 ---
-title: "Asian Neolithic Technology"
-category: "Asia"
-period: "Neolithic"
-region: "Asia"
+title: Asian Neolithic Technology
+category: Asia
+period: Neolithic
+region: Asia
 cultures:
-  - "Yellow River Cultures (Peiligang, Cishan, Yangshao, Longshan)"
-  - "Yangtze River Cultures (Hemudu, Majiabang, Liangzhu)"
-  - "Jōmon Culture (Japan)"
-  - "Jeulmun Culture (Korea)"
-  - "Indus Valley Neolithic (Mehrgarh)"
-  - "Southeast Asian Neolithic (Banyan Valley, Hoabinhian transition)"
-  - "Central Asian Neolithic (Jeitun, Anau)"
-time_range: "~10,000–2,000 BCE"
-confidence: "high"
+- Yellow River Cultures (Peiligang, Cishan, Yangshao, Longshan)
+- Yangtze River Cultures (Hemudu, Majiabang, Liangzhu)
+- "J\u014Dmon Culture (Japan)"
+- Jeulmun Culture (Korea)
+- Indus Valley Neolithic (Mehrgarh)
+- Southeast Asian Neolithic (Banyan Valley, Hoabinhian transition)
+- Central Asian Neolithic (Jeitun, Anau)
+time_range: "~10,000\u20132,000 BCE"
+confidence: high
 evidence_type:
-  - "Material"
-  - "Written"
-  - "Experimental"
-  - "Ethnographic"
+- Material
+- Written
+- Experimental
+- Ethnographic
 layout: null
+permalink: /wiki/Asia/Neolithic-Technology.html
 ---
 
 # Asian Neolithic Technology

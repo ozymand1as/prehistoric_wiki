@@ -20,14 +20,14 @@ This index provides a comprehensive overview of the Primitive Tech Wiki, organiz
 Stone tool technologies and manufacturing methods that dominated the Stone Age.
 
 #### Subtopics:
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Overview of Paleolithic stone tools
-- [[Lithic Technologies/Stone_Age_Choppers]] - Lower Paleolithic chopping tools
-- [[Lithic Technologies/Neolithic_Pottery]] - Pottery in the Neolithic period
-- [[Lithic Technologies/Pottery-Techniques]] - Pottery making techniques
-- [[Lithic Technologies/Stone_Age_Choppers]] - Related to tool development
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Overview of Paleolithic stone tools
+- [[Lithic_Technologies/Choppers]] - Lower Paleolithic chopping tools
+- [[Lithic_Technologies/Neolithic_Pottery]] - Pottery in the Neolithic period
+- [[Lithic_Technologies/Pottery-Techniques]] - Pottery making techniques
+- [[Lithic_Technologies/Stone_Age_Choppers]] - Related to tool development
 
 **Cross-References:**
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Tool evolution
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Tool evolution
 - [[AGRICULTURE/Crop-Domestication]] - Neolithic settlement context
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Technology transition
 
@@ -40,7 +40,7 @@ Technologies and practices related to food production and domestication.
 - [[AGRICULTURE/Crop-Domestication]] - Crop domestication and Neolithic Revolution
 
 **Cross-References:**
-- [[Lithic Technologies/Neolithic_Pottery]] - Food storage
+- [[Lithic_Technologies/Neolithic_Pottery]] - Food storage
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Agricultural tools
 
 ---
@@ -54,7 +54,7 @@ Technologies developed by indigenous peoples in the Pacific Islands.
 
 **Cross-References:**
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Maritime trade
-- [[Lithic Technologies/Pottery-Techniques]] - Lapita pottery
+- [[Lithic_Technologies/Pottery-Techniques]] - Lapita pottery
 
 ---
 
@@ -66,7 +66,7 @@ Technologies developed across the Americas from Paleo-Indian to Postclassic peri
 - [[Americas/Oceania_Technology]] - Pacific Americas connection
 
 **Cross-References:**
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Paleo-Indian tools
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Paleo-Indian tools
 - [[AGRICULTURE/Crop-Domestication]] - Independent origins
 
 ---
@@ -78,7 +78,7 @@ Metalworking technologies from early copper to bronze.
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Bronze Age metallurgy
 
 **Cross-References:**
-- [[Lithic Technologies/Stone_Age_Choppers]] - Pre-metal technology
+- [[Lithic_Technologies/Choppers]] - Pre-metal technology
 - [[AGRICULTURE/Crop-Domestication]] - Agricultural revolution
 
 ---
@@ -90,26 +90,26 @@ Comprehensive technology surveys by geographic region.
 - [[AGRICULTURE/Crop-Domestication]] - Near East/Fertile Crescent
 - [[Americas/Mesoamerican-Tech]] - Central America
 - [[Oceania/Polynesian-Navigation]] - Pacific Islands
-- [[Lithic Technologies/Paleolithic_Stone_Tools]] - Global Paleolithic
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]] - Global Paleolithic
 
 **Cross-References:**
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Regional metallurgy
-- [[Lithic Technologies/Neolithic_Pottery]] - Regional pottery
+- [[Lithic_Technologies/Neolithic_Pottery]] - Regional pottery
 
 ---
 
 ## Quick Reference by Period
 
 ### Paleolithic (3.3 million - 12,000 BCE)
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
-- [[Lithic Technologies/Stone_Age_Choppers]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Choppers]]
 
 ### Epipalaeolithic (12,000 - 10,000 BCE)
-- [[Lithic Technologies/Neolithic_Pottery]] - Early pottery
+- [[Lithic_Technologies/Neolithic_Pottery]] - Early pottery
 
 ### Neolithic (12,000 BCE - 3,300 BCE)
 - [[AGRICULTURE/Crop-Domestication]]
-- [[Lithic Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Early copper
 
 ### Bronze Age (3,300 BCE - 1,200 BCE)
@@ -122,18 +122,18 @@ Comprehensive technology surveys by geographic region.
 ## Quick Reference by Region
 
 ### Europe
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
-- [[Lithic Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
 - [[Metallurgy/Bronze_Age_Metallurgy]]
 
 ### Near East / Fertile Crescent
 - [[AGRICULTURE/Crop-Domestication]]
-- [[Lithic Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
 - [[Metallurgy/Bronze_Age_Metallurgy]]
 
 ### Asia
-- [[Lithic Technologies/Paleolithic_Stone_Tools]]
-- [[Lithic Technologies/Neolithic_Pottery]]
+- [[Lithic_Technologies/Paleolithic_Stone_Tools]]
+- [[Lithic_Technologies/Neolithic_Pottery]]
 - [[Metallurgy/Bronze_Age_Metallurgy]]
 
 ### Americas

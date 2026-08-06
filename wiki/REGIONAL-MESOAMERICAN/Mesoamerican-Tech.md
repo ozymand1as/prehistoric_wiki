@@ -1,26 +1,27 @@
 ---
-title: "Mesoamerican Technology"
-category: "Regional-Mesoamerican"
-period: "Mesoamerican"
+title: Mesoamerican Technology
+category: Regional-Mesoamerican
+period: Mesoamerican
 region:
-  - "Gulf Coast"
-  - "Oaxaca"
-  - "Central Mexico"
-  - "Yucatán"
-  - "West Mexico"
+- Gulf Coast
+- Oaxaca
+- Central Mexico
+- "Yucat\xE1n"
+- West Mexico
 cultures:
-  - "Olmec"
-  - "Maya"
-  - "Teotihuacan"
-  - "Zapotec"
-  - "Toltec"
-  - "Aztec"
-  - "Mixtec"
-  - "Purépecha/Tarascan"
-time_range: "~1500 BCE – 1521 AD"
-confidence: "high"
-evidence_type: "Material"
+- Olmec
+- Maya
+- Teotihuacan
+- Zapotec
+- Toltec
+- Aztec
+- Mixtec
+- "Pur\xE9pecha/Tarascan"
+time_range: "~1500 BCE \u2013 1521 AD"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/REGIONAL-MESOAMERICAN/Mesoamerican-Tech.html
 ---
 
 # Mesoamerican Technology

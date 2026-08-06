@@ -1,19 +1,20 @@
 ---
-title: "Copper Trade"
-category: "Metallurgy"
-period: "Bronze Age"
-region: "Mediterranean, Anatolia, Central Asia, Americas, British Isles"
+title: Copper Trade
+category: Metallurgy
+period: Bronze Age
+region: Mediterranean, Anatolia, Central Asia, Americas, British Isles
 cultures:
-  - "Hittite"
-  - "Mycenaean"
-  - "Minoan"
-  - "Assyrian"
-  - "Indus Valley"
-  - "Andean"
-time_range: "3300 BCE – 1200 BCE"
-confidence: "high"
-evidence_type: "material"
+- Hittite
+- Mycenaean
+- Minoan
+- Assyrian
+- Indus Valley
+- Andean
+time_range: "3300 BCE \u2013 1200 BCE"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Metallurgy/Copper-Trade.html
 ---
 
 # Copper Trade

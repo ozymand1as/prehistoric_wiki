@@ -1,19 +1,20 @@
 ---
-title: "Bronze-Age-Archaeology"
-category: "Metallurgy"
-period: "Bronze Age"
-region: "Near East, Mediterranean, South Asia, East Asia, Europe"
+title: Bronze-Age-Archaeology
+category: Metallurgy
+period: Bronze Age
+region: Near East, Mediterranean, South Asia, East Asia, Europe
 cultures:
-  - "Sumerian"
-  - "Akkadian"
-  - "Hittite"
-  - "Mycenaean"
-  - "Indus Valley"
-  - "Shang Dynasty"
-time_range: "3300 BCE – 1200 BCE"
-confidence: "high"
-evidence_type: "material"
+- Sumerian
+- Akkadian
+- Hittite
+- Mycenaean
+- Indus Valley
+- Shang Dynasty
+time_range: "3300 BCE \u2013 1200 BCE"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Metallurgy/Bronze-Age-Archaeology.html
 ---
 
 # Bronze-Age Archaeology

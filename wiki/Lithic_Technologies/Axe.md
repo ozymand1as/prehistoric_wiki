@@ -1,15 +1,16 @@
 ---
-title: "Axe"
-category: "Lithic Technologies"
-period: "Lower Paleolithic - Neolithic"
-region: "Africa, Europe, Asia"
+title: Axe
+category: Lithic Technologies
+period: Lower Paleolithic - Neolithic
+region: Africa, Europe, Asia
 cultures:
-  - "Acheulean"
-  - "Neolithic cultures"
-time_range: "1.76 million years ago – 4,000 years ago"
-confidence: "high"
-evidence_type: "material"
+- Acheulean
+- Neolithic cultures
+time_range: "1.76 million years ago \u2013 4,000 years ago"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Axe.html
 ---
 
 # Axe

@@ -1,0 +1,383 @@
+{
+  "broken_wiki_links": [
+    {
+      "source": "AGRICULTURE/Tuber-Agriculture.md",
+      "target": "ASIA/Neolithic-Technology",
+      "type": "wiki-style"
+    },
+    {
+      "source": "Americas/Oceania_Technology.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "Asia/Neolithic-Technology.md",
+      "target": "AGRICULTURE/Rice-Agriculture",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Animal_Skins_and_Hides.md",
+      "target": "CLOTHING/Tanning_and_Hide_Processing",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Animal_Skins_and_Hides.md",
+      "target": "CLOTHING/Sewing_and_Construction",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Animal_Skins_and_Hides.md",
+      "target": "HOUSING/Paleolithic_Open_Air_Shelters",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bark_Cloth.md",
+      "target": "CLOTHING/Plant_Fibers",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bark_Cloth.md",
+      "target": "CLOTHING/Weaving",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bark_Cloth.md",
+      "target": "SOCIAL_ORGANIZATION/Ritual_and_Ceremony",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bronze_Age_Textiles.md",
+      "target": "CLOTHING/Weaving",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bronze_Age_Textiles.md",
+      "target": "CLOTHING/Dyeing_and_Decoration",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bronze_Age_Textiles.md",
+      "target": "CLOTHING/Wool_and_Animal_Fibers",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bronze_Age_Textiles.md",
+      "target": "SOCIAL_ORGANIZATION/Craft_Specialization",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Bronze_Age_Textiles.md",
+      "target": "SOCIAL_ORGANIZATION/Prestige_Goods_Economy",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Dyeing-Techniques.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Fursuits.md",
+      "target": "Lithic_Technologies/Stone-Tools|Bone Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Fursuits.md",
+      "target": "Lithic_Technologies/Stone-Tools|Stone Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Fursuits.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Neolithic_Textiles.md",
+      "target": "CLOTHING/Spinning",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Neolithic_Textiles.md",
+      "target": "CLOTHING/Weaving",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Neolithic_Textiles.md",
+      "target": "CLOTHING/Flax_Cultivation",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Neolithic_Textiles.md",
+      "target": "CLOTHING/Wool_and_Animal_Fibers",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Neolithic_Textiles.md",
+      "target": "SOCIAL_ORGANIZATION/Craft_Specialization",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Paleolithic_Clothing.md",
+      "target": "CLOTHING/Tanning_and_Hide_Processing",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Paleolithic_Clothing.md",
+      "target": "CLOTHING/Sewing_and_Construction",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Paleolithic_Clothing.md",
+      "target": "CLOTHING/Bone_Needles_and_Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Paleolithic_Clothing.md",
+      "target": "HOUSING/Paleolithic_Open_Air_Shelters",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Woven-Textiles.md",
+      "target": "CLOTHING/Bark-Cloth|Bark Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Woven-Textiles.md",
+      "target": "CLOTHING/Fursuits|Fur Clothing",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Woven-Textiles.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Bronze_Age_Roundhouses.md",
+      "target": "HOUSING/Wattle_and_Daub",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Bronze_Age_Roundhouses.md",
+      "target": "HOUSING/Thatch_Roofing",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Bronze_Age_Roundhouses.md",
+      "target": "HOUSING/Post_and_Lintel_Construction",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Bronze_Age_Roundhouses.md",
+      "target": "SOCIAL_ORGANIZATION/Tribal_Organization",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Bronze_Age_Roundhouses.md",
+      "target": "SOCIAL_ORGANIZATION/Settlement_Patterns",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Mammoth_Bone_Huts.md",
+      "target": "HOUSING/Paleolithic_Open_Air_Shelters",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Neolithic_Longhouses.md",
+      "target": "HOUSING/Post_and_Lintel_Construction",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Neolithic_Longhouses.md",
+      "target": "HOUSING/Wattle_and_Daub",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Neolithic_Longhouses.md",
+      "target": "HOUSING/Thatch_Roofing",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Neolithic_Longhouses.md",
+      "target": "SOCIAL_ORGANIZATION/Sedentary_Villages",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Paleolithic_Caves_and_Rock_Shelters.md",
+      "target": "HOUSING/Paleolithic_Open_Air_Shelters",
+      "type": "wiki-style"
+    },
+    {
+      "source": "HOUSING/Paleolithic_Caves_and_Rock_Shelters.md",
+      "target": "SOCIAL_ORGANIZATION/Ritual_and_Ceremony",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/Archaeosurgery.md",
+      "target": "Lithic_Technologies/Stone-Tools|Stone Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/Archaeosurgery.md",
+      "target": "Metallurgy/Bronze_Age_Metallurgy|Metal Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/Traditional-Medicine-Prehistoric.md",
+      "target": "Lithic_Technologies/Stone-Tools|Stone Tools",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-full.md",
+      "target": "Medicine/Traditional-Medicine",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-full.md",
+      "target": "Medicine/Archaeosurgery",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-full.md",
+      "target": "Medicine/Herbal-Medicine",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-prehistoric.md",
+      "target": "Medicine/Traditional-Medicine",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-prehistoric.md",
+      "target": "Medicine/Archaeosurgery",
+      "type": "wiki-style"
+    },
+    {
+      "source": "MEDICINE/research-findings-traditional-medicine-prehistoric.md",
+      "target": "Medicine/Herbal-Medicine",
+      "type": "wiki-style"
+    },
+    {
+      "source": "Oceania/Polynesian-Navigation.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Band_Society.md",
+      "target": "SOCIAL_ORGANIZATION/Tribal_Organization",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Band_Society.md",
+      "target": "SOCIAL_ORGANIZATION/Egalitarian_Decision_Making",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Band_Society.md",
+      "target": "SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Band_Society.md",
+      "target": "SOCIAL_ORGANIZATION/Nomadic_Pastoralism",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Band_Society.md",
+      "target": "HOUSING/Paleolithic_Open_Air_Shelters",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "SOCIAL_ORGANIZATION/Tribal_Organization",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "SOCIAL_ORGANIZATION/Redistribution_and_Tribute",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "SOCIAL_ORGANIZATION/Prestige_Goods_Economy",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "SOCIAL_ORGANIZATION/Monumental_Architecture",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "HOUSING/Fortified_Settlements",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Chiefdom.md",
+      "target": "CLOTHING/Textile_Production",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Early_State.md",
+      "target": "SOCIAL_ORGANIZATION/State_Bureaucracy",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Early_State.md",
+      "target": "SOCIAL_ORGANIZATION/Writing_and_Administration",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Early_State.md",
+      "target": "SOCIAL_ORGANIZATION/Organized_Warfare",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Early_State.md",
+      "target": "HOUSING/Settlement_Architecture",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Early_State.md",
+      "target": "CLOTHING/Textile_Production",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "SOCIAL_ORGANIZATION/Gift_Economy_and_Reciprocity",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "SOCIAL_ORGANIZATION/Prestige_Goods_Economy",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "SOCIAL_ORGANIZATION/Redistribution_and_Tribute",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "Metallurgy/Copper_Trade",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "CLOTHING/Textile_Production",
+      "type": "wiki-style"
+    },
+    {
+      "source": "SOCIAL_ORGANIZATION/Trade_Networks.md",
+      "target": "HOUSING/Settlement_Architecture",
+      "type": "wiki-style"
+    },
+    {
+      "source": "CLOTHING/Woven-Textiles.md",
+      "target": "CLOTHING/Bark-Cloth",
+      "type": "wiki-style-with-display",
+      "display": "Bark Cloth"
+    }
+  ],
+  "broken_markdown_links": [],
+  "total_content_pages_checked": 50,
+  "total_wiki_files": 68
+}

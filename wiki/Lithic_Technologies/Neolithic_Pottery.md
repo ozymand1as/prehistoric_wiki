@@ -1,16 +1,18 @@
 ---
-title: "Neolithic Pottery"
-category: "Lithic Technologies"
-period: "Neolithic"
-region: "Fertile Crescent, Europe, East Asia, Americas, Africa, Yangtze River Valley, Mesoamerica"
+title: Neolithic Pottery
+category: Lithic Technologies
+period: Neolithic
+region: Fertile Crescent, Europe, East Asia, Americas, Africa, Yangtze River Valley,
+  Mesoamerica
 cultures:
-  - "Early Neolithic"
-  - "Pottery Neolithic"
-  - "Jōmon"
-time_range: "29,000 BCE – Present"
-confidence: "high"
-evidence_type: "material"
+- Early Neolithic
+- Pottery Neolithic
+- "J\u014Dmon"
+time_range: "29,000 BCE \u2013 Present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Neolithic_Pottery.html
 ---
 
 # Neolithic Pottery

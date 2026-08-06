@@ -1,14 +1,15 @@
 ---
-title: "Dyeing Techniques"
-category: "Clothing"
-period: "Prehistoric – Modern"
-region: "Global"
+title: Dyeing Techniques
+category: Clothing
+period: "Prehistoric \u2013 Modern"
+region: Global
 cultures:
-  - "Universal"
-time_range: "~10,000 BCE – Present"
-confidence: "high"
-evidence_type: "Material"
+- Universal
+time_range: "~10,000 BCE \u2013 Present"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/CLOTHING/Dyeing-Techniques.html
 ---
 
 # Dyeing Techniques

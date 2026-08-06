@@ -1,27 +1,28 @@
 ---
-title: "Mesoamerican Technology"
-category: "Americas"
+title: Mesoamerican Technology
+category: Americas
 period:
-  - "Neolithic"
-  - "Postclassic"
+- Neolithic
+- Postclassic
 region:
-  - "Central America"
-  - "Mexico"
-  - "Guatemala"
-  - "Belize"
-  - "Honduras"
+- Central America
+- Mexico
+- Guatemala
+- Belize
+- Honduras
 cultures:
-  - "Olmec"
-  - "Zapotec"
-  - "Maya"
-  - "Aztec"
-  - "Toltec"
-  - "Mixtec"
-  - "Epi-Olmec"
-time_range: "10,000 BCE – 1521 CE"
-confidence: "high"
-evidence_type: "Material"
+- Olmec
+- Zapotec
+- Maya
+- Aztec
+- Toltec
+- Mixtec
+- Epi-Olmec
+time_range: "10,000 BCE \u2013 1521 CE"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/Americas/Mesoamerican-Tech.html
 ---
 
 # Mesoamerican Technology

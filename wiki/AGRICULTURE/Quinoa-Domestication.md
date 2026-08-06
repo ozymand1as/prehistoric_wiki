@@ -1,16 +1,17 @@
 ---
-title: "Quinoa Domestication"
-category: "Agriculture"
-period: "Neolithic"
-region: "Andes (South America)"
+title: Quinoa Domestication
+category: Agriculture
+period: Neolithic
+region: Andes (South America)
 cultures:
-  - "Inca"
-  - "Tiwanaku"
-  - "pre-Inca Andean cultures"
-time_range: "5,000–7,000 years ago"
-confidence: "high"
-evidence_type: "material"
+- Inca
+- Tiwanaku
+- pre-Inca Andean cultures
+time_range: "5,000\u20137,000 years ago"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/AGRICULTURE/Quinoa-Domestication.html
 ---
 
 # Quinoa Domestication

@@ -1,23 +1,24 @@
 ---
-title: "Woven Textiles"
-category: "Clothing"
-period: "Neolithic – Present"
+title: Woven Textiles
+category: Clothing
+period: "Neolithic \u2013 Present"
 region:
-  - "Egypt"
-  - "Mesopotamia"
-  - "China"
-  - "Andes"
-  - "Europe"
+- Egypt
+- Mesopotamia
+- China
+- Andes
+- Europe
 cultures:
-  - "Ancient Egyptian"
-  - "Mesopotamian"
-  - "Chinese"
-  - "Andean"
-  - "Neolithic European"
-time_range: "~10,000 BCE – Present"
-confidence: "high"
-evidence_type: "Material"
+- Ancient Egyptian
+- Mesopotamian
+- Chinese
+- Andean
+- Neolithic European
+time_range: "~10,000 BCE \u2013 Present"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/CLOTHING/Woven-Textiles.html
 ---
 
 # Woven Textiles

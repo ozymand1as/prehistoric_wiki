@@ -1,22 +1,23 @@
 ---
-title: "European Neolithic Technology"
-category: "Europe"
-period: "Neolithic"
-region: "Europe"
+title: European Neolithic Technology
+category: Europe
+period: Neolithic
+region: Europe
 cultures:
-  - "Linear Pottery Culture (LBK)"
-  - "Cardial Ware Culture"
-  - "Funnelbeaker Culture (TRB)"
-  - "Cucuteni-Trypillia Culture"
-  - "Megalithic Cultures"
-  - "Bell Beaker Culture"
-time_range: "~7,000–2,000 BCE"
-confidence: "high"
+- Linear Pottery Culture (LBK)
+- Cardial Ware Culture
+- Funnelbeaker Culture (TRB)
+- Cucuteni-Trypillia Culture
+- Megalithic Cultures
+- Bell Beaker Culture
+time_range: "~7,000\u20132,000 BCE"
+confidence: high
 evidence_type:
-  - "Material"
-  - "Ethnographic"
-  - "Experimental"
+- Material
+- Ethnographic
+- Experimental
 layout: null
+permalink: /wiki/Europe/Neolithic-Technology.html
 ---
 
 # European Neolithic Technology

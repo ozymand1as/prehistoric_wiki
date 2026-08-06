@@ -1,12 +1,12 @@
 ---
-title: "Trade Networks"
-category: "Social Organization"
-period: "Paleolithic to Bronze Age"
-region: "Global"
+title: Trade Networks
+category: Social Organization
+period: Paleolithic to Bronze Age
+region: Global
 cultures: []
-time_range: "~100,000 years ago to 1,200 BCE"
-confidence: "high"
-evidence_type: "archaeological, geochemical, textual"
+time_range: ~100,000 years ago to 1,200 BCE
+confidence: high
+evidence_type: archaeological, geochemical, textual
 layout: null
 permalink: /wiki/SOCIAL_ORGANIZATION/Trade_Networks.html
 ---
@@ -159,7 +159,7 @@ Trade in prehistory operated through multiple mechanisms simultaneously: direct 
 - [[SOCIAL_ORGANIZATION/Prestige_Goods_Economy]] - Elite trade
 - [[SOCIAL_ORGANIZATION/Redistribution_and_Tribute]] - Centralized collection
 - [[Metallurgy/Bronze_Age_Metallurgy]] - Metal trade
-- [[Metallurgy/Copper_Trade]] - Copper networks
+- [[Metallurgy/Copper-Trade]] - Copper networks
 - [[Lithic_Technologies/Stone-Tools]] - Stone material trade
 - [[CLOTHING/Textile_Production]] - Textile trade
 - [[HOUSING/Settlement_Architecture]] - Trade centers

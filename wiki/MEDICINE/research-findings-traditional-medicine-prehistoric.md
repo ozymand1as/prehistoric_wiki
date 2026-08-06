@@ -1,18 +1,19 @@
 ---
-title: "Traditional Medicine / Research Findings (Prehistoric)"
-category: "Medicine"
-period: "Prehistoric"
-region: "Global"
+title: Traditional Medicine / Research Findings (Prehistoric)
+category: Medicine
+period: Prehistoric
+region: Global
 cultures:
-  - "Indigenous"
-  - "Neanderthal"
-time_range: "3.3 million BCE - 5,000 BCE (invention of writing)"
-confidence: "medium"
+- Indigenous
+- Neanderthal
+time_range: 3.3 million BCE - 5,000 BCE (invention of writing)
+confidence: medium
 evidence_type:
-  - "Material"
-  - "Ethnographic"
-  - "Inferred"
+- Material
+- Ethnographic
+- Inferred
 layout: null
+permalink: /wiki/MEDICINE/research-findings-traditional-medicine-prehistoric.html
 ---
 
 # Traditional Medicine / Research Findings (Pre historic)
@@ -57,9 +58,9 @@ Prehistoric medicine covers the period from the first use of stone tools (~3.3 m
 
 ## Related Technologies
 
-- [[Medicine/Traditional-Medicine]]
-- [[Medicine/Archaeosurgery]]
-- [[Medicine/Herbal-Medicine]]
+- [[MEDICINE/Traditional-Medicine]]
+- [[MEDICINE/Archaeosurgery]]
+- [[MEDICINE/Herbal-Medicine]]
 
 ## Sources
 

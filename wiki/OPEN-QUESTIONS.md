@@ -1,3 +1,16 @@
+---
+title: "Open Research Questions"
+category: "Open Questions"
+period: "Stone Age to Bronze Age"
+region: "Global"
+cultures: []
+time_range: "3.3 million years ago to 3,300 BCE"
+confidence: "Variable by topic"
+evidence_type: "Material, Ethnographic, Archaeological, Oral Tradition"
+layout: null
+permalink: /wiki/OPEN-QUESTIONS.html
+---
+
 # Open Research Questions
 
 ## General Technology Questions

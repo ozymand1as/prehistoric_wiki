@@ -1,17 +1,18 @@
 ---
-title: "Maize Agriculture"
-category: "Agriculture"
-period: "Neolithic - Modern"
-region: "Mesoamerica, Americas, Europe, Africa, Asia"
+title: Maize Agriculture
+category: Agriculture
+period: Neolithic - Modern
+region: Mesoamerica, Americas, Europe, Africa, Asia
 cultures:
-  - "Olmec"
-  - "Maya"
-  - "Aztec"
-  - "Zapotec"
-time_range: "10,000 BCE – present"
-confidence: "high"
-evidence_type: "material"
+- Olmec
+- Maya
+- Aztec
+- Zapotec
+time_range: "10,000 BCE \u2013 present"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/AGRICULTURE/Maize-Agriculture.html
 ---
 
 # Maize Agriculture

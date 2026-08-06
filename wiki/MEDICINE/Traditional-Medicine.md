@@ -1,17 +1,18 @@
 ---
-title: "Traditional Medicine"
-category: "Medicine"
-period: "Prehistoric – Present"
-region: "Global"
+title: Traditional Medicine
+category: Medicine
+period: "Prehistoric \u2013 Present"
+region: Global
 cultures:
-  - "All indigenous cultures worldwide"
-time_range: "Prehistoric – Present"
-confidence: "high"
+- All indigenous cultures worldwide
+time_range: "Prehistoric \u2013 Present"
+confidence: high
 evidence_type:
-  - "Ethnographic"
-  - "Written"
-  - "Inferred"
+- Ethnographic
+- Written
+- Inferred
 layout: null
+permalink: /wiki/MEDICINE/Traditional-Medicine.html
 ---
 
 # Traditional Medicine

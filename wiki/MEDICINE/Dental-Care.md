@@ -1,16 +1,17 @@
 ---
-title: "Dental Care"
-category: "Medicine"
-period: "Prehistoric"
-region: "Worldwide"
+title: Dental Care
+category: Medicine
+period: Prehistoric
+region: Worldwide
 cultures:
-  - "Various prehistoric cultures"
-time_range: "~9,000 years ago (earliest evidence) – Present"
-confidence: "high"
+- Various prehistoric cultures
+time_range: "~9,000 years ago (earliest evidence) \u2013 Present"
+confidence: high
 evidence_type:
-  - "Material"
-  - "Ethnographic"
+- Material
+- Ethnographic
 layout: null
+permalink: /wiki/MEDICINE/Dental-Care.html
 ---
 
 # Dental Care

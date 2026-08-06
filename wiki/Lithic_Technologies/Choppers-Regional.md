@@ -1,16 +1,17 @@
 ---
-title: "Choppers-Regional"
-category: "Lithic Technologies"
-period: "Lower Paleolithic"
-region: "Africa, Europe, Asia"
+title: Choppers-Regional
+category: Lithic Technologies
+period: Lower Paleolithic
+region: Africa, Europe, Asia
 cultures:
-  - "Oldowan"
-  - "Abbevillian"
-  - "Clactonian"
-time_range: "2.6 million years ago – 1.0 million years ago"
-confidence: "high"
-evidence_type: "material"
+- Oldowan
+- Abbevillian
+- Clactonian
+time_range: "2.6 million years ago \u2013 1.0 million years ago"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Lithic_Technologies/Choppers-Regional.html
 ---
 
 # Choppers Regional Variations

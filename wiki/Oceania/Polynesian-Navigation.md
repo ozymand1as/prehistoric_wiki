@@ -1,22 +1,23 @@
 ---
-title: "Polynesian Navigation"
-category: "Oceania"
+title: Polynesian Navigation
+category: Oceania
 period:
-  - "Stone Age"
-  - "Neolithic"
+- Stone Age
+- Neolithic
 region:
-  - "Pacific Islands"
-  - "Polynesia"
-  - "Melanesia"
-  - "Micronesia"
+- Pacific Islands
+- Polynesia
+- Melanesia
+- Micronesia
 cultures:
-  - "Polynesians"
-  - "Lapitans"
-  - "Austronesian speakers"
-time_range: "3000 BCE – Present (oral tradition continues)"
-confidence: "high"
-evidence_type: "Ethnographic"
+- Polynesians
+- Lapitans
+- Austronesian speakers
+time_range: "3000 BCE \u2013 Present (oral tradition continues)"
+confidence: high
+evidence_type: Ethnographic
 layout: null
+permalink: /wiki/Oceania/Polynesian-Navigation.html
 ---
 
 # Polynesian Navigation

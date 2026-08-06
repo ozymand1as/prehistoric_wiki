@@ -1,14 +1,15 @@
 ---
-title: "Early Agriculture and Domestication"
-category: "Agriculture"
-period: "Neolithic"
-region: "Global (11+ centers of origin)"
+title: Early Agriculture and Domestication
+category: Agriculture
+period: Neolithic
+region: Global (11+ centers of origin)
 cultures:
-  - "Neolithic cultures worldwide"
-time_range: "105,000 BCE – 2,000 BCE"
-confidence: "high"
-evidence_type: "material"
+- Neolithic cultures worldwide
+time_range: "105,000 BCE \u2013 2,000 BCE"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/AGRICULTURE/Early-Agriculture-and-Domestication.html
 ---
 
 # Early Agriculture and Domestication

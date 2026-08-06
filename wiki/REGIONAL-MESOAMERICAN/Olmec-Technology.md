@@ -1,14 +1,15 @@
 ---
-title: "Olmec Technology"
-category: "Regional-Mesoamerican"
-period: "Mesoamerican (Formative)"
-region: "Gulf Coast of Mexico (Veracruz, Tabasco)"
+title: Olmec Technology
+category: Regional-Mesoamerican
+period: Mesoamerican (Formative)
+region: Gulf Coast of Mexico (Veracruz, Tabasco)
 cultures:
-  - "Olmec"
-time_range: "1500–400 BCE"
-confidence: "high"
-evidence_type: "Material"
+- Olmec
+time_range: "1500\u2013400 BCE"
+confidence: high
+evidence_type: Material
 layout: null
+permalink: /wiki/REGIONAL-MESOAMERICAN/Olmec-Technology.html
 ---
 
 # Olmec Technology

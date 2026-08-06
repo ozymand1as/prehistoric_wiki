@@ -1,17 +1,18 @@
 ---
-title: "Traditional Medicine in Prehistoric Times"
-category: "Medicine"
-period: "Prehistoric"
-region: "Global"
+title: Traditional Medicine in Prehistoric Times
+category: Medicine
+period: Prehistoric
+region: Global
 cultures:
-  - "Indigenous"
-time_range: "3.3 million BCE - 1,000 CE"
-confidence: "medium"
-evidence_type: 
-  - "Material"
-  - "Ethnographic"
-  - "Inferred"
+- Indigenous
+time_range: 3.3 million BCE - 1,000 CE
+confidence: medium
+evidence_type:
+- Material
+- Ethnographic
+- Inferred
 layout: null
+permalink: /wiki/MEDICINE/Traditional-Medicine-Prehistoric.html
 ---
 
 # Traditional Medicine in Prehistoric Times

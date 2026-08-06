@@ -1,18 +1,19 @@
 ---
-title: "Bronze Age Metallurgy"
-category: "Metallurgy"
-period: "Bronze Age"
-region: "Mesopotamia, Anatolia, Egypt, China, Mediterranean"
+title: Bronze Age Metallurgy
+category: Metallurgy
+period: Bronze Age
+region: Mesopotamia, Anatolia, Egypt, China, Mediterranean
 cultures:
-  - "Sumerian"
-  - "Akkadian"
-  - "Egyptian"
-  - "Shang"
-  - "Mycenaean"
-time_range: "3300 BCE – 1200 BCE"
-confidence: "high"
-evidence_type: "material"
+- Sumerian
+- Akkadian
+- Egyptian
+- Shang
+- Mycenaean
+time_range: "3300 BCE \u2013 1200 BCE"
+confidence: high
+evidence_type: material
 layout: null
+permalink: /wiki/Metallurgy/Bronze_Age_Metallurgy.html
 ---
 
 # Bronze Age Metallurgy

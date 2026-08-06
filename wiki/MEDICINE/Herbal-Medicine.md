@@ -1,23 +1,24 @@
 ---
-title: "Herbal Medicine"
-category: "Medicine"
-period: "Prehistoric – Present"
-region: "Global"
+title: Herbal Medicine
+category: Medicine
+period: "Prehistoric \u2013 Present"
+region: Global
 cultures:
-  - "Sumerian"
-  - "Egyptian"
-  - "Indian"
-  - "Chinese"
-  - "Greek"
-  - "Roman"
-  - "Indigenous"
-time_range: "60,000 BCE – 1,000 CE"
-confidence: "high"
+- Sumerian
+- Egyptian
+- Indian
+- Chinese
+- Greek
+- Roman
+- Indigenous
+time_range: "60,000 BCE \u2013 1,000 CE"
+confidence: high
 evidence_type:
-  - "Ethnographic"
-  - "Written"
-  - "Material"
+- Ethnographic
+- Written
+- Material
 layout: null
+permalink: /wiki/MEDICINE/Herbal-Medicine.html
 ---
 
 # Herbal Medicine
